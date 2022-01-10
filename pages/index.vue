@@ -7,7 +7,345 @@
             <SecondSection />
             <ThirdSection />
 
-        
+        <div class="section section-padding-02" style="background-color: #f5f5f5; margin-top: 60px;">
+            <div class="container added">
+
+                <!-- Brand Logo Wrapper Start -->
+                <div class="brand-logo-wrapper">
+                   
+            
+                    <!-- Section Title Start -->
+                    <div class="section-title shape-03 text-center">
+                        <h2 class="main-title">Accreditation</h2>
+                    </div>
+                    <!-- Section Title End -->
+
+                    <!-- Brand Logo Start -->
+                    <div class="brand-logo brand-active">
+                        <div class="swiper-container brands">
+                            <div class="swiper-wrapper">
+
+                                <!-- Single Brand Start -->
+                                <div class="single-brand swiper-slide">
+                                    <img src="assets/images/brand/brand-01.png" alt="Brand">
+                                </div>
+                                <!-- Single Brand End -->
+
+                                <!-- Single Brand Start -->
+                                <div class="single-brand swiper-slide">
+                                    <img src="assets/images/brand/brand-02.png" alt="Brand">
+                                </div>
+                                <!-- Single Brand End -->
+
+                                <!-- Single Brand Start -->
+                                <div class="single-brand swiper-slide">
+                                    <img src="assets/images/brand/brand-03.png" alt="Brand">
+                                </div>
+                                <!-- Single Brand End -->
+
+                                <!-- Single Brand Start -->
+                                <div class="single-brand swiper-slide">
+                                    <img src="assets/images/brand/brand-04.png" alt="Brand">
+                                </div>
+                                <!-- Single Brand End -->
+
+                                <!-- Single Brand Start -->
+                                <div class="single-brand swiper-slide">
+                                    <img src="assets/images/brand/brand-05.png" alt="Brand">
+                                </div>
+                                <!-- Single Brand End -->
+
+                                <!-- Single Brand Start -->
+                                <div class="single-brand swiper-slide">
+                                    <img src="assets/images/brand/brand-06.png" alt="Brand">
+                                </div>
+                                <!-- Single Brand End -->
+
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Brand Logo End -->
+
+                </div>
+                <!-- Brand Logo Wrapper End -->
+
+            </div>
+        </div>
+        <!-- Brand Logo End -->
+        <!-- How It Work End -->
+        <div class="section section-padding mt-n1" id="sign_up">
+            <div class="container">
+
+                <!-- Section Title Start -->
+                <div class="section-title shape-03 text-center">
+                    <!-- <h5 class="sub-title">Over 1,235+ Course</h5> -->
+                    <h2 class="main-title">How It <span> Work?</span></h2>
+                </div>
+                <!-- Section Title End -->
+
+                <!-- How it Work Wrapper Start -->
+                <div class="how-it-work-wrapper">
+
+                    <!-- Single Work Start -->
+                    <div class="single-work">
+
+                        <div class="work-icon">
+                            <i class="flaticon-transparency"></i>
+                        </div>
+                        <div class="work-content">
+                            <h3 class="title">Find Your Course</h3>
+                            <p>It has survived not only centurie also leap into electronic.</p>
+                        </div>
+                    </div>
+                    <!-- Single Work End -->
+
+                    
+
+                    <!-- Single Work Start -->
+                    <div class="single-work">
+
+                        <div class="work-icon">
+                            <i class="flaticon-forms"></i>
+                        </div>
+                        <div class="work-content">
+                            <h3 class="title">Enroll</h3>
+                            <p>It has survived not only centurie also leap into electronic.</p>
+                        </div>
+                    </div>
+                    <!-- Single Work End -->
+
+              
+
+                    <!-- Single Work Start -->
+                    <div class="single-work">
+
+                        <div class="work-icon">
+                            <i class="flaticon-badge"></i>
+                        </div>
+                        <div class="work-content">
+                            <h3 class="title">Get Certificate</h3>
+                            <p>It has survived not only centurie also leap into electronic.</p>
+                        </div>
+                    </div>
+                    <!-- Single Work End -->
+
+                </div>
+
+            </div>
+        </div>
+        <!-- How It Work End -->
+
+        <!-- Download App Start -->
+        <div class="section section-padding download-section">
+
+            <div class="app-shape-1"></div>
+            <div class="app-shape-2"></div>
+            <div class="app-shape-3"></div>
+            <div class="app-shape-4"></div>
+
+            <h2 class="main-title" style="color: white; font: size 14px; text-align: center; padding-bottom: 18px;">Looking for the course that interest you?</h2>
+
+            <div class="container search_container">
+
+            <div class="courses-search">
+                <form action="#" style="justify-content: center;">
+                    <input type="text" placeholder="Search your course">
+                    <button><i class="flaticon-magnifying-glass"></i></button>
+                </form>
+            </div>
+            </div>
+
+            <!-- <div class="container">
+                <div class="row">
+                    
+                         
+                    
+                </div>
+                    <div class="row text-center">
+                        <div class="col">
+                        <div class="counter">
+                  <i class="fa fa-code fa-2x"></i>
+                  <h2 class="timer count-title count-number" data-to="100" data-speed="1500"></h2>
+                   <p class="count-text ">Trained</p>
+                </div>
+                        </div>
+                          <div class="col">
+                           <div class="counter">
+                  <i class="fa fa-coffee fa-2x"></i>
+                  <h2 class="timer count-title count-number" data-to="1700" data-speed="1500"></h2>
+                  <p class="count-text ">Certified</p>
+                </div>
+                          </div>
+                          <div class="col">
+                              <div class="counter">
+                  <i class="fa fa-lightbulb-o fa-2x"></i>
+                  <h2 class="timer count-title count-number" data-to="11900" data-speed="1500"></h2>
+                  <p class="count-text ">Countries</p>
+                </div></div>
+                          <div class="col">
+                          <div class="counter">
+                  <i class="fa fa-bug fa-2x"></i>
+                  <h2 class="timer count-title count-number" data-to="157" data-speed="1500"></h2>
+                  <p class="count-text ">Courses</p>
+                </div>
+                          </div>
+                     </div>
+            </div> -->
+        </div>
+        <!-- Download App End -->
+
+        <!-- Testimonial End -->
+        <div class="section section-padding-02 mt-n1 mb-5">
+            <div class="container">
+
+                <!-- Section Title Start -->
+                <div class="section-title shape-03 text-center">
+                    <h2 class="main-title"> <span> Student Testimonial</span></h2>
+
+                    <h5 class="sub-title" style="color: black;">Feedback From Student</h5>
+                </div>
+                <!-- Section Title End -->
+
+                <!-- Testimonial Wrapper End -->
+                <div class="testimonial-wrapper testimonial-active">
+                    <div class="swiper-container testimonial">
+                        <div class="swiper-wrapper">
+                            <!-- Single Testimonial Start -->
+                            <div class="single-testimonial swiper-slide">
+                                <div class="testimonial-author">
+                                    <div class="author-thumb">
+                                        <img src="assets/images/author/author-06.jpg" alt="Author">
+
+                                    </div>
+
+                                    
+                                </div>
+                                <div class="testimonial-content">
+                                    <p>Lorem Ipsum has been the industry's standard dummy text since the 1500s, when an unknown printer took a galley of type and scrambled it to make type specimen book has survived not five centuries but also the leap into electronic.</p>
+                                    <h4 class="name">Sara Alexander</h4>
+                                    <span class="designation">Product Designer, USA</span>
+                                </div>
+                                <span class="rating-star">
+                                    <span class="rating-bar" style="width: 80%;"></span>
+                            </span>
+                            </div>
+                            <!-- Single Testimonial End -->
+
+                            <!-- Single Testimonial Start -->
+                            <div class="single-testimonial swiper-slide">
+                                <div class="testimonial-author">
+                                    <div class="author-thumb">
+                                        <img src="assets/images/author/author-07.jpg" alt="Author">
+
+                                    </div>
+
+                                    
+                                </div>
+                                <div class="testimonial-content">
+                                    <p>Lorem Ipsum has been the industry's standard dummy text since the 1500s, when an unknown printer took a galley of type and scrambled it to make type specimen book has survived not five centuries but also the leap into electronic.</p>
+                                    <h4 class="name">Sara Alexander</h4>
+                                    <span class="designation">Product Designer, USA</span>
+                                </div>
+                                <span class="rating-star">
+                                    <span class="rating-bar" style="width: 80%;"></span>
+                            </span>
+                            </div>
+                            <!-- Single Testimonial End -->
+
+                            <!-- Single Testimonial Start -->
+                            <div class="single-testimonial swiper-slide">
+                                <div class="testimonial-author">
+                                    <div class="author-thumb">
+                                        <img src="assets/images/author/author-09.jpg" alt="Author">
+
+                                    </div>
+
+                                    
+                                </div>
+                                <div class="testimonial-content">
+                                    <p>Lorem Ipsum has been the industry's standard dummy text since the 1500s, when an unknown printer took a galley of type and scrambled it to make type specimen book has survived not five centuries but also the leap into electronic.</p>
+                                    <h4 class="name">Sara Alexander</h4>
+                                    <span class="designation">Product Designer, USA</span>
+                                </div>
+                                <span class="rating-star">
+                                    <span class="rating-bar" style="width: 80%;"></span>
+                            </span>
+                            </div>
+                            <!-- Single Testimonial End -->
+
+                             <!-- Single Testimonial Start -->
+                             <div class="single-testimonial swiper-slide">
+                                <div class="testimonial-author">
+                                    <div class="author-thumb">
+                                        <img src="assets/images/author/author-06.jpg" alt="Author">
+
+                                    </div>
+
+                                    
+                                </div>
+                                <div class="testimonial-content">
+                                    <p>Lorem Ipsum has been the industry's standard dummy text since the 1500s, when an unknown printer took a galley of type and scrambled it to make type specimen book has survived not five centuries but also the leap into electronic.</p>
+                                    <h4 class="name">Sara Alexander</h4>
+                                    <span class="designation">Product Designer, USA</span>
+                                </div>
+                                <span class="rating-star">
+                                    <span class="rating-bar" style="width: 80%;"></span>
+                            </span>
+                            </div>
+                            <!-- Single Testimonial End -->
+
+                            <!-- Single Testimonial Start -->
+                            <div class="single-testimonial swiper-slide">
+                                <div class="testimonial-author">
+                                    <div class="author-thumb">
+                                        <img src="assets/images/author/author-07.jpg" alt="Author">
+
+                                    </div>
+
+                                    
+                                </div>
+                                <div class="testimonial-content">
+                                    <p>Lorem Ipsum has been the industry's standard dummy text since the 1500s, when an unknown printer took a galley of type and scrambled it to make type specimen book has survived not five centuries but also the leap into electronic.</p>
+                                    <h4 class="name">Sara Alexander</h4>
+                                    <span class="designation">Product Designer, USA</span>
+                                </div>
+                                <span class="rating-star">
+                                    <span class="rating-bar" style="width: 80%;"></span>
+                            </span>
+                            </div>
+                            <!-- Single Testimonial End -->
+
+                            <!-- Single Testimonial Start -->
+                            <div class="single-testimonial swiper-slide">
+                                <div class="testimonial-author">
+                                    <div class="author-thumb">
+                                        <img src="assets/images/author/author-09.jpg" alt="Author">
+
+                                    </div>
+
+                                    
+                                </div>
+                                <div class="testimonial-content">
+                                    <p>Lorem Ipsum has been the industry's standard dummy text since the 1500s, when an unknown printer took a galley of type and scrambled it to make type specimen book has survived not five centuries but also the leap into electronic.</p>
+                                    <h4 class="name">Sara Alexander</h4>
+                                    <span class="designation">Product Designer, USA</span>
+                                </div>
+                                <span class="rating-star">
+                                    <span class="rating-bar" style="width: 80%;"></span>
+                            </span>
+                            </div>
+                            <!-- Single Testimonial End -->
+                        </div>
+
+                        <!-- Add Pagination -->
+                        <div class="swiper-pagination"></div>
+                    </div>
+                </div>
+                <!-- Testimonial Wrapper End -->
+
+            </div>
+        </div>
+
         <!-- Footer Start  -->
         <div class="section footer-section mt-5" id="footer">
             <div class="footer-widget-section">
