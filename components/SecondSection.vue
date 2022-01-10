@@ -152,7 +152,7 @@ export default {
 
 
 @media only screen and (max-width: 575px) {
-  .desk, .brands{
+  .desk, .brands, .brands-i{
       display: none;
   }
 

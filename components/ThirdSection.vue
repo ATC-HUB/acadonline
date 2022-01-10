@@ -1456,4 +1456,24 @@ export default{
   font-size: 50px;
 }
 
+
+@media only screen and (max-width: 575px) {
+  .desk, .brands{
+      display: none;
+  }
+
+  .mob .texts{
+      padding: inherit;
+      text-align: left;
+      margin-top: 50px;
+      line-height: 40px;
+  }
+
+  .mob{
+      margin: 0px 10px
+  }
+
+}
+
+
 </style>
