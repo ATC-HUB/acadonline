@@ -1,0 +1,46 @@
+<template>
+  <div class="section slider-section">
+    <div class="container">
+      <div class="slider-content">
+        <h2 class="main-title">
+          It's time to learn and acquire digital Tech skills.
+        </h2>
+        <br />
+        <h6 class="sub-title">
+          Acquire the 21st century skills so as to improve your relevance and
+          employability in this ever changing world.
+        </h6>
+        <a class="btn btn-hover-dark" href="#">Get Started</a>
+      </div>
+    </div>
+    <div class="slider-images">
+      <div class="images">
+        <img
+          src="assets/images/slider/slider-1.png"
+          alt="Slider"
+          class="img1"
+        />
+        <img
+          src="assets/images/slider/slider-2.png"
+          alt="Slider"
+          class="img2"
+        />
+      </div>
+      <div class="app-shape-1">
+        <img
+          src="assets/images/circleBackground.svg"
+          alt="Slider"
+          class="img-fluid"
+        />
+      </div>
+    </div>
+  </div>
+</template>
+
+<script>
+export default {
+  name: "FirstSection",
+};
+</script>
+
+<style></style>
