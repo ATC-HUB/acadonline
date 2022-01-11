@@ -1458,7 +1458,7 @@ export default{
 
 
 @media only screen and (max-width: 575px) {
-  .desk, .brands{
+  .brands{
       display: none;
   }
 
@@ -1473,7 +1473,23 @@ export default{
       margin: 0px 10px
   }
 
+  .sm-texts {
+  padding: 0 50px;
 }
+
+.big-texts {
+  padding: 0 40px;
+  font-size: 35px;
+}
+
+}
+
+@media only screen and (min-width: 578px) and (max-width: 992px) {
+  .texts, .big-texts, .sm-texts{
+    padding: 0px 80px;
+  }}
+
+
 
 
 </style>

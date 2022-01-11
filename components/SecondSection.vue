@@ -159,7 +159,7 @@ export default {
   .mob .texts{
       padding: inherit;
       text-align: left;
-      margin-top: 50px;
+      margin-top: 30px;
       line-height: 40px;
   }
 
@@ -175,4 +175,9 @@ export default {
   }
 }
 
+@media only screen and (min-width: 578px) and (max-width: 769px) {
+    .brands, .brands-i{
+        display: none;
+    }
+}
 </style>
