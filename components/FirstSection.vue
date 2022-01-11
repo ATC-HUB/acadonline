@@ -45,5 +45,16 @@ export default {
 
 <style>
 
+@media only screen and (max-width: 575px) {
+  .slider-content .main-title {
+    font-size: 50px;
+    font-weight: 600px;
+  }
+  .slider-content .sub-title{
+    font-size: 20px;
+    line-height: 25px;
+    font-weight: 0 !important;
+  }
+}
 
 </style>
