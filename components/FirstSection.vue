@@ -49,6 +49,8 @@ export default {
   .slider-content .main-title {
     font-size: 50px;
     font-weight: 600px;
+    margin-top: 0px;
+    line-height: 55px;
   }
   .slider-content .sub-title{
     font-size: 20px;
