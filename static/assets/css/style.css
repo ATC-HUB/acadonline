@@ -18045,11 +18045,11 @@ img {
 
 @media only screen and (max-width: 575px) {
   .slider-content .main-title {
-    font-size: 42px;
+    font-size: 45px;
   }
   .slider-content .sub-title{
-    font-size: 25px;
-    line-height: 40px;
+    font-size: 20px;
+    line-height: 25px;
     font-weight: 0 !important;
   }
 }

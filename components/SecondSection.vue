@@ -160,7 +160,8 @@ export default {
       padding: inherit;
       text-align: left;
       margin-top: 30px;
-      line-height: 40px;
+      line-height: 25px;
+      font-size: 20px;
   }
 
   .mob{
