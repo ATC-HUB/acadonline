@@ -17167,7 +17167,7 @@ img {
 .mobile-menu {
   position: fixed;
   top: 0;
-  width: 100%;
+  width: 300px;
   left: -305px;
   background-color: #fff;
   z-index: 999;
