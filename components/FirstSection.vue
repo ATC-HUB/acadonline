@@ -21,7 +21,7 @@
           class="img1"
         />
         <img
-          src="assets/images/slider/slider-2.png"
+          src="assets/images/slider/slider-3.png"
           alt="Slider"
           class="img2"
         />
