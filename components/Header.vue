@@ -80,6 +80,9 @@
   .sticky .header-main-wrapper .header-logo .mob-logo{
       display: none;
   }
+  .mob-logo{
+      display: none;
+  }
 }
 
 @media only screen and (max-width: 575px) {
