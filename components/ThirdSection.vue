@@ -1438,21 +1438,22 @@ export default{
 
 .sm-texts {
   text-align: center;
-  padding: 0 247px;
+  padding: 0 170px;
   color: #888888;
   font-size: 25px;
   font-family: "Poppins";
   font-weight: 300;
   line-height: 35px;
+  margin-top: 20px
 }
 
 .big-texts {
   margin-top: 80px;
   text-align: center;
-  padding: 0 180px;
+  padding: 0 120px;
   color: #150c21;
   font-family: "Poppins";
-  font-weight: 400;
+  font-weight: 500;
   font-size: 50px;
 }
 
@@ -1470,16 +1471,23 @@ export default{
   }
 
   .mob{
-      margin: 0px 10px
+      margin: 0px 0px
+  }
+
+  .big-texts, .sm-texts{
+    text-align: left;
   }
 
   .sm-texts {
-  padding: 0 50px;
+  padding: 0px 15px;
+  font-size: 16px;
+  line-height: 25px;
 }
 
 .big-texts {
-  padding: 0 40px;
-  font-size: 35px;
+    margin-top: 0px;
+  padding: 0px 15px;
+  font-size: 30px;
 }
 
 }
@@ -1487,7 +1495,13 @@ export default{
 @media only screen and (min-width: 578px) and (max-width: 992px) {
   .texts, .big-texts, .sm-texts{
     padding: 0px 80px;
-  }}
+  }
+
+  .big-texts{
+      margin-top: 20px;
+  }
+  
+  }
 
 
 

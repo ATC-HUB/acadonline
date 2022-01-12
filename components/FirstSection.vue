@@ -54,7 +54,7 @@ export default {
   }
   .slider-content .sub-title{
     font-size: 20px;
-    line-height: 25px;
+    line-height: 30px;
     font-weight: 0 !important;
   }
 }

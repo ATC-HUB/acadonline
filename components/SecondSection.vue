@@ -82,6 +82,61 @@
         </div>
         
       </div>
+
+      <div class="row mobile-brands">
+        <div class="col-4 brand-item">
+          <img src="assets/images/brand/image 8.png"/>
+        </div>
+        <div class="col-4 brand-item">
+          <img src="assets/images/brand/image 9.png"/>
+        </div>
+        <div class="col-4 brand-item">
+          <img src="assets/images/brand/image 10.png"/>
+        </div>
+        <div class="col-4 brand-item">
+          <img src="assets/images/brand/image 11.png"/>
+        </div>
+        <div class="col-4 brand-item">
+          <img src="assets/images/brand/image 12.png"/>
+        </div>
+        <div class="col-4 brand-item">
+          <img src="assets/images/brand/image 13.png"/>
+        </div>
+        <div class="col-4 brand-item">
+          <img src="assets/images/brand/Matplotlib.png"/>
+        </div>
+        <div class="col-4 brand-item">
+          <img src="assets/images/brand/Adobe.png"/>
+        </div>
+        <div class="col-4 brand-item">
+          <img src="assets/images/brand/Anaconda.png"/>
+        </div>
+        <div class="col-4 brand-item">
+          <img src="assets/images/brand/Facebook.png"/>
+        </div>
+        <div class="col-4 brand-item">
+          <img src="assets/images/brand/Creative cloud.png"/>
+        </div>
+        <div class="col-4 brand-item">
+          <img src="assets/images/brand/Tableu.png"/>
+        </div>
+        <div class="col-4 brand-item">
+          <img src="assets/images/brand/Vs code.png"/>
+        </div>
+        <div class="col-4 brand-item">
+          <img src="assets/images/brand/R studio.png"/>
+        </div>
+        <div class="col-4 brand-item">
+          <img src="assets/images/brand/Laravel.png"/>
+        </div>
+        
+        <div class="col-4 brand-item">
+          <img src="assets/images/brand/Django.png"/>
+        </div>
+        <div class="col-4 brand-item">
+          <img src="assets/images/brand/Figma.png"/>
+        </div>
+      </div>
       
     </div>
   </div>
@@ -99,6 +154,7 @@ export default {
   width: inherit;
 }
 
+
 .imgs:hover {
   -webkit-filter: grayscale(100%) !important;
   filter: grayscale(100%) !important;
@@ -114,15 +170,14 @@ export default {
 }
 
 .texts {
-  margin-top: 80px;
   margin-bottom: 40px;
   text-align: center;
   padding: 0 247px;
   color: #888888;
-  font-size: 25px;
+  font-size: 20px;
   font-family: "Poppins";
   font-weight: 300;
-  line-height: 35px;
+  line-height: 30px;
 }
 
 .brands {
@@ -156,16 +211,23 @@ export default {
       display: none;
   }
 
+  .mobile-brands .brand-item{
+    align-self: center;
+    justify-content: center;
+    display: flex;
+    padding-top: 15px;
+    padding-bottom: 15px;
+  }
   .mob .texts{
-      padding: inherit;
+      padding: 0px 0px;
       text-align: left;
-      margin-top: 30px;
       line-height: 25px;
       font-size: 20px;
+      margin-bottom: 20px;
   }
 
   .mob{
-      margin: 0px 10px
+      margin: 0px 0px
   }
 
 }
@@ -176,9 +238,17 @@ export default {
   }
 }
 
-@media only screen and (min-width: 578px) and (max-width: 769px) {
-    .brands, .brands-i{
-        display: none;
-    }
+@media only screen and (min-width: 578px){
+  .texts{
+    margin-top: 80px;
+  }
+
+  .mobile-brands{
+    display: none;
+  }
 }
+
+
+
+
 </style>
