@@ -221,7 +221,7 @@ export default {
   .mob .texts{
       padding: 0px 0px;
       text-align: left;
-      line-height: 25px;
+      line-height: 30px;
       font-size: 20px;
       margin-bottom: 20px;
   }
