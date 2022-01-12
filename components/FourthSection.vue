@@ -6,8 +6,8 @@
         <div class="col-md-6">
             <h4 class="text">Are You looking to train your team with Digital Skills?</h4>
             <p class="sm-text">A well trained personel is a guarantee for effective and efficient service delivery for optimum productivity. </p>
-            <img src="assets/images/pic1.png" class="mob-imgs">
-            <img src="assets/images/pic2.png" class="mob-imgs mt-4">
+            <img src="assets/images/pic1.png" class="mob-imgs" width="100%">
+            <img src="assets/images/pic2.png" class="mob-imgs mt-4" width="100%">
 
             <button class="btn">Contact US</button>
         </div>
@@ -79,6 +79,7 @@ export default {
       font-size: 20px;
       font-weight: 300;
       line-height: 30px;
+      margin-bottom: 50px;
   }
 }
 
