@@ -4,7 +4,8 @@
                 <div class="container">
                     <div class="header-main-wrapper">
                         <div class="header-logo">
-                            <a href="/index"><img src="assets/images/logo.png" alt="Logo" width="168"></a>
+                            <a href="/index"><img src="assets/images/logo.png"  class="desk-logo" alt="Logo" width="168"></a>
+                            <a href="/index"><img src="assets/images/Vector.png" class="mob-logo" alt="Logo"></a>
                         </div>
                         <!-- Header Logo End -->
                         
@@ -64,4 +65,37 @@
 
 <style>
 
+.mob-logo{
+    width: 39px !important;
+    height: 50px;
+}
+@media only screen and (max-width: 575px){
+.sticky .header-main-wrapper {
+    margin-left: -15px;
+    margin-right: -15px;
+    padding: 15px 15px;
+}
+}
+@media only screen and (min-width: 575px) {
+  .sticky .header-main-wrapper .header-logo .mob-logo{
+      display: none;
+  }
+}
+
+@media only screen and (max-width: 575px) {
+  .mob-logo{
+      display: none;
+  }
+
+  .desk-logo{
+      width: 80%;
+  }
+
+  .sticky .header-main-wrapper .header-logo .mob-logo{
+      display: block;
+  }
+  .sticky .header-main-wrapper .header-logo .desk-logo{
+      display: none;
+  }
+}
 </style>
