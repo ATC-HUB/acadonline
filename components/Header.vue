@@ -66,14 +66,18 @@
 <style>
 
 .mob-logo{
-    width: 39px !important;
-    height: 50px;
+    width: 23px !important;
+    height: 30px;
 }
 @media only screen and (max-width: 575px){
 .sticky .header-main-wrapper {
     margin-left: -15px;
     margin-right: -15px;
     padding: 15px 15px;
+}
+.header-main-wrapper {
+    margin-left: 0px;
+    margin-right: 0px;
 }
 }
 @media only screen and (min-width: 575px) {

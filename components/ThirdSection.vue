@@ -1480,7 +1480,7 @@ export default{
 
   .sm-texts {
   padding: 0px 15px;
-  font-size: 16px;
+  font-size: 20px;
   line-height: 25px;
 }
 

@@ -16700,8 +16700,8 @@ img {
 
 @media only screen and (max-width: 575px) {
   .header-main-wrapper {
-    margin-left: 0;
-    margin-right: 0;
+    margin-left: 0px;
+    margin-right: 0px;
   }
 }
 
