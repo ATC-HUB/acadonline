@@ -1959,6 +1959,10 @@ export default{
       display: none;
   }
 
+  .add-border-left{
+    padding-left: 35px;
+}
+
   .mob .texts{
       padding: inherit;
       text-align: left;
