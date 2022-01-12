@@ -6,72 +6,8 @@
             <FirstSection />
             <SecondSection />
             <ThirdSection />
+            <FourthSection />
 
-        <div class="section section-padding-02" style="background-color: #f5f5f5; margin-top: 60px;">
-            <div class="container added">
-
-                <!-- Brand Logo Wrapper Start -->
-                <div class="brand-logo-wrapper">
-                   
-            
-                    <!-- Section Title Start -->
-                    <div class="section-title shape-03 text-center">
-                        <h2 class="main-title">Accreditation</h2>
-                    </div>
-                    <!-- Section Title End -->
-
-                    <!-- Brand Logo Start -->
-                    <div class="brand-logo brand-active">
-                        <div class="swiper-container brands">
-                            <div class="swiper-wrapper">
-
-                                <!-- Single Brand Start -->
-                                <div class="single-brand swiper-slide">
-                                    <img src="assets/images/brand/brand-01.png" alt="Brand">
-                                </div>
-                                <!-- Single Brand End -->
-
-                                <!-- Single Brand Start -->
-                                <div class="single-brand swiper-slide">
-                                    <img src="assets/images/brand/brand-02.png" alt="Brand">
-                                </div>
-                                <!-- Single Brand End -->
-
-                                <!-- Single Brand Start -->
-                                <div class="single-brand swiper-slide">
-                                    <img src="assets/images/brand/brand-03.png" alt="Brand">
-                                </div>
-                                <!-- Single Brand End -->
-
-                                <!-- Single Brand Start -->
-                                <div class="single-brand swiper-slide">
-                                    <img src="assets/images/brand/brand-04.png" alt="Brand">
-                                </div>
-                                <!-- Single Brand End -->
-
-                                <!-- Single Brand Start -->
-                                <div class="single-brand swiper-slide">
-                                    <img src="assets/images/brand/brand-05.png" alt="Brand">
-                                </div>
-                                <!-- Single Brand End -->
-
-                                <!-- Single Brand Start -->
-                                <div class="single-brand swiper-slide">
-                                    <img src="assets/images/brand/brand-06.png" alt="Brand">
-                                </div>
-                                <!-- Single Brand End -->
-
-                            </div>
-                        </div>
-                    </div>
-                    <!-- Brand Logo End -->
-
-                </div>
-                <!-- Brand Logo Wrapper End -->
-
-            </div>
-        </div>
-        <!-- Brand Logo End -->
         <!-- How It Work End -->
         <div class="section section-padding mt-n1" id="sign_up">
             <div class="container">

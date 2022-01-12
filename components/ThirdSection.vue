@@ -39,27 +39,29 @@
                                     <!-- Single Courses Start -->
                                     <div class="single-courses">
                                         <div class="courses-images">
-                                            <a href="courses-details.html"><img src="assets/images/courses/courses-01.jpg" alt="Courses"></a>
+                                            <a href="#"><img src="assets/images/courses/courseImg.png" alt="Courses"></a>
                                         </div>
                                         <div class="courses-content">
-                                            
-
-                                            <h4 class="title"><a href="courses-details.html">Data Science and Machine Learning with Python - Hands On!</a></h4>
+                                            <h4 class="title"><a href="#">Create Amazing Colour Scheme for Your UX Design Projects</a></h4>
                                             <div class="courses-meta">
-                                                <span> <i class="icofont-clock-time" style="color: #1207ab"></i> 08 hr 15 mins</span>
-                                                <span> <i class="icofont-read-book" style="color: #1207ab"></i> Online </span>
+                                                <div class="courses-review">
+                                                    <span class="rating-count">4.9</span>
+                                                    <span class="rating-star">
+															<span class="rating-bar" style="width: 80%;"></span>
+                                                    </span>
+                                                </div>
+                                                
                                             </div>
                                             <div class="courses-price-review">
                                                 <div class="courses-price">
+                                                    <p class="courses-meta add-margin">Online</p>
                                                     <span class="sale-parice">#385.00</span>
-                                                    <span class="old-parice">#440.00</span>
                                                 </div>
-                                                <div class="courses-review">
-                                                    <span class="rating-count">4.9</span>
-                                                    <span class="rating-star">
-															<span class="rating-bar" style="width: 80%;"></span>
-                                                    </span>
+                                                <div class="courses-price add-border-left">
+                                                    <p class="courses-meta add-margin">Offline</p>
+                                                    <span class="sale-parice">#385.00</span>
                                                 </div>
+                                                
                                             </div>
                                         </div>
                                     </div>
@@ -69,26 +71,29 @@
                                     <!-- Single Courses Start -->
                                     <div class="single-courses">
                                         <div class="courses-images">
-                                            <a href="courses-details.html"><img src="assets/images/courses/courses-02.jpg" alt="Courses"></a>
+                                            <a href="#"><img src="assets/images/courses/courseImg.png" alt="Courses"></a>
                                         </div>
                                         <div class="courses-content">
-                                            
-
-                                            <h4 class="title"><a href="courses-details.html">Create Amazing Color Schemes for Your UX Design Projects</a></h4>
+                                            <h4 class="title"><a href="#">Create Amazing Colour Scheme for Your UX Design Projects</a></h4>
                                             <div class="courses-meta">
-                                                <span> <i class="icofont-clock-time" style="color: #1207ab"></i> 08 hr 15 mins</span>
-                                                <span> <i class="icofont-read-book" style="color: #1207ab" ></i> Online </span>
-                                            </div>
-                                            <div class="courses-price-review">
-                                                <div class="courses-price">
-                                                    <span class="sale-parice">#420.00</span>
-                                                </div>
                                                 <div class="courses-review">
                                                     <span class="rating-count">4.9</span>
                                                     <span class="rating-star">
 															<span class="rating-bar" style="width: 80%;"></span>
                                                     </span>
                                                 </div>
+                                                
+                                            </div>
+                                            <div class="courses-price-review">
+                                                <div class="courses-price">
+                                                    <p class="courses-meta add-margin">Online</p>
+                                                    <span class="sale-parice">#385.00</span>
+                                                </div>
+                                                <div class="courses-price add-border-left">
+                                                    <p class="courses-meta add-margin">Offline</p>
+                                                    <span class="sale-parice">#385.00</span>
+                                                </div>
+                                                
                                             </div>
                                         </div>
                                     </div>
@@ -98,24 +103,29 @@
                                     <!-- Single Courses Start -->
                                     <div class="single-courses">
                                         <div class="courses-images">
-                                            <a href="courses-details.html"><img src="assets/images/courses/courses-03.jpg" alt="Courses"></a>
+                                            <a href="#"><img src="assets/images/courses/courseImg.png" alt="Courses"></a>
                                         </div>
                                         <div class="courses-content">
-                                            <h4 class="title"><a href="courses-details.html">Culture & Leadership: Strategies for a Successful Business</a></h4>
+                                            <h4 class="title"><a href="#">Create Amazing Colour Scheme for Your UX Design Projects</a></h4>
                                             <div class="courses-meta">
-                                                <span> <i class="icofont-clock-time" style="color: #1207ab"></i> 08 hr 15 mins</span>
-                                                <span> <i class="icofont-read-book" style="color: #1207ab"></i> Online </span>
-                                            </div>
-                                            <div class="courses-price-review">
-                                                <div class="courses-price">
-                                                    <span class="sale-parice">#295.00</span>
-                                                </div>
                                                 <div class="courses-review">
                                                     <span class="rating-count">4.9</span>
                                                     <span class="rating-star">
 															<span class="rating-bar" style="width: 80%;"></span>
                                                     </span>
                                                 </div>
+                                                
+                                            </div>
+                                            <div class="courses-price-review">
+                                                <div class="courses-price">
+                                                    <p class="courses-meta add-margin">Online</p>
+                                                    <span class="sale-parice">#385.00</span>
+                                                </div>
+                                                <div class="courses-price add-border-left">
+                                                    <p class="courses-meta add-margin">Offline</p>
+                                                    <span class="sale-parice">#385.00</span>
+                                                </div>
+                                                
                                             </div>
                                         </div>
                                     </div>
@@ -125,25 +135,29 @@
                                     <!-- Single Courses Start -->
                                     <div class="single-courses">
                                         <div class="courses-images">
-                                            <a href="courses-details.html"><img src="assets/images/courses/courses-04.jpg" alt="Courses"></a>
+                                            <a href="#"><img src="assets/images/courses/courseImg.png" alt="Courses"></a>
                                         </div>
                                         <div class="courses-content">
-                                         
-                                            <h4 class="title"><a href="courses-details.html">Finance Series: Learn to Budget and Calculate your Net Worth.</a></h4>
+                                            <h4 class="title"><a href="#">Create Amazing Colour Scheme for Your UX Design Projects</a></h4>
                                             <div class="courses-meta">
-                                                <span> <i class="icofont-clock-time" style="color: #1207ab"></i> 08 hr 15 mins</span>
-                                                <span> <i class="icofont-read-book" style="color: #1207ab"></i> Online </span>
-                                            </div>
-                                            <div class="courses-price-review">
-                                                <div class="courses-price">
-                                                    <span class="sale-parice">Free</span>
-                                                </div>
                                                 <div class="courses-review">
                                                     <span class="rating-count">4.9</span>
                                                     <span class="rating-star">
 															<span class="rating-bar" style="width: 80%;"></span>
                                                     </span>
                                                 </div>
+                                                
+                                            </div>
+                                            <div class="courses-price-review">
+                                                <div class="courses-price">
+                                                    <p class="courses-meta add-margin">Online</p>
+                                                    <span class="sale-parice">#385.00</span>
+                                                </div>
+                                                <div class="courses-price add-border-left">
+                                                    <p class="courses-meta add-margin">Offline</p>
+                                                    <span class="sale-parice">#385.00</span>
+                                                </div>
+                                                
                                             </div>
                                         </div>
                                     </div>
@@ -153,25 +167,29 @@
                                     <!-- Single Courses Start -->
                                     <div class="single-courses">
                                         <div class="courses-images">
-                                            <a href="courses-details.html"><img src="assets/images/courses/courses-05.jpg" alt="Courses"></a>
+                                            <a href="#"><img src="assets/images/courses/courseImg.png" alt="Courses"></a>
                                         </div>
                                         <div class="courses-content">
-                                         
-                                            <h4 class="title"><a href="courses-details.html">Build Brand Into Marketing: Tackling the New Marketing Landscape</a></h4>
+                                            <h4 class="title"><a href="#">Create Amazing Colour Scheme for Your UX Design Projects</a></h4>
                                             <div class="courses-meta">
-                                                <span> <i class="icofont-clock-time" style="color: #1207ab"></i> 08 hr 15 mins</span>
-                                                <span> <i class="icofont-read-book" style="color: #1207ab"></i> Online </span>
-                                            </div>
-                                            <div class="courses-price-review">
-                                                <div class="courses-price">
-                                                    <span class="sale-parice">#136.00</span>
-                                                </div>
                                                 <div class="courses-review">
                                                     <span class="rating-count">4.9</span>
                                                     <span class="rating-star">
 															<span class="rating-bar" style="width: 80%;"></span>
                                                     </span>
                                                 </div>
+                                                
+                                            </div>
+                                            <div class="courses-price-review">
+                                                <div class="courses-price">
+                                                    <p class="courses-meta add-margin">Online</p>
+                                                    <span class="sale-parice">#385.00</span>
+                                                </div>
+                                                <div class="courses-price add-border-left">
+                                                    <p class="courses-meta add-margin">Offline</p>
+                                                    <span class="sale-parice">#385.00</span>
+                                                </div>
+                                                
                                             </div>
                                         </div>
                                     </div>
@@ -181,25 +199,29 @@
                                     <!-- Single Courses Start -->
                                     <div class="single-courses">
                                         <div class="courses-images">
-                                            <a href="courses-details.html"><img src="assets/images/courses/courses-06.jpg" alt="Courses"></a>
+                                            <a href="#"><img src="assets/images/courses/courseImg.png" alt="Courses"></a>
                                         </div>
                                         <div class="courses-content">
-                                            
-                                            <h4 class="title"><a href="courses-details.html">Graphic Design: Illustrating Badges and Icons with Geometric Shapes</a></h4>
+                                            <h4 class="title"><a href="#">Create Amazing Colour Scheme for Your UX Design Projects</a></h4>
                                             <div class="courses-meta">
-                                                <span> <i class="icofont-clock-time" style="color: #1207ab"></i> 08 hr 15 mins</span>
-                                                <span> <i class="icofont-read-book" style="color: #1207ab"></i> Online </span>
-                                            </div>
-                                            <div class="courses-price-review">
-                                                <div class="courses-price">
-                                                    <span class="sale-parice">#237.00</span>
-                                                </div>
                                                 <div class="courses-review">
                                                     <span class="rating-count">4.9</span>
                                                     <span class="rating-star">
 															<span class="rating-bar" style="width: 80%;"></span>
                                                     </span>
                                                 </div>
+                                                
+                                            </div>
+                                            <div class="courses-price-review">
+                                                <div class="courses-price">
+                                                    <p class="courses-meta add-margin">Online</p>
+                                                    <span class="sale-parice">#385.00</span>
+                                                </div>
+                                                <div class="courses-price add-border-left">
+                                                    <p class="courses-meta add-margin">Offline</p>
+                                                    <span class="sale-parice">#385.00</span>
+                                                </div>
+                                                
                                             </div>
                                         </div>
                                     </div>
@@ -209,25 +231,29 @@
                                     <!-- Single Courses Start -->
                                     <div class="single-courses">
                                         <div class="courses-images">
-                                            <a href="courses-details.html"><img src="assets/images/courses/courses-05.jpg" alt="Courses"></a>
+                                            <a href="#"><img src="assets/images/courses/courseImg.png" alt="Courses"></a>
                                         </div>
                                         <div class="courses-content">
-                                         
-                                            <h4 class="title"><a href="courses-details.html">Build Brand Into Marketing: Tackling the New Marketing Landscape</a></h4>
+                                            <h4 class="title"><a href="#">Create Amazing Colour Scheme for Your UX Design Projects</a></h4>
                                             <div class="courses-meta">
-                                                <span> <i class="icofont-clock-time" style="color: #1207ab"></i> 08 hr 15 mins</span>
-                                                <span> <i class="icofont-read-book" style="color: #1207ab"></i> Online </span>
-                                            </div>
-                                            <div class="courses-price-review">
-                                                <div class="courses-price">
-                                                    <span class="sale-parice">#136.00</span>
-                                                </div>
                                                 <div class="courses-review">
                                                     <span class="rating-count">4.9</span>
                                                     <span class="rating-star">
 															<span class="rating-bar" style="width: 80%;"></span>
                                                     </span>
                                                 </div>
+                                                
+                                            </div>
+                                            <div class="courses-price-review">
+                                                <div class="courses-price">
+                                                    <p class="courses-meta add-margin">Online</p>
+                                                    <span class="sale-parice">#385.00</span>
+                                                </div>
+                                                <div class="courses-price add-border-left">
+                                                    <p class="courses-meta add-margin">Offline</p>
+                                                    <span class="sale-parice">#385.00</span>
+                                                </div>
+                                                
                                             </div>
                                         </div>
                                     </div>
@@ -237,30 +263,35 @@
                                     <!-- Single Courses Start -->
                                     <div class="single-courses">
                                         <div class="courses-images">
-                                            <a href="courses-details.html"><img src="assets/images/courses/courses-06.jpg" alt="Courses"></a>
+                                            <a href="#"><img src="assets/images/courses/courseImg.png" alt="Courses"></a>
                                         </div>
                                         <div class="courses-content">
-                                            
-                                            <h4 class="title"><a href="courses-details.html">Graphic Design: Illustrating Badges and Icons with Geometric Shapes</a></h4>
+                                            <h4 class="title"><a href="#">Create Amazing Colour Scheme for Your UX Design Projects</a></h4>
                                             <div class="courses-meta">
-                                                <span> <i class="icofont-clock-time" style="color: #1207ab"></i> 08 hr 15 mins</span>
-                                                <span> <i class="icofont-read-book" style="color: #1207ab"></i> Online </span>
-                                            </div>
-                                            <div class="courses-price-review">
-                                                <div class="courses-price">
-                                                    <span class="sale-parice">#237.00</span>
-                                                </div>
                                                 <div class="courses-review">
                                                     <span class="rating-count">4.9</span>
                                                     <span class="rating-star">
 															<span class="rating-bar" style="width: 80%;"></span>
                                                     </span>
                                                 </div>
+                                                
+                                            </div>
+                                            <div class="courses-price-review">
+                                                <div class="courses-price">
+                                                    <p class="courses-meta add-margin">Online</p>
+                                                    <span class="sale-parice">#385.00</span>
+                                                </div>
+                                                <div class="courses-price add-border-left">
+                                                    <p class="courses-meta add-margin">Offline</p>
+                                                    <span class="sale-parice">#385.00</span>
+                                                </div>
+                                                
                                             </div>
                                         </div>
                                     </div>
                                     <!-- Single Courses End -->
                                 </div>
+                                
                             </div>
                         </div>
                         <!-- All Courses Wrapper End -->
@@ -271,170 +302,257 @@
                         <!-- All Courses Wrapper Start -->
                         <div class="courses-wrapper">
                             <div class="row">
-                                <div class="col-lg-4 col-md-6">
+                                <div class="col-lg-3 col-md-6">
                                     <!-- Single Courses Start -->
                                     <div class="single-courses">
                                         <div class="courses-images">
-                                            <a href="courses-details.html"><img src="assets/images/courses/courses-02.jpg" alt="Courses"></a>
+                                            <a href="#"><img src="assets/images/courses/courseImg.png" alt="Courses"></a>
                                         </div>
                                         <div class="courses-content">
-                                       
-                                            <h4 class="title"><a href="courses-details.html">Data Science and Machine Learning with Python - Hands On!</a></h4>
+                                            <h4 class="title"><a href="#">Create Amazing Colour Scheme for Your UX Design Projects</a></h4>
                                             <div class="courses-meta">
-                                                <span> <i class="icofont-clock-time" style="color: #1207ab"></i> 08 hr 15 mins</span>
-                                                <span> <i class="icofont-read-book" style="color: #1207ab"></i> Online </span>
+                                                <div class="courses-review">
+                                                    <span class="rating-count">4.9</span>
+                                                    <span class="rating-star">
+															<span class="rating-bar" style="width: 80%;"></span>
+                                                    </span>
+                                                </div>
+                                                
                                             </div>
                                             <div class="courses-price-review">
                                                 <div class="courses-price">
+                                                    <p class="courses-meta add-margin">Online</p>
                                                     <span class="sale-parice">#385.00</span>
-                                                    <span class="old-parice">#440.00</span>
                                                 </div>
-                                                <div class="courses-review">
-                                                    <span class="rating-count">4.9</span>
-                                                    <span class="rating-star">
-															<span class="rating-bar" style="width: 80%;"></span>
-                                                    </span>
+                                                <div class="courses-price add-border-left">
+                                                    <p class="courses-meta add-margin">Offline</p>
+                                                    <span class="sale-parice">#385.00</span>
                                                 </div>
+                                                
                                             </div>
                                         </div>
                                     </div>
                                     <!-- Single Courses End -->
                                 </div>
-                                <div class="col-lg-4 col-md-6">
+                                <div class="col-lg-3 col-md-6">
                                     <!-- Single Courses Start -->
                                     <div class="single-courses">
                                         <div class="courses-images">
-                                            <a href="courses-details.html"><img src="assets/images/courses/courses-05.jpg" alt="Courses"></a>
+                                            <a href="#"><img src="assets/images/courses/courseImg.png" alt="Courses"></a>
                                         </div>
                                         <div class="courses-content">
-                                           
-                                            <h4 class="title"><a href="courses-details.html">Create Amazing Color Schemes for Your UX Design Projects</a></h4>
+                                            <h4 class="title"><a href="#">Create Amazing Colour Scheme for Your UX Design Projects</a></h4>
                                             <div class="courses-meta">
-                                                <span> <i class="icofont-clock-time" style="color: #1207ab"></i> 08 hr 15 mins</span>
-                                                <span> <i class="icofont-read-book" style="color: #1207ab"></i> Online </span>
-                                            </div>
-                                            <div class="courses-price-review">
-                                                <div class="courses-price">
-                                                    <span class="sale-parice">#420.00</span>
-                                                </div>
                                                 <div class="courses-review">
                                                     <span class="rating-count">4.9</span>
                                                     <span class="rating-star">
 															<span class="rating-bar" style="width: 80%;"></span>
                                                     </span>
                                                 </div>
+                                                
+                                            </div>
+                                            <div class="courses-price-review">
+                                                <div class="courses-price">
+                                                    <p class="courses-meta add-margin">Online</p>
+                                                    <span class="sale-parice">#385.00</span>
+                                                </div>
+                                                <div class="courses-price add-border-left">
+                                                    <p class="courses-meta add-margin">Offline</p>
+                                                    <span class="sale-parice">#385.00</span>
+                                                </div>
+                                                
                                             </div>
                                         </div>
                                     </div>
                                     <!-- Single Courses End -->
                                 </div>
-                                <div class="col-lg-4 col-md-6">
+                                <div class="col-lg-3 col-md-6">
                                     <!-- Single Courses Start -->
                                     <div class="single-courses">
                                         <div class="courses-images">
-                                            <a href="courses-details.html"><img src="assets/images/courses/courses-01.jpg" alt="Courses"></a>
+                                            <a href="#"><img src="assets/images/courses/courseImg.png" alt="Courses"></a>
                                         </div>
                                         <div class="courses-content">
-                                           
-                                            <h4 class="title"><a href="courses-details.html">Culture & Leadership: Strategies for a Successful Business</a></h4>
+                                            <h4 class="title"><a href="#">Create Amazing Colour Scheme for Your UX Design Projects</a></h4>
                                             <div class="courses-meta">
-                                                <span> <i class="icofont-clock-time" style="color: #1207ab"></i> 08 hr 15 mins</span>
-                                                <span> <i class="icofont-read-book" style="color: #1207ab"></i> Online </span>
-                                            </div>
-                                            <div class="courses-price-review">
-                                                <div class="courses-price">
-                                                    <span class="sale-parice">#295.00</span>
-                                                </div>
                                                 <div class="courses-review">
                                                     <span class="rating-count">4.9</span>
                                                     <span class="rating-star">
 															<span class="rating-bar" style="width: 80%;"></span>
                                                     </span>
                                                 </div>
+                                                
+                                            </div>
+                                            <div class="courses-price-review">
+                                                <div class="courses-price">
+                                                    <p class="courses-meta add-margin">Online</p>
+                                                    <span class="sale-parice">#385.00</span>
+                                                </div>
+                                                <div class="courses-price add-border-left">
+                                                    <p class="courses-meta add-margin">Offline</p>
+                                                    <span class="sale-parice">#385.00</span>
+                                                </div>
+                                                
                                             </div>
                                         </div>
                                     </div>
                                     <!-- Single Courses End -->
                                 </div>
-                                <div class="col-lg-4 col-md-6">
+                                <div class="col-lg-3 col-md-6">
                                     <!-- Single Courses Start -->
                                     <div class="single-courses">
                                         <div class="courses-images">
-                                            <a href="courses-details.html"><img src="assets/images/courses/courses-04.jpg" alt="Courses"></a>
+                                            <a href="#"><img src="assets/images/courses/courseImg.png" alt="Courses"></a>
                                         </div>
                                         <div class="courses-content">
-                                            
-                                            <h4 class="title"><a href="courses-details.html">Finance Series: Learn to Budget and Calculate your Net Worth.</a></h4>
+                                            <h4 class="title"><a href="#">Create Amazing Colour Scheme for Your UX Design Projects</a></h4>
                                             <div class="courses-meta">
-                                                <span> <i class="icofont-clock-time" style="color: #1207ab"></i> 08 hr 15 mins</span>
-                                                <span> <i class="icofont-read-book" style="color: #1207ab"></i> Online </span>
-                                            </div>
-                                            <div class="courses-price-review">
-                                                <div class="courses-price">
-                                                    <span class="sale-parice">Free</span>
-                                                </div>
                                                 <div class="courses-review">
                                                     <span class="rating-count">4.9</span>
                                                     <span class="rating-star">
 															<span class="rating-bar" style="width: 80%;"></span>
                                                     </span>
                                                 </div>
+                                                
+                                            </div>
+                                            <div class="courses-price-review">
+                                                <div class="courses-price">
+                                                    <p class="courses-meta add-margin">Online</p>
+                                                    <span class="sale-parice">#385.00</span>
+                                                </div>
+                                                <div class="courses-price add-border-left">
+                                                    <p class="courses-meta add-margin">Offline</p>
+                                                    <span class="sale-parice">#385.00</span>
+                                                </div>
+                                                
                                             </div>
                                         </div>
                                     </div>
                                     <!-- Single Courses End -->
                                 </div>
-                                <div class="col-lg-4 col-md-6">
+                                <div class="col-lg-3 col-md-6">
                                     <!-- Single Courses Start -->
                                     <div class="single-courses">
                                         <div class="courses-images">
-                                            <a href="courses-details.html"><img src="assets/images/courses/courses-06.jpg" alt="Courses"></a>
+                                            <a href="#"><img src="assets/images/courses/courseImg.png" alt="Courses"></a>
                                         </div>
                                         <div class="courses-content">
-                                        
-                                            <h4 class="title"><a href="courses-details.html">Build Brand Into Marketing: Tackling the New Marketing Landscape</a></h4>
+                                            <h4 class="title"><a href="#">Create Amazing Colour Scheme for Your UX Design Projects</a></h4>
                                             <div class="courses-meta">
-                                                <span> <i class="icofont-clock-time" style="color: #1207ab"></i> 08 hr 15 mins</span>
-                                                <span> <i class="icofont-read-book" style="color: #1207ab"></i> Online </span>
-                                            </div>
-                                            <div class="courses-price-review">
-                                                <div class="courses-price">
-                                                    <span class="sale-parice">#136.00</span>
-                                                </div>
                                                 <div class="courses-review">
                                                     <span class="rating-count">4.9</span>
                                                     <span class="rating-star">
 															<span class="rating-bar" style="width: 80%;"></span>
                                                     </span>
                                                 </div>
+                                                
+                                            </div>
+                                            <div class="courses-price-review">
+                                                <div class="courses-price">
+                                                    <p class="courses-meta add-margin">Online</p>
+                                                    <span class="sale-parice">#385.00</span>
+                                                </div>
+                                                <div class="courses-price add-border-left">
+                                                    <p class="courses-meta add-margin">Offline</p>
+                                                    <span class="sale-parice">#385.00</span>
+                                                </div>
+                                                
                                             </div>
                                         </div>
                                     </div>
                                     <!-- Single Courses End -->
                                 </div>
-                                <div class="col-lg-4 col-md-6">
+                                <div class="col-lg-3 col-md-6">
                                     <!-- Single Courses Start -->
                                     <div class="single-courses">
                                         <div class="courses-images">
-                                            <a href="courses-details.html"><img src="assets/images/courses/courses-03.jpg" alt="Courses"></a>
+                                            <a href="#"><img src="assets/images/courses/courseImg.png" alt="Courses"></a>
                                         </div>
                                         <div class="courses-content">
-                                         
-                                            <h4 class="title"><a href="courses-details.html">Graphic Design: Illustrating Badges and Icons with Geometric Shapes</a></h4>
+                                            <h4 class="title"><a href="#">Create Amazing Colour Scheme for Your UX Design Projects</a></h4>
                                             <div class="courses-meta">
-                                                <span> <i class="icofont-clock-time" style="color: #1207ab"></i> 08 hr 15 mins</span>
-                                                <span> <i class="icofont-read-book" style="color: #1207ab"></i> Online </span>
-                                            </div>
-                                            <div class="courses-price-review">
-                                                <div class="courses-price">
-                                                    <span class="sale-parice">#237.00</span>
-                                                </div>
                                                 <div class="courses-review">
                                                     <span class="rating-count">4.9</span>
                                                     <span class="rating-star">
 															<span class="rating-bar" style="width: 80%;"></span>
                                                     </span>
                                                 </div>
+                                                
+                                            </div>
+                                            <div class="courses-price-review">
+                                                <div class="courses-price">
+                                                    <p class="courses-meta add-margin">Online</p>
+                                                    <span class="sale-parice">#385.00</span>
+                                                </div>
+                                                <div class="courses-price add-border-left">
+                                                    <p class="courses-meta add-margin">Offline</p>
+                                                    <span class="sale-parice">#385.00</span>
+                                                </div>
+                                                
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- Single Courses End -->
+                                </div>
+                                <div class="col-lg-3 col-md-6">
+                                    <!-- Single Courses Start -->
+                                    <div class="single-courses">
+                                        <div class="courses-images">
+                                            <a href="#"><img src="assets/images/courses/courseImg.png" alt="Courses"></a>
+                                        </div>
+                                        <div class="courses-content">
+                                            <h4 class="title"><a href="#">Create Amazing Colour Scheme for Your UX Design Projects</a></h4>
+                                            <div class="courses-meta">
+                                                <div class="courses-review">
+                                                    <span class="rating-count">4.9</span>
+                                                    <span class="rating-star">
+															<span class="rating-bar" style="width: 80%;"></span>
+                                                    </span>
+                                                </div>
+                                                
+                                            </div>
+                                            <div class="courses-price-review">
+                                                <div class="courses-price">
+                                                    <p class="courses-meta add-margin">Online</p>
+                                                    <span class="sale-parice">#385.00</span>
+                                                </div>
+                                                <div class="courses-price add-border-left">
+                                                    <p class="courses-meta add-margin">Offline</p>
+                                                    <span class="sale-parice">#385.00</span>
+                                                </div>
+                                                
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- Single Courses End -->
+                                </div>
+                                <div class="col-lg-3 col-md-6">
+                                    <!-- Single Courses Start -->
+                                    <div class="single-courses">
+                                        <div class="courses-images">
+                                            <a href="#"><img src="assets/images/courses/courseImg.png" alt="Courses"></a>
+                                        </div>
+                                        <div class="courses-content">
+                                            <h4 class="title"><a href="#">Create Amazing Colour Scheme for Your UX Design Projects</a></h4>
+                                            <div class="courses-meta">
+                                                <div class="courses-review">
+                                                    <span class="rating-count">4.9</span>
+                                                    <span class="rating-star">
+															<span class="rating-bar" style="width: 80%;"></span>
+                                                    </span>
+                                                </div>
+                                                
+                                            </div>
+                                            <div class="courses-price-review">
+                                                <div class="courses-price">
+                                                    <p class="courses-meta add-margin">Online</p>
+                                                    <span class="sale-parice">#385.00</span>
+                                                </div>
+                                                <div class="courses-price add-border-left">
+                                                    <p class="courses-meta add-margin">Offline</p>
+                                                    <span class="sale-parice">#385.00</span>
+                                                </div>
+                                                
                                             </div>
                                         </div>
                                     </div>
@@ -450,169 +568,257 @@
                         <!-- All Courses Wrapper Start -->
                         <div class="courses-wrapper">
                             <div class="row">
-                                <div class="col-lg-4 col-md-6">
+                                <div class="col-lg-3 col-md-6">
                                     <!-- Single Courses Start -->
                                     <div class="single-courses">
                                         <div class="courses-images">
-                                            <a href="courses-details.html"><img src="assets/images/courses/courses-05.jpg" alt="Courses"></a>
+                                            <a href="#"><img src="assets/images/courses/courseImg.png" alt="Courses"></a>
                                         </div>
                                         <div class="courses-content">
-                                        
-                                            <h4 class="title"><a href="courses-details.html">Data Science and Machine Learning with Python - Hands On!</a></h4>
+                                            <h4 class="title"><a href="#">Create Amazing Colour Scheme for Your UX Design Projects</a></h4>
                                             <div class="courses-meta">
-                                                <span> <i class="icofont-clock-time" style="color: #1207ab"></i> 08 hr 15 mins</span>
-                                                <span> <i class="icofont-read-book" style="color: #1207ab"></i> Online </span>
+                                                <div class="courses-review">
+                                                    <span class="rating-count">4.9</span>
+                                                    <span class="rating-star">
+															<span class="rating-bar" style="width: 80%;"></span>
+                                                    </span>
+                                                </div>
+                                                
                                             </div>
                                             <div class="courses-price-review">
                                                 <div class="courses-price">
+                                                    <p class="courses-meta add-margin">Online</p>
                                                     <span class="sale-parice">#385.00</span>
-                                                    <span class="old-parice">#440.00</span>
                                                 </div>
-                                                <div class="courses-review">
-                                                    <span class="rating-count">4.9</span>
-                                                    <span class="rating-star">
-															<span class="rating-bar" style="width: 80%;"></span>
-                                                    </span>
+                                                <div class="courses-price add-border-left">
+                                                    <p class="courses-meta add-margin">Offline</p>
+                                                    <span class="sale-parice">#385.00</span>
                                                 </div>
+                                                
                                             </div>
                                         </div>
                                     </div>
                                     <!-- Single Courses End -->
                                 </div>
-                                <div class="col-lg-4 col-md-6">
+                                <div class="col-lg-3 col-md-6">
                                     <!-- Single Courses Start -->
                                     <div class="single-courses">
                                         <div class="courses-images">
-                                            <a href="courses-details.html"><img src="assets/images/courses/courses-06.jpg" alt="Courses"></a>
-                                        </div>
-                                        <div class="courses-content">                                           
-                                            <h4 class="title"><a href="courses-details.html">Create Amazing Color Schemes for Your UX Design Projects</a></h4>
-                                            <div class="courses-meta">
-                                                <span> <i class="icofont-clock-time" style="color: #1207ab"></i> 08 hr 15 mins</span>
-                                                <span> <i class="icofont-read-book" style="color: #1207ab"></i> Online </span>
-                                            </div>
-                                            <div class="courses-price-review">
-                                                <div class="courses-price">
-                                                    <span class="sale-parice">#420.00</span>
-                                                </div>
-                                                <div class="courses-review">
-                                                    <span class="rating-count">4.9</span>
-                                                    <span class="rating-star">
-															<span class="rating-bar" style="width: 80%;"></span>
-                                                    </span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- Single Courses End -->
-                                </div>
-                                <div class="col-lg-4 col-md-6">
-                                    <!-- Single Courses Start -->
-                                    <div class="single-courses">
-                                        <div class="courses-images">
-                                            <a href="courses-details.html"><img src="assets/images/courses/courses-03.jpg" alt="Courses"></a>
+                                            <a href="#"><img src="assets/images/courses/courseImg.png" alt="Courses"></a>
                                         </div>
                                         <div class="courses-content">
-                                           
-                                            <h4 class="title"><a href="courses-details.html">Culture & Leadership: Strategies for a Successful Business</a></h4>
+                                            <h4 class="title"><a href="#">Create Amazing Colour Scheme for Your UX Design Projects</a></h4>
                                             <div class="courses-meta">
-                                                <span> <i class="icofont-clock-time" style="color: #1207ab"></i> 08 hr 15 mins</span>
-                                                <span> <i class="icofont-read-book" style="color: #1207ab"></i> Online </span>
-                                            </div>
-                                            <div class="courses-price-review">
-                                                <div class="courses-price">
-                                                    <span class="sale-parice">#295.00</span>
-                                                </div>
                                                 <div class="courses-review">
                                                     <span class="rating-count">4.9</span>
                                                     <span class="rating-star">
 															<span class="rating-bar" style="width: 80%;"></span>
                                                     </span>
                                                 </div>
+                                                
+                                            </div>
+                                            <div class="courses-price-review">
+                                                <div class="courses-price">
+                                                    <p class="courses-meta add-margin">Online</p>
+                                                    <span class="sale-parice">#385.00</span>
+                                                </div>
+                                                <div class="courses-price add-border-left">
+                                                    <p class="courses-meta add-margin">Offline</p>
+                                                    <span class="sale-parice">#385.00</span>
+                                                </div>
+                                                
                                             </div>
                                         </div>
                                     </div>
                                     <!-- Single Courses End -->
                                 </div>
-                                <div class="col-lg-4 col-md-6">
+                                <div class="col-lg-3 col-md-6">
                                     <!-- Single Courses Start -->
                                     <div class="single-courses">
                                         <div class="courses-images">
-                                            <a href="courses-details.html"><img src="assets/images/courses/courses-01.jpg" alt="Courses"></a>
+                                            <a href="#"><img src="assets/images/courses/courseImg.png" alt="Courses"></a>
                                         </div>
                                         <div class="courses-content">
-                                           
-                                            <h4 class="title"><a href="courses-details.html">Finance Series: Learn to Budget and Calculate your Net Worth.</a></h4>
+                                            <h4 class="title"><a href="#">Create Amazing Colour Scheme for Your UX Design Projects</a></h4>
                                             <div class="courses-meta">
-                                                <span> <i class="icofont-clock-time" style="color: #1207ab"></i> 08 hr 15 mins</span>
-                                                <span> <i class="icofont-read-book" style="color: #1207ab"></i> Online </span>
-                                            </div>
-                                            <div class="courses-price-review">
-                                                <div class="courses-price">
-                                                    <span class="sale-parice">Free</span>
-                                                </div>
                                                 <div class="courses-review">
                                                     <span class="rating-count">4.9</span>
                                                     <span class="rating-star">
 															<span class="rating-bar" style="width: 80%;"></span>
                                                     </span>
                                                 </div>
+                                                
+                                            </div>
+                                            <div class="courses-price-review">
+                                                <div class="courses-price">
+                                                    <p class="courses-meta add-margin">Online</p>
+                                                    <span class="sale-parice">#385.00</span>
+                                                </div>
+                                                <div class="courses-price add-border-left">
+                                                    <p class="courses-meta add-margin">Offline</p>
+                                                    <span class="sale-parice">#385.00</span>
+                                                </div>
+                                                
                                             </div>
                                         </div>
                                     </div>
                                     <!-- Single Courses End -->
                                 </div>
-                                <div class="col-lg-4 col-md-6">
+                                <div class="col-lg-3 col-md-6">
                                     <!-- Single Courses Start -->
                                     <div class="single-courses">
                                         <div class="courses-images">
-                                            <a href="courses-details.html"><img src="assets/images/courses/courses-02.jpg" alt="Courses"></a>
+                                            <a href="#"><img src="assets/images/courses/courseImg.png" alt="Courses"></a>
                                         </div>
                                         <div class="courses-content">
-                                         
-                                            <h4 class="title"><a href="courses-details.html">Build Brand Into Marketing: Tackling the New Marketing Landscape</a></h4>
+                                            <h4 class="title"><a href="#">Create Amazing Colour Scheme for Your UX Design Projects</a></h4>
                                             <div class="courses-meta">
-                                                <span> <i class="icofont-clock-time" style="color: #1207ab"></i> 08 hr 15 mins</span>
-                                                <span> <i class="icofont-read-book" style="color: #1207ab"></i> Online </span>
-                                            </div>
-                                            <div class="courses-price-review">
-                                                <div class="courses-price">
-                                                    <span class="sale-parice">#136.00</span>
-                                                </div>
                                                 <div class="courses-review">
                                                     <span class="rating-count">4.9</span>
                                                     <span class="rating-star">
 															<span class="rating-bar" style="width: 80%;"></span>
                                                     </span>
                                                 </div>
+                                                
+                                            </div>
+                                            <div class="courses-price-review">
+                                                <div class="courses-price">
+                                                    <p class="courses-meta add-margin">Online</p>
+                                                    <span class="sale-parice">#385.00</span>
+                                                </div>
+                                                <div class="courses-price add-border-left">
+                                                    <p class="courses-meta add-margin">Offline</p>
+                                                    <span class="sale-parice">#385.00</span>
+                                                </div>
+                                                
                                             </div>
                                         </div>
                                     </div>
                                     <!-- Single Courses End -->
                                 </div>
-                                <div class="col-lg-4 col-md-6">
+                                <div class="col-lg-3 col-md-6">
                                     <!-- Single Courses Start -->
                                     <div class="single-courses">
                                         <div class="courses-images">
-                                            <a href="courses-details.html"><img src="assets/images/courses/courses-04.jpg" alt="Courses"></a>
+                                            <a href="#"><img src="assets/images/courses/courseImg.png" alt="Courses"></a>
                                         </div>
                                         <div class="courses-content">
-
-                                            <h4 class="title"><a href="courses-details.html">Graphic Design: Illustrating Badges and Icons with Geometric Shapes</a></h4>
+                                            <h4 class="title"><a href="#">Create Amazing Colour Scheme for Your UX Design Projects</a></h4>
                                             <div class="courses-meta">
-                                                <span> <i class="icofont-clock-time" style="color: #1207ab"></i> 08 hr 15 mins</span>
-                                                <span> <i class="icofont-read-book" style="color: #1207ab"></i> Online </span>
-                                            </div>
-                                            <div class="courses-price-review">
-                                                <div class="courses-price">
-                                                    <span class="sale-parice">#237.00</span>
-                                                </div>
                                                 <div class="courses-review">
                                                     <span class="rating-count">4.9</span>
                                                     <span class="rating-star">
 															<span class="rating-bar" style="width: 80%;"></span>
                                                     </span>
                                                 </div>
+                                                
+                                            </div>
+                                            <div class="courses-price-review">
+                                                <div class="courses-price">
+                                                    <p class="courses-meta add-margin">Online</p>
+                                                    <span class="sale-parice">#385.00</span>
+                                                </div>
+                                                <div class="courses-price add-border-left">
+                                                    <p class="courses-meta add-margin">Offline</p>
+                                                    <span class="sale-parice">#385.00</span>
+                                                </div>
+                                                
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- Single Courses End -->
+                                </div>
+                                <div class="col-lg-3 col-md-6">
+                                    <!-- Single Courses Start -->
+                                    <div class="single-courses">
+                                        <div class="courses-images">
+                                            <a href="#"><img src="assets/images/courses/courseImg.png" alt="Courses"></a>
+                                        </div>
+                                        <div class="courses-content">
+                                            <h4 class="title"><a href="#">Create Amazing Colour Scheme for Your UX Design Projects</a></h4>
+                                            <div class="courses-meta">
+                                                <div class="courses-review">
+                                                    <span class="rating-count">4.9</span>
+                                                    <span class="rating-star">
+															<span class="rating-bar" style="width: 80%;"></span>
+                                                    </span>
+                                                </div>
+                                                
+                                            </div>
+                                            <div class="courses-price-review">
+                                                <div class="courses-price">
+                                                    <p class="courses-meta add-margin">Online</p>
+                                                    <span class="sale-parice">#385.00</span>
+                                                </div>
+                                                <div class="courses-price add-border-left">
+                                                    <p class="courses-meta add-margin">Offline</p>
+                                                    <span class="sale-parice">#385.00</span>
+                                                </div>
+                                                
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- Single Courses End -->
+                                </div>
+                                <div class="col-lg-3 col-md-6">
+                                    <!-- Single Courses Start -->
+                                    <div class="single-courses">
+                                        <div class="courses-images">
+                                            <a href="#"><img src="assets/images/courses/courseImg.png" alt="Courses"></a>
+                                        </div>
+                                        <div class="courses-content">
+                                            <h4 class="title"><a href="#">Create Amazing Colour Scheme for Your UX Design Projects</a></h4>
+                                            <div class="courses-meta">
+                                                <div class="courses-review">
+                                                    <span class="rating-count">4.9</span>
+                                                    <span class="rating-star">
+															<span class="rating-bar" style="width: 80%;"></span>
+                                                    </span>
+                                                </div>
+                                                
+                                            </div>
+                                            <div class="courses-price-review">
+                                                <div class="courses-price">
+                                                    <p class="courses-meta add-margin">Online</p>
+                                                    <span class="sale-parice">#385.00</span>
+                                                </div>
+                                                <div class="courses-price add-border-left">
+                                                    <p class="courses-meta add-margin">Offline</p>
+                                                    <span class="sale-parice">#385.00</span>
+                                                </div>
+                                                
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- Single Courses End -->
+                                </div>
+                                <div class="col-lg-3 col-md-6">
+                                    <!-- Single Courses Start -->
+                                    <div class="single-courses">
+                                        <div class="courses-images">
+                                            <a href="#"><img src="assets/images/courses/courseImg.png" alt="Courses"></a>
+                                        </div>
+                                        <div class="courses-content">
+                                            <h4 class="title"><a href="#">Create Amazing Colour Scheme for Your UX Design Projects</a></h4>
+                                            <div class="courses-meta">
+                                                <div class="courses-review">
+                                                    <span class="rating-count">4.9</span>
+                                                    <span class="rating-star">
+															<span class="rating-bar" style="width: 80%;"></span>
+                                                    </span>
+                                                </div>
+                                                
+                                            </div>
+                                            <div class="courses-price-review">
+                                                <div class="courses-price">
+                                                    <p class="courses-meta add-margin">Online</p>
+                                                    <span class="sale-parice">#385.00</span>
+                                                </div>
+                                                <div class="courses-price add-border-left">
+                                                    <p class="courses-meta add-margin">Offline</p>
+                                                    <span class="sale-parice">#385.00</span>
+                                                </div>
+                                                
                                             </div>
                                         </div>
                                     </div>
@@ -628,235 +834,257 @@
                         <!-- All Courses Wrapper Start -->
                         <div class="courses-wrapper">
                             <div class="row">
-                                <div class="col-lg-4 col-md-6">
+                                <div class="col-lg-3 col-md-6">
                                     <!-- Single Courses Start -->
                                     <div class="single-courses">
                                         <div class="courses-images">
-                                            <a href="courses-details.html"><img src="assets/images/courses/courses-06.jpg" alt="Courses"></a>
+                                            <a href="#"><img src="assets/images/courses/courseImg.png" alt="Courses"></a>
                                         </div>
                                         <div class="courses-content">
-                                          
-                                            <h4 class="title"><a href="courses-details.html">Data Science and Machine Learning with Python - Hands On!</a></h4>
+                                            <h4 class="title"><a href="#">Create Amazing Colour Scheme for Your UX Design Projects</a></h4>
                                             <div class="courses-meta">
-                                                <span> <i class="icofont-clock-time" style="color: #1207ab"></i> 08 hr 15 mins</span>
-                                                <span> <i class="icofont-read-book" style="color: #1207ab"></i> Online </span>
+                                                <div class="courses-review">
+                                                    <span class="rating-count">4.9</span>
+                                                    <span class="rating-star">
+															<span class="rating-bar" style="width: 80%;"></span>
+                                                    </span>
+                                                </div>
+                                                
                                             </div>
                                             <div class="courses-price-review">
                                                 <div class="courses-price">
+                                                    <p class="courses-meta add-margin">Online</p>
                                                     <span class="sale-parice">#385.00</span>
-                                                    <span class="old-parice">#440.00</span>
                                                 </div>
-                                                <div class="courses-review">
-                                                    <span class="rating-count">4.9</span>
-                                                    <span class="rating-star">
-															<span class="rating-bar" style="width: 80%;"></span>
-                                                    </span>
+                                                <div class="courses-price add-border-left">
+                                                    <p class="courses-meta add-margin">Offline</p>
+                                                    <span class="sale-parice">#385.00</span>
                                                 </div>
+                                                
                                             </div>
                                         </div>
                                     </div>
                                     <!-- Single Courses End -->
                                 </div>
-                                <div class="col-lg-4 col-md-6">
+                                <div class="col-lg-3 col-md-6">
                                     <!-- Single Courses Start -->
                                     <div class="single-courses">
                                         <div class="courses-images">
-                                            <a href="courses-details.html"><img src="assets/images/courses/courses-05.jpg" alt="Courses"></a>
+                                            <a href="#"><img src="assets/images/courses/courseImg.png" alt="Courses"></a>
                                         </div>
                                         <div class="courses-content">
-                                            <div class="courses-author">
-                                                <div class="author">
-                                                    <div class="author-thumb">
-                                                        <a href="#"><img src="assets/images/author/author-02.jpg" alt="Author"></a>
-                                                    </div>
-                                                    <div class="author-name">
-                                                        <a class="name" href="#">Pamela Foster</a>
-                                                    </div>
-                                                </div>
-                                                <div class="tag">
-                                                    <a href="#">Science</a>
-                                                </div>
-                                            </div>
-
-                                            <h4 class="title"><a href="courses-details.html">Create Amazing Color Schemes for Your UX Design Projects</a></h4>
+                                            <h4 class="title"><a href="#">Create Amazing Colour Scheme for Your UX Design Projects</a></h4>
                                             <div class="courses-meta">
-                                                <span> <i class="icofont-clock-time" style="color: #1207ab"></i> 08 hr 15 mins</span>
-                                                <span> <i class="icofont-read-book" style="color: #1207ab"></i> Online </span>
-                                            </div>
-                                            <div class="courses-price-review">
-                                                <div class="courses-price">
-                                                    <span class="sale-parice">#420.00</span>
-                                                </div>
                                                 <div class="courses-review">
                                                     <span class="rating-count">4.9</span>
                                                     <span class="rating-star">
 															<span class="rating-bar" style="width: 80%;"></span>
                                                     </span>
                                                 </div>
+                                                
+                                            </div>
+                                            <div class="courses-price-review">
+                                                <div class="courses-price">
+                                                    <p class="courses-meta add-margin">Online</p>
+                                                    <span class="sale-parice">#385.00</span>
+                                                </div>
+                                                <div class="courses-price add-border-left">
+                                                    <p class="courses-meta add-margin">Offline</p>
+                                                    <span class="sale-parice">#385.00</span>
+                                                </div>
+                                                
                                             </div>
                                         </div>
                                     </div>
                                     <!-- Single Courses End -->
                                 </div>
-                                <div class="col-lg-4 col-md-6">
+                                <div class="col-lg-3 col-md-6">
                                     <!-- Single Courses Start -->
                                     <div class="single-courses">
                                         <div class="courses-images">
-                                            <a href="courses-details.html"><img src="assets/images/courses/courses-04.jpg" alt="Courses"></a>
+                                            <a href="#"><img src="assets/images/courses/courseImg.png" alt="Courses"></a>
                                         </div>
                                         <div class="courses-content">
-                                            <div class="courses-author">
-                                                <div class="author">
-                                                    <div class="author-thumb">
-                                                        <a href="#"><img src="assets/images/author/author-03.jpg" alt="Author"></a>
-                                                    </div>
-                                                    <div class="author-name">
-                                                        <a class="name" href="#">Rose Simmons</a>
-                                                    </div>
-                                                </div>
-                                                <div class="tag">
-                                                    <a href="#">Science</a>
-                                                </div>
-                                            </div>
-
-                                            <h4 class="title"><a href="courses-details.html">Culture & Leadership: Strategies for a Successful Business</a></h4>
+                                            <h4 class="title"><a href="#">Create Amazing Colour Scheme for Your UX Design Projects</a></h4>
                                             <div class="courses-meta">
-                                                <span> <i class="icofont-clock-time" style="color: #1207ab"></i> 08 hr 15 mins</span>
-                                                <span> <i class="icofont-read-book" style="color: #1207ab"></i> Online </span>
-                                            </div>
-                                            <div class="courses-price-review">
-                                                <div class="courses-price">
-                                                    <span class="sale-parice">#295.00</span>
-                                                </div>
                                                 <div class="courses-review">
                                                     <span class="rating-count">4.9</span>
                                                     <span class="rating-star">
 															<span class="rating-bar" style="width: 80%;"></span>
                                                     </span>
                                                 </div>
+                                                
+                                            </div>
+                                            <div class="courses-price-review">
+                                                <div class="courses-price">
+                                                    <p class="courses-meta add-margin">Online</p>
+                                                    <span class="sale-parice">#385.00</span>
+                                                </div>
+                                                <div class="courses-price add-border-left">
+                                                    <p class="courses-meta add-margin">Offline</p>
+                                                    <span class="sale-parice">#385.00</span>
+                                                </div>
+                                                
                                             </div>
                                         </div>
                                     </div>
                                     <!-- Single Courses End -->
                                 </div>
-                                <div class="col-lg-4 col-md-6">
+                                <div class="col-lg-3 col-md-6">
                                     <!-- Single Courses Start -->
                                     <div class="single-courses">
                                         <div class="courses-images">
-                                            <a href="courses-details.html"><img src="assets/images/courses/courses-03.jpg" alt="Courses"></a>
+                                            <a href="#"><img src="assets/images/courses/courseImg.png" alt="Courses"></a>
                                         </div>
                                         <div class="courses-content">
-                                            <div class="courses-author">
-                                                <div class="author">
-                                                    <div class="author-thumb">
-                                                        <a href="#"><img src="assets/images/author/author-04.jpg" alt="Author"></a>
-                                                    </div>
-                                                    <div class="author-name">
-                                                        <a class="name" href="#">Jason Williams</a>
-                                                    </div>
-                                                </div>
-                                                <div class="tag">
-                                                    <a href="#">Finance</a>
-                                                </div>
-                                            </div>
-
-                                            <h4 class="title"><a href="courses-details.html">Finance Series: Learn to Budget and Calculate your Net Worth.</a></h4>
+                                            <h4 class="title"><a href="#">Create Amazing Colour Scheme for Your UX Design Projects</a></h4>
                                             <div class="courses-meta">
-                                                <span> <i class="icofont-clock-time" style="color: #1207ab"></i> 08 hr 15 mins</span>
-                                                <span> <i class="icofont-read-book" style="color: #1207ab"></i> Online </span>
-                                            </div>
-                                            <div class="courses-price-review">
-                                                <div class="courses-price">
-                                                    <span class="sale-parice">Free</span>
-                                                </div>
                                                 <div class="courses-review">
                                                     <span class="rating-count">4.9</span>
                                                     <span class="rating-star">
 															<span class="rating-bar" style="width: 80%;"></span>
                                                     </span>
                                                 </div>
+                                                
+                                            </div>
+                                            <div class="courses-price-review">
+                                                <div class="courses-price">
+                                                    <p class="courses-meta add-margin">Online</p>
+                                                    <span class="sale-parice">#385.00</span>
+                                                </div>
+                                                <div class="courses-price add-border-left">
+                                                    <p class="courses-meta add-margin">Offline</p>
+                                                    <span class="sale-parice">#385.00</span>
+                                                </div>
+                                                
                                             </div>
                                         </div>
                                     </div>
                                     <!-- Single Courses End -->
                                 </div>
-                                <div class="col-lg-4 col-md-6">
+                                <div class="col-lg-3 col-md-6">
                                     <!-- Single Courses Start -->
                                     <div class="single-courses">
                                         <div class="courses-images">
-                                            <a href="courses-details.html"><img src="assets/images/courses/courses-02.jpg" alt="Courses"></a>
+                                            <a href="#"><img src="assets/images/courses/courseImg.png" alt="Courses"></a>
                                         </div>
                                         <div class="courses-content">
-                                            <div class="courses-author">
-                                                <div class="author">
-                                                    <div class="author-thumb">
-                                                        <a href="#"><img src="assets/images/author/author-05.jpg" alt="Author"></a>
-                                                    </div>
-                                                    <div class="author-name">
-                                                        <a class="name" href="#">Jason Williams</a>
-                                                    </div>
-                                                </div>
-                                                <div class="tag">
-                                                    <a href="#">Marketing</a>
-                                                </div>
-                                            </div>
-
-                                            <h4 class="title"><a href="courses-details.html">Build Brand Into Marketing: Tackling the New Marketing Landscape</a></h4>
+                                            <h4 class="title"><a href="#">Create Amazing Colour Scheme for Your UX Design Projects</a></h4>
                                             <div class="courses-meta">
-                                                <span> <i class="icofont-clock-time" style="color: #1207ab"></i> 08 hr 15 mins</span>
-                                                <span> <i class="icofont-read-book" style="color: #1207ab"></i> Online </span>
-                                            </div>
-                                            <div class="courses-price-review">
-                                                <div class="courses-price">
-                                                    <span class="sale-parice">#136.00</span>
-                                                </div>
                                                 <div class="courses-review">
                                                     <span class="rating-count">4.9</span>
                                                     <span class="rating-star">
 															<span class="rating-bar" style="width: 80%;"></span>
                                                     </span>
                                                 </div>
+                                                
+                                            </div>
+                                            <div class="courses-price-review">
+                                                <div class="courses-price">
+                                                    <p class="courses-meta add-margin">Online</p>
+                                                    <span class="sale-parice">#385.00</span>
+                                                </div>
+                                                <div class="courses-price add-border-left">
+                                                    <p class="courses-meta add-margin">Offline</p>
+                                                    <span class="sale-parice">#385.00</span>
+                                                </div>
+                                                
                                             </div>
                                         </div>
                                     </div>
                                     <!-- Single Courses End -->
                                 </div>
-                                <div class="col-lg-4 col-md-6">
+                                <div class="col-lg-3 col-md-6">
                                     <!-- Single Courses Start -->
                                     <div class="single-courses">
                                         <div class="courses-images">
-                                            <a href="courses-details.html"><img src="assets/images/courses/courses-01.jpg" alt="Courses"></a>
+                                            <a href="#"><img src="assets/images/courses/courseImg.png" alt="Courses"></a>
                                         </div>
                                         <div class="courses-content">
-                                            <div class="courses-author">
-                                                <div class="author">
-                                                    <div class="author-thumb">
-                                                        <a href="#"><img src="assets/images/author/author-06.jpg" alt="Author"></a>
-                                                    </div>
-                                                    <div class="author-name">
-                                                        <a class="name" href="#">Jason Williams</a>
-                                                    </div>
-                                                </div>
-                                                <div class="tag">
-                                                    <a href="#">Design</a>
-                                                </div>
-                                            </div>
-
-                                            <h4 class="title"><a href="courses-details.html">Graphic Design: Illustrating Badges and Icons with Geometric Shapes</a></h4>
+                                            <h4 class="title"><a href="#">Create Amazing Colour Scheme for Your UX Design Projects</a></h4>
                                             <div class="courses-meta">
-                                                <span> <i class="icofont-clock-time" style="color: #1207ab"></i> 08 hr 15 mins</span>
-                                                <span> <i class="icofont-read-book" style="color: #1207ab"></i> Online </span>
-                                            </div>
-                                            <div class="courses-price-review">
-                                                <div class="courses-price">
-                                                    <span class="sale-parice">#237.00</span>
-                                                </div>
                                                 <div class="courses-review">
                                                     <span class="rating-count">4.9</span>
                                                     <span class="rating-star">
 															<span class="rating-bar" style="width: 80%;"></span>
                                                     </span>
                                                 </div>
+                                                
+                                            </div>
+                                            <div class="courses-price-review">
+                                                <div class="courses-price">
+                                                    <p class="courses-meta add-margin">Online</p>
+                                                    <span class="sale-parice">#385.00</span>
+                                                </div>
+                                                <div class="courses-price add-border-left">
+                                                    <p class="courses-meta add-margin">Offline</p>
+                                                    <span class="sale-parice">#385.00</span>
+                                                </div>
+                                                
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- Single Courses End -->
+                                </div>
+                                <div class="col-lg-3 col-md-6">
+                                    <!-- Single Courses Start -->
+                                    <div class="single-courses">
+                                        <div class="courses-images">
+                                            <a href="#"><img src="assets/images/courses/courseImg.png" alt="Courses"></a>
+                                        </div>
+                                        <div class="courses-content">
+                                            <h4 class="title"><a href="#">Create Amazing Colour Scheme for Your UX Design Projects</a></h4>
+                                            <div class="courses-meta">
+                                                <div class="courses-review">
+                                                    <span class="rating-count">4.9</span>
+                                                    <span class="rating-star">
+															<span class="rating-bar" style="width: 80%;"></span>
+                                                    </span>
+                                                </div>
+                                                
+                                            </div>
+                                            <div class="courses-price-review">
+                                                <div class="courses-price">
+                                                    <p class="courses-meta add-margin">Online</p>
+                                                    <span class="sale-parice">#385.00</span>
+                                                </div>
+                                                <div class="courses-price add-border-left">
+                                                    <p class="courses-meta add-margin">Offline</p>
+                                                    <span class="sale-parice">#385.00</span>
+                                                </div>
+                                                
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- Single Courses End -->
+                                </div>
+                                <div class="col-lg-3 col-md-6">
+                                    <!-- Single Courses Start -->
+                                    <div class="single-courses">
+                                        <div class="courses-images">
+                                            <a href="#"><img src="assets/images/courses/courseImg.png" alt="Courses"></a>
+                                        </div>
+                                        <div class="courses-content">
+                                            <h4 class="title"><a href="#">Create Amazing Colour Scheme for Your UX Design Projects</a></h4>
+                                            <div class="courses-meta">
+                                                <div class="courses-review">
+                                                    <span class="rating-count">4.9</span>
+                                                    <span class="rating-star">
+															<span class="rating-bar" style="width: 80%;"></span>
+                                                    </span>
+                                                </div>
+                                                
+                                            </div>
+                                            <div class="courses-price-review">
+                                                <div class="courses-price">
+                                                    <p class="courses-meta add-margin">Online</p>
+                                                    <span class="sale-parice">#385.00</span>
+                                                </div>
+                                                <div class="courses-price add-border-left">
+                                                    <p class="courses-meta add-margin">Offline</p>
+                                                    <span class="sale-parice">#385.00</span>
+                                                </div>
+                                                
                                             </div>
                                         </div>
                                     </div>
@@ -872,170 +1100,257 @@
                         <!-- All Courses Wrapper Start -->
                         <div class="courses-wrapper">
                             <div class="row">
-                                <div class="col-lg-4 col-md-6">
+                                <div class="col-lg-3 col-md-6">
                                     <!-- Single Courses Start -->
                                     <div class="single-courses">
                                         <div class="courses-images">
-                                            <a href="courses-details.html"><img src="assets/images/courses/courses-03.jpg" alt="Courses"></a>
+                                            <a href="#"><img src="assets/images/courses/courseImg.png" alt="Courses"></a>
                                         </div>
                                         <div class="courses-content">
-                                            
-                                            <h4 class="title"><a href="courses-details.html">Data Science and Machine Learning with Python - Hands On!</a></h4>
+                                            <h4 class="title"><a href="#">Create Amazing Colour Scheme for Your UX Design Projects</a></h4>
                                             <div class="courses-meta">
-                                                <span> <i class="icofont-clock-time" style="color: #1207ab"></i> 08 hr 15 mins</span>
-                                                <span> <i class="icofont-read-book" style="color: #1207ab"></i> Online </span>
+                                                <div class="courses-review">
+                                                    <span class="rating-count">4.9</span>
+                                                    <span class="rating-star">
+															<span class="rating-bar" style="width: 80%;"></span>
+                                                    </span>
+                                                </div>
+                                                
                                             </div>
                                             <div class="courses-price-review">
                                                 <div class="courses-price">
+                                                    <p class="courses-meta add-margin">Online</p>
                                                     <span class="sale-parice">#385.00</span>
-                                                    <span class="old-parice">#440.00</span>
                                                 </div>
-                                                <div class="courses-review">
-                                                    <span class="rating-count">4.9</span>
-                                                    <span class="rating-star">
-															<span class="rating-bar" style="width: 80%;"></span>
-                                                    </span>
+                                                <div class="courses-price add-border-left">
+                                                    <p class="courses-meta add-margin">Offline</p>
+                                                    <span class="sale-parice">#385.00</span>
                                                 </div>
+                                                
                                             </div>
                                         </div>
                                     </div>
                                     <!-- Single Courses End -->
                                 </div>
-                                <div class="col-lg-4 col-md-6">
+                                <div class="col-lg-3 col-md-6">
                                     <!-- Single Courses Start -->
                                     <div class="single-courses">
                                         <div class="courses-images">
-                                            <a href="courses-details.html"><img src="assets/images/courses/courses-02.jpg" alt="Courses"></a>
+                                            <a href="#"><img src="assets/images/courses/courseImg.png" alt="Courses"></a>
                                         </div>
                                         <div class="courses-content">
-                                          
-                                            <h4 class="title"><a href="courses-details.html">Create Amazing Color Schemes for Your UX Design Projects</a></h4>
+                                            <h4 class="title"><a href="#">Create Amazing Colour Scheme for Your UX Design Projects</a></h4>
                                             <div class="courses-meta">
-                                                <span> <i class="icofont-clock-time" style="color: #1207ab"></i> 08 hr 15 mins</span>
-                                                <span> <i class="icofont-read-book" style="color: #1207ab"></i> Online </span>
-                                            </div>
-                                            <div class="courses-price-review">
-                                                <div class="courses-price">
-                                                    <span class="sale-parice">#420.00</span>
-                                                </div>
                                                 <div class="courses-review">
                                                     <span class="rating-count">4.9</span>
                                                     <span class="rating-star">
 															<span class="rating-bar" style="width: 80%;"></span>
                                                     </span>
                                                 </div>
+                                                
+                                            </div>
+                                            <div class="courses-price-review">
+                                                <div class="courses-price">
+                                                    <p class="courses-meta add-margin">Online</p>
+                                                    <span class="sale-parice">#385.00</span>
+                                                </div>
+                                                <div class="courses-price add-border-left">
+                                                    <p class="courses-meta add-margin">Offline</p>
+                                                    <span class="sale-parice">#385.00</span>
+                                                </div>
+                                                
                                             </div>
                                         </div>
                                     </div>
                                     <!-- Single Courses End -->
                                 </div>
-                                <div class="col-lg-4 col-md-6">
+                                <div class="col-lg-3 col-md-6">
                                     <!-- Single Courses Start -->
                                     <div class="single-courses">
                                         <div class="courses-images">
-                                            <a href="courses-details.html"><img src="assets/images/courses/courses-01.jpg" alt="Courses"></a>
+                                            <a href="#"><img src="assets/images/courses/courseImg.png" alt="Courses"></a>
                                         </div>
                                         <div class="courses-content">
-                                           
-                                            <h4 class="title"><a href="courses-details.html">Culture & Leadership: Strategies for a Successful Business</a></h4>
+                                            <h4 class="title"><a href="#">Create Amazing Colour Scheme for Your UX Design Projects</a></h4>
                                             <div class="courses-meta">
-                                                <span> <i class="icofont-clock-time" style="color: #1207ab"></i> 08 hr 15 mins</span>
-                                                <span> <i class="icofont-read-book" style="color: #1207ab"></i> Online </span>
-                                            </div>
-                                            <div class="courses-price-review">
-                                                <div class="courses-price">
-                                                    <span class="sale-parice">#295.00</span>
-                                                </div>
                                                 <div class="courses-review">
                                                     <span class="rating-count">4.9</span>
                                                     <span class="rating-star">
 															<span class="rating-bar" style="width: 80%;"></span>
                                                     </span>
                                                 </div>
+                                                
+                                            </div>
+                                            <div class="courses-price-review">
+                                                <div class="courses-price">
+                                                    <p class="courses-meta add-margin">Online</p>
+                                                    <span class="sale-parice">#385.00</span>
+                                                </div>
+                                                <div class="courses-price add-border-left">
+                                                    <p class="courses-meta add-margin">Offline</p>
+                                                    <span class="sale-parice">#385.00</span>
+                                                </div>
+                                                
                                             </div>
                                         </div>
                                     </div>
                                     <!-- Single Courses End -->
                                 </div>
-                                <div class="col-lg-4 col-md-6">
+                                <div class="col-lg-3 col-md-6">
                                     <!-- Single Courses Start -->
                                     <div class="single-courses">
                                         <div class="courses-images">
-                                            <a href="courses-details.html"><img src="assets/images/courses/courses-06.jpg" alt="Courses"></a>
+                                            <a href="#"><img src="assets/images/courses/courseImg.png" alt="Courses"></a>
                                         </div>
                                         <div class="courses-content">
-                                            
-                                            <h4 class="title"><a href="courses-details.html">Finance Series: Learn to Budget and Calculate your Net Worth.</a></h4>
+                                            <h4 class="title"><a href="#">Create Amazing Colour Scheme for Your UX Design Projects</a></h4>
                                             <div class="courses-meta">
-                                                <span> <i class="icofont-clock-time" style="color: #1207ab"></i> 08 hr 15 mins</span>
-                                                <span> <i class="icofont-read-book" style="color: #1207ab"></i> Online </span>
-                                            </div>
-                                            <div class="courses-price-review">
-                                                <div class="courses-price">
-                                                    <span class="sale-parice">Free</span>
-                                                </div>
                                                 <div class="courses-review">
                                                     <span class="rating-count">4.9</span>
                                                     <span class="rating-star">
 															<span class="rating-bar" style="width: 80%;"></span>
                                                     </span>
                                                 </div>
+                                                
+                                            </div>
+                                            <div class="courses-price-review">
+                                                <div class="courses-price">
+                                                    <p class="courses-meta add-margin">Online</p>
+                                                    <span class="sale-parice">#385.00</span>
+                                                </div>
+                                                <div class="courses-price add-border-left">
+                                                    <p class="courses-meta add-margin">Offline</p>
+                                                    <span class="sale-parice">#385.00</span>
+                                                </div>
+                                                
                                             </div>
                                         </div>
                                     </div>
                                     <!-- Single Courses End -->
                                 </div>
-                                <div class="col-lg-4 col-md-6">
+                                <div class="col-lg-3 col-md-6">
                                     <!-- Single Courses Start -->
                                     <div class="single-courses">
                                         <div class="courses-images">
-                                            <a href="courses-details.html"><img src="assets/images/courses/courses-05.jpg" alt="Courses"></a>
+                                            <a href="#"><img src="assets/images/courses/courseImg.png" alt="Courses"></a>
                                         </div>
                                         <div class="courses-content">
-                                           
-                                            <h4 class="title"><a href="courses-details.html">Build Brand Into Marketing: Tackling the New Marketing Landscape</a></h4>
+                                            <h4 class="title"><a href="#">Create Amazing Colour Scheme for Your UX Design Projects</a></h4>
                                             <div class="courses-meta">
-                                                <span> <i class="icofont-clock-time" style="color: #1207ab"></i> 08 hr 15 mins</span>
-                                                <span> <i class="icofont-read-book" style="color: #1207ab"></i> Online </span>
-                                            </div>
-                                            <div class="courses-price-review">
-                                                <div class="courses-price">
-                                                    <span class="sale-parice">#136.00</span>
-                                                </div>
                                                 <div class="courses-review">
                                                     <span class="rating-count">4.9</span>
                                                     <span class="rating-star">
 															<span class="rating-bar" style="width: 80%;"></span>
                                                     </span>
                                                 </div>
+                                                
+                                            </div>
+                                            <div class="courses-price-review">
+                                                <div class="courses-price">
+                                                    <p class="courses-meta add-margin">Online</p>
+                                                    <span class="sale-parice">#385.00</span>
+                                                </div>
+                                                <div class="courses-price add-border-left">
+                                                    <p class="courses-meta add-margin">Offline</p>
+                                                    <span class="sale-parice">#385.00</span>
+                                                </div>
+                                                
                                             </div>
                                         </div>
                                     </div>
                                     <!-- Single Courses End -->
                                 </div>
-                                <div class="col-lg-4 col-md-6">
+                                <div class="col-lg-3 col-md-6">
                                     <!-- Single Courses Start -->
                                     <div class="single-courses">
                                         <div class="courses-images">
-                                            <a href="courses-details.html"><img src="assets/images/courses/courses-04.jpg" alt="Courses"></a>
+                                            <a href="#"><img src="assets/images/courses/courseImg.png" alt="Courses"></a>
                                         </div>
                                         <div class="courses-content">
-                                          
-                                            <h4 class="title"><a href="courses-details.html">Graphic Design: Illustrating Badges and Icons with Geometric Shapes</a></h4>
+                                            <h4 class="title"><a href="#">Create Amazing Colour Scheme for Your UX Design Projects</a></h4>
                                             <div class="courses-meta">
-                                                <span> <i class="icofont-clock-time" style="color: #1207ab"></i> 08 hr 15 mins</span>
-                                                <span> <i class="icofont-read-book" style="color: #1207ab"></i> Online </span>
-                                            </div>
-                                            <div class="courses-price-review">
-                                                <div class="courses-price">
-                                                    <span class="sale-parice">#237.00</span>
-                                                </div>
                                                 <div class="courses-review">
                                                     <span class="rating-count">4.9</span>
                                                     <span class="rating-star">
 															<span class="rating-bar" style="width: 80%;"></span>
                                                     </span>
                                                 </div>
+                                                
+                                            </div>
+                                            <div class="courses-price-review">
+                                                <div class="courses-price">
+                                                    <p class="courses-meta add-margin">Online</p>
+                                                    <span class="sale-parice">#385.00</span>
+                                                </div>
+                                                <div class="courses-price add-border-left">
+                                                    <p class="courses-meta add-margin">Offline</p>
+                                                    <span class="sale-parice">#385.00</span>
+                                                </div>
+                                                
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- Single Courses End -->
+                                </div>
+                                <div class="col-lg-3 col-md-6">
+                                    <!-- Single Courses Start -->
+                                    <div class="single-courses">
+                                        <div class="courses-images">
+                                            <a href="#"><img src="assets/images/courses/courseImg.png" alt="Courses"></a>
+                                        </div>
+                                        <div class="courses-content">
+                                            <h4 class="title"><a href="#">Create Amazing Colour Scheme for Your UX Design Projects</a></h4>
+                                            <div class="courses-meta">
+                                                <div class="courses-review">
+                                                    <span class="rating-count">4.9</span>
+                                                    <span class="rating-star">
+															<span class="rating-bar" style="width: 80%;"></span>
+                                                    </span>
+                                                </div>
+                                                
+                                            </div>
+                                            <div class="courses-price-review">
+                                                <div class="courses-price">
+                                                    <p class="courses-meta add-margin">Online</p>
+                                                    <span class="sale-parice">#385.00</span>
+                                                </div>
+                                                <div class="courses-price add-border-left">
+                                                    <p class="courses-meta add-margin">Offline</p>
+                                                    <span class="sale-parice">#385.00</span>
+                                                </div>
+                                                
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- Single Courses End -->
+                                </div>
+                                <div class="col-lg-3 col-md-6">
+                                    <!-- Single Courses Start -->
+                                    <div class="single-courses">
+                                        <div class="courses-images">
+                                            <a href="#"><img src="assets/images/courses/courseImg.png" alt="Courses"></a>
+                                        </div>
+                                        <div class="courses-content">
+                                            <h4 class="title"><a href="#">Create Amazing Colour Scheme for Your UX Design Projects</a></h4>
+                                            <div class="courses-meta">
+                                                <div class="courses-review">
+                                                    <span class="rating-count">4.9</span>
+                                                    <span class="rating-star">
+															<span class="rating-bar" style="width: 80%;"></span>
+                                                    </span>
+                                                </div>
+                                                
+                                            </div>
+                                            <div class="courses-price-review">
+                                                <div class="courses-price">
+                                                    <p class="courses-meta add-margin">Online</p>
+                                                    <span class="sale-parice">#385.00</span>
+                                                </div>
+                                                <div class="courses-price add-border-left">
+                                                    <p class="courses-meta add-margin">Offline</p>
+                                                    <span class="sale-parice">#385.00</span>
+                                                </div>
+                                                
                                             </div>
                                         </div>
                                     </div>
@@ -1051,170 +1366,257 @@
                         <!-- All Courses Wrapper Start -->
                         <div class="courses-wrapper">
                             <div class="row">
-                                <div class="col-lg-4 col-md-6">
+                                <div class="col-lg-3 col-md-6">
                                     <!-- Single Courses Start -->
                                     <div class="single-courses">
                                         <div class="courses-images">
-                                            <a href="courses-details.html"><img src="assets/images/courses/courses-03.jpg" alt="Courses"></a>
+                                            <a href="#"><img src="assets/images/courses/courseImg.png" alt="Courses"></a>
                                         </div>
                                         <div class="courses-content">
-                                         
-                                            <h4 class="title"><a href="courses-details.html">Data Science and Machine Learning with Python - Hands On!</a></h4>
+                                            <h4 class="title"><a href="#">Create Amazing Colour Scheme for Your UX Design Projects</a></h4>
                                             <div class="courses-meta">
-                                                <span> <i class="icofont-clock-time" style="color: #1207ab"></i> 08 hr 15 mins</span>
-                                                <span> <i class="icofont-read-book" style="color: #1207ab"></i> Online </span>
+                                                <div class="courses-review">
+                                                    <span class="rating-count">4.9</span>
+                                                    <span class="rating-star">
+															<span class="rating-bar" style="width: 80%;"></span>
+                                                    </span>
+                                                </div>
+                                                
                                             </div>
                                             <div class="courses-price-review">
                                                 <div class="courses-price">
+                                                    <p class="courses-meta add-margin">Online</p>
                                                     <span class="sale-parice">#385.00</span>
-                                                    <span class="old-parice">#440.00</span>
                                                 </div>
-                                                <div class="courses-review">
-                                                    <span class="rating-count">4.9</span>
-                                                    <span class="rating-star">
-															<span class="rating-bar" style="width: 80%;"></span>
-                                                    </span>
+                                                <div class="courses-price add-border-left">
+                                                    <p class="courses-meta add-margin">Offline</p>
+                                                    <span class="sale-parice">#385.00</span>
                                                 </div>
+                                                
                                             </div>
                                         </div>
                                     </div>
                                     <!-- Single Courses End -->
                                 </div>
-                                <div class="col-lg-4 col-md-6">
+                                <div class="col-lg-3 col-md-6">
                                     <!-- Single Courses Start -->
                                     <div class="single-courses">
                                         <div class="courses-images">
-                                            <a href="courses-details.html"><img src="assets/images/courses/courses-05.jpg" alt="Courses"></a>
+                                            <a href="#"><img src="assets/images/courses/courseImg.png" alt="Courses"></a>
                                         </div>
                                         <div class="courses-content">
-                                           
-                                            <h4 class="title"><a href="courses-details.html">Create Amazing Color Schemes for Your UX Design Projects</a></h4>
+                                            <h4 class="title"><a href="#">Create Amazing Colour Scheme for Your UX Design Projects</a></h4>
                                             <div class="courses-meta">
-                                                <span> <i class="icofont-clock-time" style="color: #1207ab"></i> 08 hr 15 mins</span>
-                                                <span> <i class="icofont-read-book" style="color: #1207ab"></i> Online </span>
-                                            </div>
-                                            <div class="courses-price-review">
-                                                <div class="courses-price">
-                                                    <span class="sale-parice">#420.00</span>
-                                                </div>
                                                 <div class="courses-review">
                                                     <span class="rating-count">4.9</span>
                                                     <span class="rating-star">
 															<span class="rating-bar" style="width: 80%;"></span>
                                                     </span>
                                                 </div>
+                                                
+                                            </div>
+                                            <div class="courses-price-review">
+                                                <div class="courses-price">
+                                                    <p class="courses-meta add-margin">Online</p>
+                                                    <span class="sale-parice">#385.00</span>
+                                                </div>
+                                                <div class="courses-price add-border-left">
+                                                    <p class="courses-meta add-margin">Offline</p>
+                                                    <span class="sale-parice">#385.00</span>
+                                                </div>
+                                                
                                             </div>
                                         </div>
                                     </div>
                                     <!-- Single Courses End -->
                                 </div>
-                                <div class="col-lg-4 col-md-6">
+                                <div class="col-lg-3 col-md-6">
                                     <!-- Single Courses Start -->
                                     <div class="single-courses">
                                         <div class="courses-images">
-                                            <a href="courses-details.html"><img src="assets/images/courses/courses-01.jpg" alt="Courses"></a>
+                                            <a href="#"><img src="assets/images/courses/courseImg.png" alt="Courses"></a>
                                         </div>
                                         <div class="courses-content">
-                                            
-                                            <h4 class="title"><a href="courses-details.html">Culture & Leadership: Strategies for a Successful Business</a></h4>
+                                            <h4 class="title"><a href="#">Create Amazing Colour Scheme for Your UX Design Projects</a></h4>
                                             <div class="courses-meta">
-                                                <span> <i class="icofont-clock-time" style="color: #1207ab"></i> 08 hr 15 mins</span>
-                                                <span> <i class="icofont-read-book" style="color: #1207ab"></i> Online </span>
-                                            </div>
-                                            <div class="courses-price-review">
-                                                <div class="courses-price">
-                                                    <span class="sale-parice">#295.00</span>
-                                                </div>
                                                 <div class="courses-review">
                                                     <span class="rating-count">4.9</span>
                                                     <span class="rating-star">
 															<span class="rating-bar" style="width: 80%;"></span>
                                                     </span>
                                                 </div>
+                                                
+                                            </div>
+                                            <div class="courses-price-review">
+                                                <div class="courses-price">
+                                                    <p class="courses-meta add-margin">Online</p>
+                                                    <span class="sale-parice">#385.00</span>
+                                                </div>
+                                                <div class="courses-price add-border-left">
+                                                    <p class="courses-meta add-margin">Offline</p>
+                                                    <span class="sale-parice">#385.00</span>
+                                                </div>
+                                                
                                             </div>
                                         </div>
                                     </div>
                                     <!-- Single Courses End -->
                                 </div>
-                                <div class="col-lg-4 col-md-6">
+                                <div class="col-lg-3 col-md-6">
                                     <!-- Single Courses Start -->
                                     <div class="single-courses">
                                         <div class="courses-images">
-                                            <a href="courses-details.html"><img src="assets/images/courses/courses-04.jpg" alt="Courses"></a>
+                                            <a href="#"><img src="assets/images/courses/courseImg.png" alt="Courses"></a>
                                         </div>
                                         <div class="courses-content">
-                                          
-                                            <h4 class="title"><a href="courses-details.html">Finance Series: Learn to Budget and Calculate your Net Worth.</a></h4>
+                                            <h4 class="title"><a href="#">Create Amazing Colour Scheme for Your UX Design Projects</a></h4>
                                             <div class="courses-meta">
-                                                <span> <i class="icofont-clock-time" style="color: #1207ab"></i> 08 hr 15 mins</span>
-                                                <span> <i class="icofont-read-book" style="color: #1207ab"></i> Online </span>
-                                            </div>
-                                            <div class="courses-price-review">
-                                                <div class="courses-price">
-                                                    <span class="sale-parice">Free</span>
-                                                </div>
                                                 <div class="courses-review">
                                                     <span class="rating-count">4.9</span>
                                                     <span class="rating-star">
 															<span class="rating-bar" style="width: 80%;"></span>
                                                     </span>
                                                 </div>
+                                                
+                                            </div>
+                                            <div class="courses-price-review">
+                                                <div class="courses-price">
+                                                    <p class="courses-meta add-margin">Online</p>
+                                                    <span class="sale-parice">#385.00</span>
+                                                </div>
+                                                <div class="courses-price add-border-left">
+                                                    <p class="courses-meta add-margin">Offline</p>
+                                                    <span class="sale-parice">#385.00</span>
+                                                </div>
+                                                
                                             </div>
                                         </div>
                                     </div>
                                     <!-- Single Courses End -->
                                 </div>
-                                <div class="col-lg-4 col-md-6">
+                                <div class="col-lg-3 col-md-6">
                                     <!-- Single Courses Start -->
                                     <div class="single-courses">
                                         <div class="courses-images">
-                                            <a href="courses-details.html"><img src="assets/images/courses/courses-06.jpg" alt="Courses"></a>
+                                            <a href="#"><img src="assets/images/courses/courseImg.png" alt="Courses"></a>
                                         </div>
                                         <div class="courses-content">
-                                        
-                                            <h4 class="title"><a href="courses-details.html">Build Brand Into Marketing: Tackling the New Marketing Landscape</a></h4>
+                                            <h4 class="title"><a href="#">Create Amazing Colour Scheme for Your UX Design Projects</a></h4>
                                             <div class="courses-meta">
-                                                <span> <i class="icofont-clock-time" style="color: #1207ab"></i> 08 hr 15 mins</span>
-                                                <span> <i class="icofont-read-book" style="color: #1207ab"></i> Online </span>
-                                            </div>
-                                            <div class="courses-price-review">
-                                                <div class="courses-price">
-                                                    <span class="sale-parice">#136.00</span>
-                                                </div>
                                                 <div class="courses-review">
                                                     <span class="rating-count">4.9</span>
                                                     <span class="rating-star">
 															<span class="rating-bar" style="width: 80%;"></span>
                                                     </span>
                                                 </div>
+                                                
+                                            </div>
+                                            <div class="courses-price-review">
+                                                <div class="courses-price">
+                                                    <p class="courses-meta add-margin">Online</p>
+                                                    <span class="sale-parice">#385.00</span>
+                                                </div>
+                                                <div class="courses-price add-border-left">
+                                                    <p class="courses-meta add-margin">Offline</p>
+                                                    <span class="sale-parice">#385.00</span>
+                                                </div>
+                                                
                                             </div>
                                         </div>
                                     </div>
                                     <!-- Single Courses End -->
                                 </div>
-                                <div class="col-lg-4 col-md-6">
+                                <div class="col-lg-3 col-md-6">
                                     <!-- Single Courses Start -->
                                     <div class="single-courses">
                                         <div class="courses-images">
-                                            <a href="courses-details.html"><img src="assets/images/courses/courses-02.jpg" alt="Courses"></a>
+                                            <a href="#"><img src="assets/images/courses/courseImg.png" alt="Courses"></a>
                                         </div>
                                         <div class="courses-content">
-                                          
-                                            <h4 class="title"><a href="courses-details.html">Graphic Design: Illustrating Badges and Icons with Geometric Shapes</a></h4>
+                                            <h4 class="title"><a href="#">Create Amazing Colour Scheme for Your UX Design Projects</a></h4>
                                             <div class="courses-meta">
-                                                <span> <i class="icofont-clock-time" style="color: #1207ab"></i> 08 hr 15 mins</span>
-                                                <span> <i class="icofont-read-book" style="color: #1207ab"></i> Online </span>
-                                            </div>
-                                            <div class="courses-price-review">
-                                                <div class="courses-price">
-                                                    <span class="sale-parice">#237.00</span>
-                                                </div>
                                                 <div class="courses-review">
                                                     <span class="rating-count">4.9</span>
                                                     <span class="rating-star">
 															<span class="rating-bar" style="width: 80%;"></span>
                                                     </span>
                                                 </div>
+                                                
+                                            </div>
+                                            <div class="courses-price-review">
+                                                <div class="courses-price">
+                                                    <p class="courses-meta add-margin">Online</p>
+                                                    <span class="sale-parice">#385.00</span>
+                                                </div>
+                                                <div class="courses-price add-border-left">
+                                                    <p class="courses-meta add-margin">Offline</p>
+                                                    <span class="sale-parice">#385.00</span>
+                                                </div>
+                                                
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- Single Courses End -->
+                                </div>
+                                <div class="col-lg-3 col-md-6">
+                                    <!-- Single Courses Start -->
+                                    <div class="single-courses">
+                                        <div class="courses-images">
+                                            <a href="#"><img src="assets/images/courses/courseImg.png" alt="Courses"></a>
+                                        </div>
+                                        <div class="courses-content">
+                                            <h4 class="title"><a href="#">Create Amazing Colour Scheme for Your UX Design Projects</a></h4>
+                                            <div class="courses-meta">
+                                                <div class="courses-review">
+                                                    <span class="rating-count">4.9</span>
+                                                    <span class="rating-star">
+															<span class="rating-bar" style="width: 80%;"></span>
+                                                    </span>
+                                                </div>
+                                                
+                                            </div>
+                                            <div class="courses-price-review">
+                                                <div class="courses-price">
+                                                    <p class="courses-meta add-margin">Online</p>
+                                                    <span class="sale-parice">#385.00</span>
+                                                </div>
+                                                <div class="courses-price add-border-left">
+                                                    <p class="courses-meta add-margin">Offline</p>
+                                                    <span class="sale-parice">#385.00</span>
+                                                </div>
+                                                
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- Single Courses End -->
+                                </div>
+                                <div class="col-lg-3 col-md-6">
+                                    <!-- Single Courses Start -->
+                                    <div class="single-courses">
+                                        <div class="courses-images">
+                                            <a href="#"><img src="assets/images/courses/courseImg.png" alt="Courses"></a>
+                                        </div>
+                                        <div class="courses-content">
+                                            <h4 class="title"><a href="#">Create Amazing Colour Scheme for Your UX Design Projects</a></h4>
+                                            <div class="courses-meta">
+                                                <div class="courses-review">
+                                                    <span class="rating-count">4.9</span>
+                                                    <span class="rating-star">
+															<span class="rating-bar" style="width: 80%;"></span>
+                                                    </span>
+                                                </div>
+                                                
+                                            </div>
+                                            <div class="courses-price-review">
+                                                <div class="courses-price">
+                                                    <p class="courses-meta add-margin">Online</p>
+                                                    <span class="sale-parice">#385.00</span>
+                                                </div>
+                                                <div class="courses-price add-border-left">
+                                                    <p class="courses-meta add-margin">Offline</p>
+                                                    <span class="sale-parice">#385.00</span>
+                                                </div>
+                                                
                                             </div>
                                         </div>
                                     </div>
@@ -1230,170 +1632,257 @@
                         <!-- All Courses Wrapper Start -->
                         <div class="courses-wrapper">
                             <div class="row">
-                                <div class="col-lg-4 col-md-6">
+                                <div class="col-lg-3 col-md-6">
                                     <!-- Single Courses Start -->
                                     <div class="single-courses">
                                         <div class="courses-images">
-                                            <a href="courses-details.html"><img src="assets/images/courses/courses-04.jpg" alt="Courses"></a>
+                                            <a href="#"><img src="assets/images/courses/courseImg.png" alt="Courses"></a>
                                         </div>
                                         <div class="courses-content">
-                                            
-                                            <h4 class="title"><a href="courses-details.html">Data Science and Machine Learning with Python - Hands On!</a></h4>
+                                            <h4 class="title"><a href="#">Create Amazing Colour Scheme for Your UX Design Projects</a></h4>
                                             <div class="courses-meta">
-                                                <span> <i class="icofont-clock-time" style="color: #1207ab"></i> 08 hr 15 mins</span>
-                                                <span> <i class="icofont-read-book" style="color: #1207ab"></i> Online </span>
+                                                <div class="courses-review">
+                                                    <span class="rating-count">4.9</span>
+                                                    <span class="rating-star">
+															<span class="rating-bar" style="width: 80%;"></span>
+                                                    </span>
+                                                </div>
+                                                
                                             </div>
                                             <div class="courses-price-review">
                                                 <div class="courses-price">
+                                                    <p class="courses-meta add-margin">Online</p>
                                                     <span class="sale-parice">#385.00</span>
-                                                    <span class="old-parice">#440.00</span>
                                                 </div>
-                                                <div class="courses-review">
-                                                    <span class="rating-count">4.9</span>
-                                                    <span class="rating-star">
-															<span class="rating-bar" style="width: 80%;"></span>
-                                                    </span>
+                                                <div class="courses-price add-border-left">
+                                                    <p class="courses-meta add-margin">Offline</p>
+                                                    <span class="sale-parice">#385.00</span>
                                                 </div>
+                                                
                                             </div>
                                         </div>
                                     </div>
                                     <!-- Single Courses End -->
                                 </div>
-                                <div class="col-lg-4 col-md-6">
+                                <div class="col-lg-3 col-md-6">
                                     <!-- Single Courses Start -->
                                     <div class="single-courses">
                                         <div class="courses-images">
-                                            <a href="courses-details.html"><img src="assets/images/courses/courses-02.jpg" alt="Courses"></a>
+                                            <a href="#"><img src="assets/images/courses/courseImg.png" alt="Courses"></a>
                                         </div>
                                         <div class="courses-content">
-                                          
-                                            <h4 class="title"><a href="courses-details.html">Create Amazing Color Schemes for Your UX Design Projects</a></h4>
+                                            <h4 class="title"><a href="#">Create Amazing Colour Scheme for Your UX Design Projects</a></h4>
                                             <div class="courses-meta">
-                                                <span> <i class="icofont-clock-time" style="color: #1207ab"></i> 08 hr 15 mins</span>
-                                                <span> <i class="icofont-read-book" style="color: #1207ab"></i> Online </span>
-                                            </div>
-                                            <div class="courses-price-review">
-                                                <div class="courses-price">
-                                                    <span class="sale-parice">#420.00</span>
-                                                </div>
                                                 <div class="courses-review">
                                                     <span class="rating-count">4.9</span>
                                                     <span class="rating-star">
 															<span class="rating-bar" style="width: 80%;"></span>
                                                     </span>
                                                 </div>
+                                                
+                                            </div>
+                                            <div class="courses-price-review">
+                                                <div class="courses-price">
+                                                    <p class="courses-meta add-margin">Online</p>
+                                                    <span class="sale-parice">#385.00</span>
+                                                </div>
+                                                <div class="courses-price add-border-left">
+                                                    <p class="courses-meta add-margin">Offline</p>
+                                                    <span class="sale-parice">#385.00</span>
+                                                </div>
+                                                
                                             </div>
                                         </div>
                                     </div>
                                     <!-- Single Courses End -->
                                 </div>
-                                <div class="col-lg-4 col-md-6">
+                                <div class="col-lg-3 col-md-6">
                                     <!-- Single Courses Start -->
                                     <div class="single-courses">
                                         <div class="courses-images">
-                                            <a href="courses-details.html"><img src="assets/images/courses/courses-06.jpg" alt="Courses"></a>
+                                            <a href="#"><img src="assets/images/courses/courseImg.png" alt="Courses"></a>
                                         </div>
                                         <div class="courses-content">
-                                          
-                                            <h4 class="title"><a href="courses-details.html">Culture & Leadership: Strategies for a Successful Business</a></h4>
+                                            <h4 class="title"><a href="#">Create Amazing Colour Scheme for Your UX Design Projects</a></h4>
                                             <div class="courses-meta">
-                                                <span> <i class="icofont-clock-time" style="color: #1207ab"></i> 08 hr 15 mins</span>
-                                                <span> <i class="icofont-read-book" style="color: #1207ab"></i> Online </span>
-                                            </div>
-                                            <div class="courses-price-review">
-                                                <div class="courses-price">
-                                                    <span class="sale-parice">#295.00</span>
-                                                </div>
                                                 <div class="courses-review">
                                                     <span class="rating-count">4.9</span>
                                                     <span class="rating-star">
 															<span class="rating-bar" style="width: 80%;"></span>
                                                     </span>
                                                 </div>
+                                                
+                                            </div>
+                                            <div class="courses-price-review">
+                                                <div class="courses-price">
+                                                    <p class="courses-meta add-margin">Online</p>
+                                                    <span class="sale-parice">#385.00</span>
+                                                </div>
+                                                <div class="courses-price add-border-left">
+                                                    <p class="courses-meta add-margin">Offline</p>
+                                                    <span class="sale-parice">#385.00</span>
+                                                </div>
+                                                
                                             </div>
                                         </div>
                                     </div>
                                     <!-- Single Courses End -->
                                 </div>
-                                <div class="col-lg-4 col-md-6">
+                                <div class="col-lg-3 col-md-6">
                                     <!-- Single Courses Start -->
                                     <div class="single-courses">
                                         <div class="courses-images">
-                                            <a href="courses-details.html"><img src="assets/images/courses/courses-05.jpg" alt="Courses"></a>
+                                            <a href="#"><img src="assets/images/courses/courseImg.png" alt="Courses"></a>
                                         </div>
                                         <div class="courses-content">
-                                     
-                                            <h4 class="title"><a href="courses-details.html">Finance Series: Learn to Budget and Calculate your Net Worth.</a></h4>
+                                            <h4 class="title"><a href="#">Create Amazing Colour Scheme for Your UX Design Projects</a></h4>
                                             <div class="courses-meta">
-                                                <span> <i class="icofont-clock-time" style="color: #1207ab"></i> 08 hr 15 mins</span>
-                                                <span> <i class="icofont-read-book" style="color: #1207ab"></i> Online </span>
-                                            </div>
-                                            <div class="courses-price-review">
-                                                <div class="courses-price">
-                                                    <span class="sale-parice">Free</span>
-                                                </div>
                                                 <div class="courses-review">
                                                     <span class="rating-count">4.9</span>
                                                     <span class="rating-star">
 															<span class="rating-bar" style="width: 80%;"></span>
                                                     </span>
                                                 </div>
+                                                
+                                            </div>
+                                            <div class="courses-price-review">
+                                                <div class="courses-price">
+                                                    <p class="courses-meta add-margin">Online</p>
+                                                    <span class="sale-parice">#385.00</span>
+                                                </div>
+                                                <div class="courses-price add-border-left">
+                                                    <p class="courses-meta add-margin">Offline</p>
+                                                    <span class="sale-parice">#385.00</span>
+                                                </div>
+                                                
                                             </div>
                                         </div>
                                     </div>
                                     <!-- Single Courses End -->
                                 </div>
-                                <div class="col-lg-4 col-md-6">
+                                <div class="col-lg-3 col-md-6">
                                     <!-- Single Courses Start -->
                                     <div class="single-courses">
                                         <div class="courses-images">
-                                            <a href="courses-details.html"><img src="assets/images/courses/courses-01.jpg" alt="Courses"></a>
+                                            <a href="#"><img src="assets/images/courses/courseImg.png" alt="Courses"></a>
                                         </div>
                                         <div class="courses-content">
-                                         
-                                            <h4 class="title"><a href="courses-details.html">Build Brand Into Marketing: Tackling the New Marketing Landscape</a></h4>
+                                            <h4 class="title"><a href="#">Create Amazing Colour Scheme for Your UX Design Projects</a></h4>
                                             <div class="courses-meta">
-                                                <span> <i class="icofont-clock-time" style="color: #1207ab"></i> 08 hr 15 mins</span>
-                                                <span> <i class="icofont-read-book" style="color: #1207ab"></i> Online </span>
-                                            </div>
-                                            <div class="courses-price-review">
-                                                <div class="courses-price">
-                                                    <span class="sale-parice">#136.00</span>
-                                                </div>
                                                 <div class="courses-review">
                                                     <span class="rating-count">4.9</span>
                                                     <span class="rating-star">
 															<span class="rating-bar" style="width: 80%;"></span>
                                                     </span>
                                                 </div>
+                                                
+                                            </div>
+                                            <div class="courses-price-review">
+                                                <div class="courses-price">
+                                                    <p class="courses-meta add-margin">Online</p>
+                                                    <span class="sale-parice">#385.00</span>
+                                                </div>
+                                                <div class="courses-price add-border-left">
+                                                    <p class="courses-meta add-margin">Offline</p>
+                                                    <span class="sale-parice">#385.00</span>
+                                                </div>
+                                                
                                             </div>
                                         </div>
                                     </div>
                                     <!-- Single Courses End -->
                                 </div>
-                                <div class="col-lg-4 col-md-6">
+                                <div class="col-lg-3 col-md-6">
                                     <!-- Single Courses Start -->
                                     <div class="single-courses">
                                         <div class="courses-images">
-                                            <a href="courses-details.html"><img src="assets/images/courses/courses-03.jpg" alt="Courses"></a>
+                                            <a href="#"><img src="assets/images/courses/courseImg.png" alt="Courses"></a>
                                         </div>
                                         <div class="courses-content">
-                                            
-                                            <h4 class="title"><a href="courses-details.html">Graphic Design: Illustrating Badges and Icons with Geometric Shapes</a></h4>
+                                            <h4 class="title"><a href="#">Create Amazing Colour Scheme for Your UX Design Projects</a></h4>
                                             <div class="courses-meta">
-                                                <span> <i class="icofont-clock-time" style="color: #1207ab"></i> 08 hr 15 mins</span>
-                                                <span> <i class="icofont-read-book" style="color: #1207ab"></i> Online </span>
-                                            </div>
-                                            <div class="courses-price-review">
-                                                <div class="courses-price">
-                                                    <span class="sale-parice">#237.00</span>
-                                                </div>
                                                 <div class="courses-review">
                                                     <span class="rating-count">4.9</span>
                                                     <span class="rating-star">
 															<span class="rating-bar" style="width: 80%;"></span>
                                                     </span>
                                                 </div>
+                                                
+                                            </div>
+                                            <div class="courses-price-review">
+                                                <div class="courses-price">
+                                                    <p class="courses-meta add-margin">Online</p>
+                                                    <span class="sale-parice">#385.00</span>
+                                                </div>
+                                                <div class="courses-price add-border-left">
+                                                    <p class="courses-meta add-margin">Offline</p>
+                                                    <span class="sale-parice">#385.00</span>
+                                                </div>
+                                                
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- Single Courses End -->
+                                </div>
+                                <div class="col-lg-3 col-md-6">
+                                    <!-- Single Courses Start -->
+                                    <div class="single-courses">
+                                        <div class="courses-images">
+                                            <a href="#"><img src="assets/images/courses/courseImg.png" alt="Courses"></a>
+                                        </div>
+                                        <div class="courses-content">
+                                            <h4 class="title"><a href="#">Create Amazing Colour Scheme for Your UX Design Projects</a></h4>
+                                            <div class="courses-meta">
+                                                <div class="courses-review">
+                                                    <span class="rating-count">4.9</span>
+                                                    <span class="rating-star">
+															<span class="rating-bar" style="width: 80%;"></span>
+                                                    </span>
+                                                </div>
+                                                
+                                            </div>
+                                            <div class="courses-price-review">
+                                                <div class="courses-price">
+                                                    <p class="courses-meta add-margin">Online</p>
+                                                    <span class="sale-parice">#385.00</span>
+                                                </div>
+                                                <div class="courses-price add-border-left">
+                                                    <p class="courses-meta add-margin">Offline</p>
+                                                    <span class="sale-parice">#385.00</span>
+                                                </div>
+                                                
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- Single Courses End -->
+                                </div>
+                                <div class="col-lg-3 col-md-6">
+                                    <!-- Single Courses Start -->
+                                    <div class="single-courses">
+                                        <div class="courses-images">
+                                            <a href="#"><img src="assets/images/courses/courseImg.png" alt="Courses"></a>
+                                        </div>
+                                        <div class="courses-content">
+                                            <h4 class="title"><a href="#">Create Amazing Colour Scheme for Your UX Design Projects</a></h4>
+                                            <div class="courses-meta">
+                                                <div class="courses-review">
+                                                    <span class="rating-count">4.9</span>
+                                                    <span class="rating-star">
+															<span class="rating-bar" style="width: 80%;"></span>
+                                                    </span>
+                                                </div>
+                                                
+                                            </div>
+                                            <div class="courses-price-review">
+                                                <div class="courses-price">
+                                                    <p class="courses-meta add-margin">Online</p>
+                                                    <span class="sale-parice">#385.00</span>
+                                                </div>
+                                                <div class="courses-price add-border-left">
+                                                    <p class="courses-meta add-margin">Offline</p>
+                                                    <span class="sale-parice">#385.00</span>
+                                                </div>
+                                                
                                             </div>
                                         </div>
                                     </div>
@@ -1435,12 +1924,15 @@ export default{
 </script>
 
 <style scoped>
-
+.add-margin{
+    margin-bottom: 0px;
+    padding-top: 0px !important;
+}
 .sm-texts {
   text-align: center;
   padding: 0 170px;
   color: #888888;
-  font-size: 25px;
+  font-size: 20px;
   font-family: "Poppins";
   font-weight: 300;
   line-height: 35px;
@@ -1450,13 +1942,17 @@ export default{
 .big-texts {
   margin-top: 80px;
   text-align: center;
-  padding: 0 120px;
+  padding: 0 180px;
   color: #150c21;
   font-family: "Poppins";
   font-weight: 500;
-  font-size: 50px;
+  font-size: 40px;
 }
 
+.add-border-left{
+    border-left: 1px solid #888888;
+    padding-left: 28px;
+}
 
 @media only screen and (max-width: 575px) {
   .brands{
