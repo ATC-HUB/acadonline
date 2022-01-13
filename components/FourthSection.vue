@@ -12,7 +12,7 @@
             </div>
         </div>
         <div class="col-md-6">
-            <img src="assets/images/clusterImages.png" class="mt-4 desk-imgs">
+            <img src="assets/images/clusterImages1.png" class="mt-4 desk-imgs">
         </div>
       </div>
     </div>
@@ -48,6 +48,7 @@ export default {
     line-height: 1.7;
     margin-top: 50px;
     font-weight: 400;
+    padding-right: 90px;
 }
 
 .btn{
@@ -58,10 +59,7 @@ export default {
     margin-top: 50px;
 }
 
-.btn-align-center{
-    justify-content: center;
-    display: flex;
-}
+
 .btn:hover{
     color: #1207ab;
     background: #fff;
@@ -72,7 +70,10 @@ export default {
   .desk-imgs{
     display: none;
   }
-
+.btn-align-center{
+    justify-content: center;
+    display: flex;
+}
   .mob-imgs{
     width: 100%;
   }
@@ -87,7 +88,9 @@ export default {
       font-size: 16px;
       font-weight: 400;
       line-height: 1.7;
-      margin-bottom: 50px;
+      margin-bottom: 40px;
+    margin-top: 35px;
+      padding-right: 0px;
   }
 }
 
