@@ -2142,14 +2142,16 @@ export default{
 
   .sm-texts {
   padding: 0px 15px;
-  font-size: 20px;
-  line-height: 30px;
+  font-size: 16px;
+  line-height: 1.7;
+  font-weight: 400;
 }
 
 .big-texts {
     margin-top: 0px;
   padding: 0px 15px;
   font-size: 30px;
+  font-weight: 600;
 }
 
 }

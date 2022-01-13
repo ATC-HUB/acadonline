@@ -7,8 +7,9 @@
             <h4 class="text">Are You looking to train your team with Digital Skills?</h4>
             <p class="sm-text">A well trained personel is a guarantee for effective and efficient service delivery for optimum productivity. </p>
             <img src="assets/images/pic1.png" class="mob-imgs" width="100%">
-
+            <div class="btn-align-center">
             <button class="btn">Contact US</button>
+            </div>
         </div>
         <div class="col-md-6">
             <img src="assets/images/clusterImages.png" class="mt-4 desk-imgs">
@@ -37,16 +38,16 @@ export default {
     color: #46E6E4;
     font-size: 50px;
     padding-top: 30px;
-    font-weight: 500;
+    font-weight: 600;
     line-height: 60px;
 }
 
 .sm-text{
     color: #fff;
-    font-size: 25px;
-    line-height: 35px;
+    font-size: 16px;
+    line-height: 1.7;
     margin-top: 50px;
-    font-weight: 300;
+    font-weight: 400;
 }
 
 .btn{
@@ -57,6 +58,10 @@ export default {
     margin-top: 50px;
 }
 
+.btn-align-center{
+    justify-content: center;
+    display: flex;
+}
 .btn:hover{
     color: #1207ab;
     background: #fff;
@@ -68,16 +73,20 @@ export default {
     display: none;
   }
 
+  .mob-imgs{
+    width: 100%;
+  }
+
   .text{
       font-size: 30px;
-      font-weight: 400;
+      font-weight: 600;
       line-height: 40px;
   }
 
   .sm-text{
-      font-size: 20px;
-      font-weight: 300;
-      line-height: 30px;
+      font-size: 16px;
+      font-weight: 400;
+      line-height: 1.7;
       margin-bottom: 50px;
   }
 }
