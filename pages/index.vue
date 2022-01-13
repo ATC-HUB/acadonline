@@ -7,9 +7,10 @@
             <SecondSection />
             <ThirdSection />
             <FourthSection />
+            <FifthSection />
 
         <!-- How It Work End -->
-        <div class="section section-padding mt-n1" id="sign_up">
+        <div class="section section-padding mt-n1">
             <div class="container">
 
                 <!-- Section Title Start -->
@@ -283,7 +284,7 @@
         </div>
 
         <!-- Footer Start  -->
-        <div class="section footer-section mt-5" id="footer">
+        <div class="section footer-section mt-5">
             <div class="footer-widget-section">
                 <div class="container">
                     <div class="row">

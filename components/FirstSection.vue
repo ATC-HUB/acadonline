@@ -47,7 +47,7 @@ export default {
 
 @media only screen and (max-width: 575px) {
   .slider-content .main-title {
-    font-size: 50px;
+    font-size: 10.5vw;
     font-weight: 600px;
     margin-top: 0px;
     line-height: 55px;
