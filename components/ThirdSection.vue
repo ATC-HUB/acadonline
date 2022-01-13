@@ -57,7 +57,10 @@
                                                     <p class="courses-meta add-margin">Online</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
-                                                <div class="courses-price add-border-left">
+                                                <div>
+                                                    <img src="assets/images/verticalLine.png">
+                                                </div>
+                                                <div class="courses-price">
                                                     <p class="courses-meta add-margin">Offline</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
@@ -89,7 +92,10 @@
                                                     <p class="courses-meta add-margin">Online</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
-                                                <div class="courses-price add-border-left">
+                                                <div>
+                                                    <img src="assets/images/verticalLine.png">
+                                                </div>
+                                                <div class="courses-price">
                                                     <p class="courses-meta add-margin">Offline</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
@@ -121,7 +127,10 @@
                                                     <p class="courses-meta add-margin">Online</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
-                                                <div class="courses-price add-border-left">
+                                                <div>
+                                                    <img src="assets/images/verticalLine.png">
+                                                </div>
+                                                <div class="courses-price">
                                                     <p class="courses-meta add-margin">Offline</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
@@ -153,7 +162,10 @@
                                                     <p class="courses-meta add-margin">Online</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
-                                                <div class="courses-price add-border-left">
+                                                <div>
+                                                    <img src="assets/images/verticalLine.png">
+                                                </div>
+                                                <div class="courses-price">
                                                     <p class="courses-meta add-margin">Offline</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
@@ -185,7 +197,10 @@
                                                     <p class="courses-meta add-margin">Online</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
-                                                <div class="courses-price add-border-left">
+                                                <div>
+                                                    <img src="assets/images/verticalLine.png">
+                                                </div>
+                                                <div class="courses-price">
                                                     <p class="courses-meta add-margin">Offline</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
@@ -217,7 +232,10 @@
                                                     <p class="courses-meta add-margin">Online</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
-                                                <div class="courses-price add-border-left">
+                                                <div>
+                                                    <img src="assets/images/verticalLine.png">
+                                                </div>
+                                                <div class="courses-price">
                                                     <p class="courses-meta add-margin">Offline</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
@@ -249,7 +267,10 @@
                                                     <p class="courses-meta add-margin">Online</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
-                                                <div class="courses-price add-border-left">
+                                                <div>
+                                                    <img src="assets/images/verticalLine.png">
+                                                </div>
+                                                <div class="courses-price">
                                                     <p class="courses-meta add-margin">Offline</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
@@ -281,7 +302,10 @@
                                                     <p class="courses-meta add-margin">Online</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
-                                                <div class="courses-price add-border-left">
+                                                <div>
+                                                    <img src="assets/images/verticalLine.png">
+                                                </div>
+                                                <div class="courses-price">
                                                     <p class="courses-meta add-margin">Offline</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
@@ -324,7 +348,10 @@
                                                     <p class="courses-meta add-margin">Online</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
-                                                <div class="courses-price add-border-left">
+                                                <div>
+                                                    <img src="assets/images/verticalLine.png">
+                                                </div>
+                                                <div class="courses-price">
                                                     <p class="courses-meta add-margin">Offline</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
@@ -356,7 +383,10 @@
                                                     <p class="courses-meta add-margin">Online</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
-                                                <div class="courses-price add-border-left">
+                                                <div>
+                                                    <img src="assets/images/verticalLine.png">
+                                                </div>
+                                                <div class="courses-price">
                                                     <p class="courses-meta add-margin">Offline</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
@@ -388,7 +418,10 @@
                                                     <p class="courses-meta add-margin">Online</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
-                                                <div class="courses-price add-border-left">
+                                                <div>
+                                                    <img src="assets/images/verticalLine.png">
+                                                </div>
+                                                <div class="courses-price">
                                                     <p class="courses-meta add-margin">Offline</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
@@ -420,7 +453,10 @@
                                                     <p class="courses-meta add-margin">Online</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
-                                                <div class="courses-price add-border-left">
+                                                <div>
+                                                    <img src="assets/images/verticalLine.png">
+                                                </div>
+                                                <div class="courses-price">
                                                     <p class="courses-meta add-margin">Offline</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
@@ -452,7 +488,10 @@
                                                     <p class="courses-meta add-margin">Online</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
-                                                <div class="courses-price add-border-left">
+                                                <div>
+                                                    <img src="assets/images/verticalLine.png">
+                                                </div>
+                                                <div class="courses-price">
                                                     <p class="courses-meta add-margin">Offline</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
@@ -484,7 +523,10 @@
                                                     <p class="courses-meta add-margin">Online</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
-                                                <div class="courses-price add-border-left">
+                                                <div>
+                                                    <img src="assets/images/verticalLine.png">
+                                                </div>
+                                                <div class="courses-price">
                                                     <p class="courses-meta add-margin">Offline</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
@@ -516,7 +558,10 @@
                                                     <p class="courses-meta add-margin">Online</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
-                                                <div class="courses-price add-border-left">
+                                                <div>
+                                                    <img src="assets/images/verticalLine.png">
+                                                </div>
+                                                <div class="courses-price">
                                                     <p class="courses-meta add-margin">Offline</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
@@ -548,7 +593,10 @@
                                                     <p class="courses-meta add-margin">Online</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
-                                                <div class="courses-price add-border-left">
+                                                <div>
+                                                    <img src="assets/images/verticalLine.png">
+                                                </div>
+                                                <div class="courses-price">
                                                     <p class="courses-meta add-margin">Offline</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
@@ -590,7 +638,10 @@
                                                     <p class="courses-meta add-margin">Online</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
-                                                <div class="courses-price add-border-left">
+                                                <div>
+                                                    <img src="assets/images/verticalLine.png">
+                                                </div>
+                                                <div class="courses-price">
                                                     <p class="courses-meta add-margin">Offline</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
@@ -622,7 +673,10 @@
                                                     <p class="courses-meta add-margin">Online</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
-                                                <div class="courses-price add-border-left">
+                                                <div>
+                                                    <img src="assets/images/verticalLine.png">
+                                                </div>
+                                                <div class="courses-price">
                                                     <p class="courses-meta add-margin">Offline</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
@@ -654,7 +708,10 @@
                                                     <p class="courses-meta add-margin">Online</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
-                                                <div class="courses-price add-border-left">
+                                                <div>
+                                                    <img src="assets/images/verticalLine.png">
+                                                </div>
+                                                <div class="courses-price">
                                                     <p class="courses-meta add-margin">Offline</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
@@ -686,7 +743,10 @@
                                                     <p class="courses-meta add-margin">Online</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
-                                                <div class="courses-price add-border-left">
+                                                <div>
+                                                    <img src="assets/images/verticalLine.png">
+                                                </div>
+                                                <div class="courses-price">
                                                     <p class="courses-meta add-margin">Offline</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
@@ -718,7 +778,10 @@
                                                     <p class="courses-meta add-margin">Online</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
-                                                <div class="courses-price add-border-left">
+                                                <div>
+                                                    <img src="assets/images/verticalLine.png">
+                                                </div>
+                                                <div class="courses-price">
                                                     <p class="courses-meta add-margin">Offline</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
@@ -750,7 +813,10 @@
                                                     <p class="courses-meta add-margin">Online</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
-                                                <div class="courses-price add-border-left">
+                                                <div>
+                                                    <img src="assets/images/verticalLine.png">
+                                                </div>
+                                                <div class="courses-price">
                                                     <p class="courses-meta add-margin">Offline</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
@@ -782,7 +848,10 @@
                                                     <p class="courses-meta add-margin">Online</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
-                                                <div class="courses-price add-border-left">
+                                                <div>
+                                                    <img src="assets/images/verticalLine.png">
+                                                </div>
+                                                <div class="courses-price">
                                                     <p class="courses-meta add-margin">Offline</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
@@ -814,7 +883,10 @@
                                                     <p class="courses-meta add-margin">Online</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
-                                                <div class="courses-price add-border-left">
+                                                <div>
+                                                    <img src="assets/images/verticalLine.png">
+                                                </div>
+                                                <div class="courses-price">
                                                     <p class="courses-meta add-margin">Offline</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
@@ -856,7 +928,10 @@
                                                     <p class="courses-meta add-margin">Online</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
-                                                <div class="courses-price add-border-left">
+                                                <div>
+                                                    <img src="assets/images/verticalLine.png">
+                                                </div>
+                                                <div class="courses-price">
                                                     <p class="courses-meta add-margin">Offline</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
@@ -888,7 +963,10 @@
                                                     <p class="courses-meta add-margin">Online</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
-                                                <div class="courses-price add-border-left">
+                                                <div>
+                                                    <img src="assets/images/verticalLine.png">
+                                                </div>
+                                                <div class="courses-price">
                                                     <p class="courses-meta add-margin">Offline</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
@@ -920,7 +998,10 @@
                                                     <p class="courses-meta add-margin">Online</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
-                                                <div class="courses-price add-border-left">
+                                                <div>
+                                                    <img src="assets/images/verticalLine.png">
+                                                </div>
+                                                <div class="courses-price">
                                                     <p class="courses-meta add-margin">Offline</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
@@ -952,7 +1033,10 @@
                                                     <p class="courses-meta add-margin">Online</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
-                                                <div class="courses-price add-border-left">
+                                                <div>
+                                                    <img src="assets/images/verticalLine.png">
+                                                </div>
+                                                <div class="courses-price">
                                                     <p class="courses-meta add-margin">Offline</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
@@ -984,7 +1068,10 @@
                                                     <p class="courses-meta add-margin">Online</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
-                                                <div class="courses-price add-border-left">
+                                                <div>
+                                                    <img src="assets/images/verticalLine.png">
+                                                </div>
+                                                <div class="courses-price">
                                                     <p class="courses-meta add-margin">Offline</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
@@ -1016,7 +1103,10 @@
                                                     <p class="courses-meta add-margin">Online</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
-                                                <div class="courses-price add-border-left">
+                                                <div>
+                                                    <img src="assets/images/verticalLine.png">
+                                                </div>
+                                                <div class="courses-price">
                                                     <p class="courses-meta add-margin">Offline</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
@@ -1048,7 +1138,10 @@
                                                     <p class="courses-meta add-margin">Online</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
-                                                <div class="courses-price add-border-left">
+                                                <div>
+                                                    <img src="assets/images/verticalLine.png">
+                                                </div>
+                                                <div class="courses-price">
                                                     <p class="courses-meta add-margin">Offline</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
@@ -1080,7 +1173,10 @@
                                                     <p class="courses-meta add-margin">Online</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
-                                                <div class="courses-price add-border-left">
+                                                <div>
+                                                    <img src="assets/images/verticalLine.png">
+                                                </div>
+                                                <div class="courses-price">
                                                     <p class="courses-meta add-margin">Offline</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
@@ -1122,7 +1218,10 @@
                                                     <p class="courses-meta add-margin">Online</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
-                                                <div class="courses-price add-border-left">
+                                                <div>
+                                                    <img src="assets/images/verticalLine.png">
+                                                </div>
+                                                <div class="courses-price">
                                                     <p class="courses-meta add-margin">Offline</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
@@ -1154,7 +1253,10 @@
                                                     <p class="courses-meta add-margin">Online</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
-                                                <div class="courses-price add-border-left">
+                                                <div>
+                                                    <img src="assets/images/verticalLine.png">
+                                                </div>
+                                                <div class="courses-price">
                                                     <p class="courses-meta add-margin">Offline</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
@@ -1186,7 +1288,10 @@
                                                     <p class="courses-meta add-margin">Online</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
-                                                <div class="courses-price add-border-left">
+                                                <div>
+                                                    <img src="assets/images/verticalLine.png">
+                                                </div>
+                                                <div class="courses-price">
                                                     <p class="courses-meta add-margin">Offline</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
@@ -1218,7 +1323,10 @@
                                                     <p class="courses-meta add-margin">Online</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
-                                                <div class="courses-price add-border-left">
+                                                <div>
+                                                    <img src="assets/images/verticalLine.png">
+                                                </div>
+                                                <div class="courses-price">
                                                     <p class="courses-meta add-margin">Offline</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
@@ -1250,7 +1358,10 @@
                                                     <p class="courses-meta add-margin">Online</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
-                                                <div class="courses-price add-border-left">
+                                                <div>
+                                                    <img src="assets/images/verticalLine.png">
+                                                </div>
+                                                <div class="courses-price">
                                                     <p class="courses-meta add-margin">Offline</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
@@ -1282,7 +1393,10 @@
                                                     <p class="courses-meta add-margin">Online</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
-                                                <div class="courses-price add-border-left">
+                                                <div>
+                                                    <img src="assets/images/verticalLine.png">
+                                                </div>
+                                                <div class="courses-price">
                                                     <p class="courses-meta add-margin">Offline</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
@@ -1314,7 +1428,10 @@
                                                     <p class="courses-meta add-margin">Online</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
-                                                <div class="courses-price add-border-left">
+                                                <div>
+                                                    <img src="assets/images/verticalLine.png">
+                                                </div>
+                                                <div class="courses-price">
                                                     <p class="courses-meta add-margin">Offline</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
@@ -1346,7 +1463,10 @@
                                                     <p class="courses-meta add-margin">Online</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
-                                                <div class="courses-price add-border-left">
+                                                <div>
+                                                    <img src="assets/images/verticalLine.png">
+                                                </div>
+                                                <div class="courses-price">
                                                     <p class="courses-meta add-margin">Offline</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
@@ -1388,7 +1508,10 @@
                                                     <p class="courses-meta add-margin">Online</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
-                                                <div class="courses-price add-border-left">
+                                                <div>
+                                                    <img src="assets/images/verticalLine.png">
+                                                </div>
+                                                <div class="courses-price">
                                                     <p class="courses-meta add-margin">Offline</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
@@ -1420,7 +1543,10 @@
                                                     <p class="courses-meta add-margin">Online</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
-                                                <div class="courses-price add-border-left">
+                                                <div>
+                                                    <img src="assets/images/verticalLine.png">
+                                                </div>
+                                                <div class="courses-price">
                                                     <p class="courses-meta add-margin">Offline</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
@@ -1452,7 +1578,10 @@
                                                     <p class="courses-meta add-margin">Online</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
-                                                <div class="courses-price add-border-left">
+                                                <div>
+                                                    <img src="assets/images/verticalLine.png">
+                                                </div>
+                                                <div class="courses-price">
                                                     <p class="courses-meta add-margin">Offline</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
@@ -1484,7 +1613,10 @@
                                                     <p class="courses-meta add-margin">Online</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
-                                                <div class="courses-price add-border-left">
+                                                <div>
+                                                    <img src="assets/images/verticalLine.png">
+                                                </div>
+                                                <div class="courses-price">
                                                     <p class="courses-meta add-margin">Offline</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
@@ -1516,7 +1648,10 @@
                                                     <p class="courses-meta add-margin">Online</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
-                                                <div class="courses-price add-border-left">
+                                                <div>
+                                                    <img src="assets/images/verticalLine.png">
+                                                </div>
+                                                <div class="courses-price">
                                                     <p class="courses-meta add-margin">Offline</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
@@ -1548,7 +1683,10 @@
                                                     <p class="courses-meta add-margin">Online</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
-                                                <div class="courses-price add-border-left">
+                                                <div>
+                                                    <img src="assets/images/verticalLine.png">
+                                                </div>
+                                                <div class="courses-price">
                                                     <p class="courses-meta add-margin">Offline</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
@@ -1580,7 +1718,10 @@
                                                     <p class="courses-meta add-margin">Online</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
-                                                <div class="courses-price add-border-left">
+                                                <div>
+                                                    <img src="assets/images/verticalLine.png">
+                                                </div>
+                                                <div class="courses-price">
                                                     <p class="courses-meta add-margin">Offline</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
@@ -1612,7 +1753,10 @@
                                                     <p class="courses-meta add-margin">Online</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
-                                                <div class="courses-price add-border-left">
+                                                <div>
+                                                    <img src="assets/images/verticalLine.png">
+                                                </div>
+                                                <div class="courses-price">
                                                     <p class="courses-meta add-margin">Offline</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
@@ -1654,7 +1798,10 @@
                                                     <p class="courses-meta add-margin">Online</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
-                                                <div class="courses-price add-border-left">
+                                                <div>
+                                                    <img src="assets/images/verticalLine.png">
+                                                </div>
+                                                <div class="courses-price">
                                                     <p class="courses-meta add-margin">Offline</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
@@ -1686,7 +1833,10 @@
                                                     <p class="courses-meta add-margin">Online</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
-                                                <div class="courses-price add-border-left">
+                                                <div>
+                                                    <img src="assets/images/verticalLine.png">
+                                                </div>
+                                                <div class="courses-price">
                                                     <p class="courses-meta add-margin">Offline</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
@@ -1718,7 +1868,10 @@
                                                     <p class="courses-meta add-margin">Online</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
-                                                <div class="courses-price add-border-left">
+                                                <div>
+                                                    <img src="assets/images/verticalLine.png">
+                                                </div>
+                                                <div class="courses-price">
                                                     <p class="courses-meta add-margin">Offline</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
@@ -1750,7 +1903,10 @@
                                                     <p class="courses-meta add-margin">Online</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
-                                                <div class="courses-price add-border-left">
+                                                <div>
+                                                    <img src="assets/images/verticalLine.png">
+                                                </div>
+                                                <div class="courses-price">
                                                     <p class="courses-meta add-margin">Offline</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
@@ -1782,7 +1938,10 @@
                                                     <p class="courses-meta add-margin">Online</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
-                                                <div class="courses-price add-border-left">
+                                                <div>
+                                                    <img src="assets/images/verticalLine.png">
+                                                </div>
+                                                <div class="courses-price">
                                                     <p class="courses-meta add-margin">Offline</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
@@ -1814,7 +1973,10 @@
                                                     <p class="courses-meta add-margin">Online</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
-                                                <div class="courses-price add-border-left">
+                                                <div>
+                                                    <img src="assets/images/verticalLine.png">
+                                                </div>
+                                                <div class="courses-price">
                                                     <p class="courses-meta add-margin">Offline</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
@@ -1846,7 +2008,10 @@
                                                     <p class="courses-meta add-margin">Online</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
-                                                <div class="courses-price add-border-left">
+                                                <div>
+                                                    <img src="assets/images/verticalLine.png">
+                                                </div>
+                                                <div class="courses-price">
                                                     <p class="courses-meta add-margin">Offline</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
@@ -1878,7 +2043,10 @@
                                                     <p class="courses-meta add-margin">Online</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
-                                                <div class="courses-price add-border-left">
+                                                <div>
+                                                    <img src="assets/images/verticalLine.png">
+                                                </div>
+                                                <div class="courses-price">
                                                     <p class="courses-meta add-margin">Offline</p>
                                                     <span class="sale-parice">#385.00</span>
                                                 </div>
@@ -1949,19 +2117,13 @@ export default{
   font-size: 40px;
 }
 
-.add-border-left{
-    border-left: 1px solid #888888;
-    padding-left: 28px;
-}
 
 @media only screen and (max-width: 575px) {
   .brands{
       display: none;
   }
 
-  .add-border-left{
-    padding-left: 35px;
-}
+ 
 
   .mob .texts{
       padding: inherit;
