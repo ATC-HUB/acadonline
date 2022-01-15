@@ -8,6 +8,7 @@
             <ThirdSection />
             <FourthSection />
             <FifthSection />
+            <SixthSection />
 
         <!-- How It Work End -->
         <div class="section section-padding mt-n1">
