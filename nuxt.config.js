@@ -28,8 +28,9 @@ export default {
       { rel: 'stylesheet', type: 'text/css', href: 'https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap' },
       { rel: 'preconnect', href: 'https://fonts.googleapis.com' },
       { rel: 'preconnect', href: 'https://fonts.gstatic.com'},
-    ],
 
+    ],
+    
     script: [
       { src: 'assets/js/vendor/jquery-3.5.1.min.js', type: 'text/javascript', body: true, defer: true },
       { src: 'assets/js/vendor/modernizr-3.11.2.min.js', type: 'text/javascript', body: true, defer: true },
@@ -43,8 +44,9 @@ export default {
       { src: 'assets/js/plugins.min.js', type: 'text/javascript', body: true, defer: true },
       { src: 'assets/js/counter.js', type: 'text/javascript', body: true, defer: true },
       { src: 'assets/js/main.js', type: 'text/javascript', body: true, defer: true },
+      { src: 'https://unpkg.com/swiper@7/swiper-bundle.min.js', type: 'text/javascript', body: true, defer: true },
       { src: 'https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js', type: 'text/javascript', body: true, defer: true},
-
+      
     ]
   },
 
