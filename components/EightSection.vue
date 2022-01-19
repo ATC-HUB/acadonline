@@ -13,46 +13,61 @@
 
       <div class="swiper">
         <div class="swiper-wrapper">
-          <div class="swiper-slide">
-            <div class="slider-content">
+           <div class="swiper-slide">
               <div class="row">
                 <div class="content-container">
-                  <h6>
-                    You are very close to become the person of your dream by
-                    taking any of our online/offline tech track courses Read
-                    More
-                  </h6>
-                  <span>Dada Adepoju (UX/UI)</span>
-                </div>
-              </div>
+                  <div class="test-img">
+                    <img src="assets/images/testi.png">
+                  </div>
+                  <div>
+                    <h6>
+                      You are very close to become the person of your dream by
+                      taking any of our online/offline tech track courses Read
+                      More
+                    </h6>
+                    <span>Dada Adepoju (UX/UI)</span>
+
+                  </div>
+                  
+          </div>
+            </div>
+          </div>
+           <div class="swiper-slide">
+              <div class="row">
+                <div class="content-container">
+                  <div class="test-img">
+                    <img src="assets/images/testi.png">
+                  </div>
+                  <div>
+                    <h6>
+                      You are very close to become the person of your dream by
+                      taking any of our online/offline tech track courses Read
+                      More
+                    </h6>
+                    <span>Dada Adepoju (UX/UI)</span>
+
+                  </div>
+                  
+          </div>
             </div>
           </div>
           <div class="swiper-slide">
-            <div class="slider-content">
               <div class="row">
                 <div class="content-container">
-                  <h6>
-                    You are very close to become the person of your dream by
-                    taking any of our online/offline tech track courses Read
-                    More
-                  </h6>
-                  <span>Dada Adepoju (UX/UI)</span>
-                </div>
-              </div>
-            </div>
+                  <div class="test-img">
+                    <img src="assets/images/testi.png">
+                  </div>
+                  <div>
+                    <h6>
+                      You are very close to become the person of your dream by
+                      taking any of our online/offline tech track courses Read
+                      More
+                    </h6>
+                    <span>Dada Adepoju (UX/UI)</span>
+
+                  </div>
+                  
           </div>
-          <div class="swiper-slide">
-            <div class="slider-content">
-              <div class="row">
-                <div class="content-container">
-                  <h6>
-                    You are very close to become the person of your dream by
-                    taking any of our online/offline tech track courses Read
-                    More
-                  </h6>
-                  <span>Dada Adepoju (UX/UI)</span>
-                </div>
-              </div>
             </div>
           </div>
         </div>
@@ -94,9 +109,10 @@ export default {
         clickable: true,
       },
       // Autoplay if needed
-      autoplay: {
-        delay: 3000,
-      },
+        autoplay: {
+         delay: 3000,
+     },
+     
       // Navigation arrows if needed
       navigation: {
         nextEl: ".swiper-button-next",
@@ -123,7 +139,9 @@ export default {
   border-radius: 35px;
   box-shadow: 0 4px 4px rgba(0, 0, 0, 0.3);
   padding: 20px;
-  height: fix-content;
+  display: flex;
+  justify-content: space-between;
+  width: 800px;
 }
 
 .content-container h6 {
@@ -133,10 +151,25 @@ export default {
   line-height: 1.7;
   font-size: 16px;
   width: 100%;
+  padding-left: 300px;
 }
 .content-container span {
   border-top: 1px solid #000000;
   font-weight: 500;
   margin-bottom: 50px;
+  margin-left: 300px;
+
+}
+
+.test-img{
+  border: 15px solid #1207ab;
+    border-radius: 35px;
+    background: #1207ab;
+    z-index: 17;
+    width: 278px;
+    position: absolute;
+    right: 720px;
+    top: 115px;
+  
 }
 </style>
