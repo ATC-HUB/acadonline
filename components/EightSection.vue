@@ -13,61 +13,55 @@
 
       <div class="swiper">
         <div class="swiper-wrapper">
-           <div class="swiper-slide">
-              <div class="row">
-                <div class="content-container">
-                  <div class="test-img">
-                    <img src="assets/images/testi.png">
-                  </div>
-                  <div>
-                    <h6>
-                      You are very close to become the person of your dream by
-                      taking any of our online/offline tech track courses Read
-                      More
-                    </h6>
-                    <span>Dada Adepoju (UX/UI)</span>
-
-                  </div>
-                  
-          </div>
-            </div>
-          </div>
-           <div class="swiper-slide">
-              <div class="row">
-                <div class="content-container">
-                  <div class="test-img">
-                    <img src="assets/images/testi.png">
-                  </div>
-                  <div>
-                    <h6>
-                      You are very close to become the person of your dream by
-                      taking any of our online/offline tech track courses Read
-                      More
-                    </h6>
-                    <span>Dada Adepoju (UX/UI)</span>
-
-                  </div>
-                  
-          </div>
+          <div class="swiper-slide">
+            <div class="row">
+              <div class="content-container">
+                <div class="test-img">
+                  <img src="assets/images/testi.png" />
+                </div>
+                <div>
+                  <h6>
+                    You are very close to become the person of your dream by
+                    taking any of our online/offline tech track courses Read
+                    More
+                  </h6>
+                  <span>Dada Adepoju (UX/UI)</span>
+                </div>
+              </div>
             </div>
           </div>
           <div class="swiper-slide">
-              <div class="row">
-                <div class="content-container">
-                  <div class="test-img">
-                    <img src="assets/images/testi.png">
-                  </div>
-                  <div>
-                    <h6>
-                      You are very close to become the person of your dream by
-                      taking any of our online/offline tech track courses Read
-                      More
-                    </h6>
-                    <span>Dada Adepoju (UX/UI)</span>
-
-                  </div>
-                  
+            <div class="row">
+              <div class="content-container">
+                <div class="test-img">
+                  <img src="assets/images/testi.png" />
+                </div>
+                <div>
+                  <h6>
+                    You are very close to become the person of your dream by
+                    taking any of our online/offline tech track courses Read
+                    More
+                  </h6>
+                  <span>Dada Adepoju (UX/UI)</span>
+                </div>
+              </div>
+            </div>
           </div>
+          <div class="swiper-slide">
+            <div class="row">
+              <div class="content-container">
+                <div class="test-img">
+                  <img src="assets/images/testi.png" />
+                </div>
+                <div>
+                  <h6>
+                    You are very close to become the person of your dream by
+                    taking any of our online/offline tech track courses Read
+                    More
+                  </h6>
+                  <span>Dada Adepoju (UX/UI)</span>
+                </div>
+              </div>
             </div>
           </div>
         </div>
@@ -109,10 +103,10 @@ export default {
         clickable: true,
       },
       // Autoplay if needed
-        autoplay: {
-         delay: 3000,
-     },
-     
+      autoplay: {
+        delay: 3000,
+      },
+
       // Navigation arrows if needed
       navigation: {
         nextEl: ".swiper-button-next",
@@ -158,18 +152,16 @@ export default {
   font-weight: 500;
   margin-bottom: 50px;
   margin-left: 300px;
-
 }
 
-.test-img{
+.test-img {
   border: 15px solid #1207ab;
-    border-radius: 35px;
-    background: #1207ab;
-    z-index: 17;
-    width: 278px;
-    position: absolute;
-    right: 720px;
-    top: 115px;
-  
+  border-radius: 35px;
+  background: #1207ab;
+  z-index: 17;
+  width: 278px;
+  position: absolute;
+  right: 720px;
+  top: 115px;
 }
 </style>
