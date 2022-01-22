@@ -236,6 +236,9 @@ export default{
   background-color: #fff;
 }
 
+.section{
+    margin-top: 130px !important;
+    }
 @media only screen and (min-width: 768px) {
   .bgMobileHeader {
     background-color: rgba(0, 0, 0, 0);
@@ -1625,23 +1628,9 @@ footer {
   background-color: #150C21;
 }
 
-@media only screen and (min-width: 768px) {
-  footer {
-    padding: 225px 0 6vh;
-  }
-}
 
-@media only screen and (min-width: 1024px) {
-  footer {
-    padding: 337.5px 0 6vh;
-  }
-}
 
-@media only screen and (min-width: 1800px) {
-  footer {
-    padding: 562.5px 0 6vh;
-  }
-}
+
 
 footer section {
   margin-bottom: 0;

@@ -1,5 +1,5 @@
 <template>
-    <div class="section section-padding download-section">
+    <div class="section download-section">
         <div class="container">
             <div class="row">
             <div class="col-6 f-section">
@@ -12,8 +12,7 @@
                 </div>
             </div>
             <div class="col-6 img-section">
-                <img src="assets/images/c.png" class="img1">
-                <img src="assets/images/mg.svg" class="img2">
+                <img src="assets/images/sm.png" class="img2">
             </div>
             </div>
         </div>
@@ -59,14 +58,8 @@ export default{
     justify-content: center;
 }
 
-.img-section .img1{
-    position: absolute;
-    right: -80px;
-    top: -100px;
-}
-
 .img-section .img2{
-    z-index: 1;
+    position: absolute;
 }
 
 .main-title{
@@ -76,4 +69,7 @@ export default{
     line-height: 60px;
     padding-top: 50px;
 }
+
+.download-section{
+    padding-top: 80px;}
 </style>
