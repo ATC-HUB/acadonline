@@ -44,6 +44,7 @@ export default {
       { src: 'assets/js/plugins.min.js', type: 'text/javascript', body: true, defer: true },
       { src: 'assets/js/counter.js', type: 'text/javascript', body: true, defer: true },
       { src: 'assets/js/main.js', type: 'text/javascript', body: true, defer: true },
+      { src: 'assets/js/footer.js', type: 'text/javascript', body: true, defer: true },
       { src: 'https://unpkg.com/swiper@7/swiper-bundle.min.js', type: 'text/javascript', body: true, defer: true },
       { src: 'https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js', type: 'text/javascript', body: true, defer: true},
       

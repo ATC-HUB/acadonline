@@ -2,28 +2,41 @@
   <div class="section section-padding-02">
     <div class="container">
       <div class="row main">
-        <h3>Our Community</h3>
+        <h2 class="mb-5">Our Community</h2>
         <div class="swiper">
           <div class="swiper-wrapper">
             <div class="swiper-slide">
               <div class="row">
-                  <img src="assets/images/community.png">
+                <img src="assets/images/gradient-b.png" class="b-img" />
+                <img src="assets/images/community.png" class="img-1" />
               </div>
+              <h6 class="text">
+                We Nuture and build the future Tech Giants in Africa
+              </h6>
             </div>
             <div class="swiper-slide">
               <div class="row">
-                  <img src="assets/images/community.png">
+                <img src="assets/images/gradient-b.png" class="b-img" />
+                <img src="assets/images/community.png" class="img-1" />
               </div>
+              <h6 class="text">
+                We Nuture and build the future Tech Giants in Africa
+              </h6>
             </div>
             <div class="swiper-slide">
               <div class="row">
-                  <img src="assets/images/community.png">
+                <img src="assets/images/gradient-b.png" class="b-img" />
+                <img src="assets/images/community.png" class="img-1" />
               </div>
+              <h6 class="text">
+                We Nuture and build the future Tech Giants in Africa
+              </h6>
             </div>
           </div>
-          <!-- If pagination is needed -->
-          <div class="swiper-pagination"></div>
 
+          <!-- If pagination is needed -->
+
+          <div class="swiper-pagination"></div>
         </div>
       </div>
     </div>
@@ -57,10 +70,10 @@ export default {
         clickable: true,
       },
       // Autoplay if needed
-      autoplay: {
+       autoplay: {
         delay: 3000,
       },
-
+ 
       // Navigation arrows if needed
       navigation: {
         nextEl: ".swiper-button-next",
@@ -73,35 +86,43 @@ export default {
 </script>
 
 <style scoped>
-.main{
-    justify-content: center;
-    display: flex;
+.main {
+  justify-content: center;
+  display: flex;
 }
 
-.main{
-    text-align: center;
+.b-img {
+  z-index: 1;
+  position: absolute;
+  border-radius: 35px;
+  width: auto;
+  top: -25px;
+}
+.main {
+  text-align: center;
 }
 
 .swiper {
-  height: 500px;
+  height: fit-content;
 }
 .swiper-slide {
   align-items: center;
   display: flex;
   justify-content: center;
-background: linear-gradient(183.04deg, #150C21 11.1%, rgba(21, 12, 33, 0) 43.03%);
-border-radius: 35px;
-transform: rotate(180deg);
 }
 
-.swiper-slide img {
+.img-1 {
   border-radius: 35px;
-transform: rotate(180deg);
-
 }
 
-
-
-
+.text {
+  position: absolute;
+  color: #fff;
+  padding-top: 325px;
+  font-size: 40px;
+  z-index: 1;
+  padding-left: 240px;
+  padding-right: 240px;
+}
 
 </style>
