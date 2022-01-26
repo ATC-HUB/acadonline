@@ -60,6 +60,7 @@ export default{
 
 .img-section .img2{
     position: absolute;
+    right: -70px;
 }
 
 .main-title{
@@ -71,5 +72,6 @@ export default{
 }
 
 .download-section{
-    padding-top: 80px;}
+    padding-top: 80px;
+    padding-bottom: 80px;}
 </style>

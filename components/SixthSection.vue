@@ -13,11 +13,19 @@
         <div class="col-7">
           <h5>MOMENTS FROM THE INSTITUTE</h5>
           <h3>Hands on Project Defence <br />in the course of studying</h3>
-          <div>
+          <div class="swiper-c">
             <div class="swiper">
               <div class="swiper-wrapper">
-                <div v-for="i in 6" :key="i" class="swiper-slide" :class="`slide--${i}`">
-                  <div class="slider-content">Slide {{ i }}</div>
+                <div class="swiper-slide">
+                  <div class="slider-content">
+                    
+                  </div>
+                </div>
+                <div class="swiper-slide">
+                  <div class="slider-content">Slide Two</div>
+                </div>
+                <div class="swiper-slide">
+                  <div class="slider-content">Slide Three</div>
                 </div>
               </div>
               <!-- If pagination is needed -->
@@ -119,10 +127,11 @@ export default {mounted() {
 }
 
 .swiper {
-  height: 300px;
+  height: 100%;
   overflow: hidden;
   position: relative;
   width: 100%;
+  border-radius: 37px;
 }
 .swiper-slide {
   align-items: center;
@@ -132,22 +141,13 @@ export default {mounted() {
 .slider-content {
   color: #000;
 }
-.slide--1 {
-  background-color: #f1c40f;
-}
-.slide--2 {
-  background-color: #e67e22;
-}
-.slide--3 {
-  background-color: #e74c3c;
-}
-.slide--4 {
-  background-color: #9b59b6;
-}
-.slide--5 {
-  background-color: #3498db;
-}
-.slide--6 {
-  background-color: #2ecc71;
+
+
+.swiper-c{
+width: 100%;
+height: 518px;
+background: #11088A;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 35px;
 }
 </style>
