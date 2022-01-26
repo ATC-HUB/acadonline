@@ -2,7 +2,7 @@
     <div class="section download-section">
         <div class="container">
             <div class="row">
-            <div class="col-6 f-section">
+            <div class="col-sm-6 f-section">
                 <h2 class="main-title">Looking for the course that interest you?</h2>
                 <div class="courses-search s-section">
                     <form action="#" style="justify-content: center;">
@@ -11,7 +11,7 @@
                     </form>
                 </div>
             </div>
-            <div class="col-6 img-section">
+            <div class="col-sm-6 img-section">
                 <img src="assets/images/sm.png" class="img2">
             </div>
             </div>

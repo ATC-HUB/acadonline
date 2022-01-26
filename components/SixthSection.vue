@@ -3,14 +3,14 @@
     <div class="container">
       <div class="row youtube-video-section">
         <img src="assets/images/backg.png" class="b-img" />
-        <div class="col-5">
+        <div class="col-sm-5">
           <h4>Design School Presentation</h4>
           <p>
             You are very close to become the person of your dream by taking any
             of our online/ offline tech track courses <br />Read More
           </p>
         </div>
-        <div class="col-7">
+        <div class="col-sm-7">
           <h5>MOMENTS FROM THE INSTITUTE</h5>
           <h3>Hands on Project Defence <br />in the course of studying</h3>
           <div class="swiper-c mt-5">
@@ -119,17 +119,27 @@ export default {
   height: 850px;
 }
 
-.swiper-slide iframe{
-  background: linear-gradient(180.18deg, #0E088D 1.42%, rgba(93, 95, 239, 0) 41.24%, rgba(93, 95, 239, 0.246476) 41.24%, #48D5E5 41.24%);
-filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+.swiper-button-next, .swiper-button-prev {
+    position: absolute !important;
+    top: 50% !important;
+    width: calc(var(--swiper-navigation-size)/ 44 * 27) !important;
+    height: var(--swiper-navigation-size) !important;
+    margin-top: calc(0px - (var(--swiper-navigation-size)/ 2)) !important;
+    z-index: 10 !important;
+    cursor: pointer !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    color: var(--swiper-navigation-color,var(--swiper-theme-color)) !important;
 }
-.col-5 h4 {
+
+.col-sm-5 h4 {
   color: #1207ab;
   font-weight: 600;
   font-size: 20px;
 }
 
-.col-5 p {
+.col-sm-5 p {
   font-size: 18px;
   font-weight: 400;
   line-height: 1.7;
@@ -137,17 +147,17 @@ filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
   padding-right: 90px;
 }
 
-.col-5 {
+.col-sm-5 {
   align-self: center;
 }
 
-.col-7 h5 {
+.col-sm-7 h5 {
   margin-top: 70px;
   font-size: 16px;
   font-weight: 500;
 }
 
-.col-7 h3 {
+.col-sm-7 h3 {
   font-size: 37px;
   color: #1207ab;
   font-weight: 500;
