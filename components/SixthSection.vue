@@ -1,5 +1,5 @@
 <template>
-  <div class="section section-padding-02">
+  <div class="section section-padding-02 mt-5">
     <div class="container">
       <div class="row youtube-video-section">
         <img src="assets/images/backg.png" class="b-img" />
@@ -13,19 +13,41 @@
         <div class="col-7">
           <h5>MOMENTS FROM THE INSTITUTE</h5>
           <h3>Hands on Project Defence <br />in the course of studying</h3>
-          <div class="swiper-c">
+          <div class="swiper-c mt-5">
             <div class="swiper">
               <div class="swiper-wrapper">
                 <div class="swiper-slide">
-                  <div class="slider-content">
-                    
-                  </div>
+                    <iframe
+                      width="100%"
+                      height="500px"
+                      src="https://www.youtube.com/embed/rjrPx_2GzyU"
+                      title="YouTube video player"
+                      frameborder="0"
+                      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                      allowfullscreen
+                    ></iframe>
                 </div>
                 <div class="swiper-slide">
-                  <div class="slider-content">Slide Two</div>
+                    <iframe
+                      width="100%"
+                      height="500px"
+                      src="https://www.youtube.com/embed/GUe9yKnSsYE"
+                      title="YouTube video player"
+                      frameborder="0"
+                      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                      allowfullscreen
+                    ></iframe>
                 </div>
-                <div class="swiper-slide">
-                  <div class="slider-content">Slide Three</div>
+                <div class="swiper-slide"> 
+                    <iframe
+                      width="100%"
+                      height="500px"
+                      src="https://www.youtube.com/embed/RUt-ySO5du0"
+                      title="YouTube video player"
+                      frameborder="0"
+                      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                      allowfullscreen
+                    ></iframe>
                 </div>
               </div>
               <!-- If pagination is needed -->
@@ -43,43 +65,43 @@
 </template>
 
 <script>
-import { Swiper, Navigation, Pagination, Autoplay } from 'swiper'
-import 'swiper/swiper-bundle.min.css'
-export default {mounted() {
+import { Swiper, Navigation, Pagination } from "swiper";
+import "swiper/swiper-bundle.min.css";
+export default {
+  mounted() {
     // configure Swiper to use modules. The modules were tested with SwiperJS v6.8.4 with NuxtJS v2.15.7
     // previously it was before export default. Moved here for performance issues. Move back in case of problems.
     // add or remove unused modules
-    Swiper.use([Navigation, Pagination, Autoplay])
-    
+    Swiper.use([Navigation, Pagination]);
+
     // init Swiper:
     /* eslint-disable no-unused-vars */
-    const swiper = new Swiper('.swiper', {
+    const swiper = new Swiper(".swiper", {
       // Optional parameters
       // @see https://swiperjs.com/swiper-api#parameters
-      direction: 'horizontal',
+      direction: "horizontal",
       loop: true,
       // remove unused modules if needed
-      modules: [Navigation, Pagination, Autoplay],
+      modules: [Navigation, Pagination],
       // Pagination if needed
       pagination: {
-        el: '.swiper-pagination',
-        type: 'bullets',
-        clickable: true
+        el: ".swiper-pagination",
+        type: "bullets",
+        clickable: true,
       },
       // Autoplay if needed
-      autoplay: {
-        delay: 3000
-      },
+     // autoplay: {
+        //delay: 5000,
+      //},
       // Navigation arrows if needed
       navigation: {
-        nextEl: '.swiper-button-next',
-        prevEl: '.swiper-button-prev'
-      }
+        nextEl: ".swiper-button-next",
+        prevEl: ".swiper-button-prev",
+      },
       // Configure other options. Not tested
-    })
+    });
   },
   name: "SixthSection",
-  
 };
 </script>
 
@@ -92,10 +114,15 @@ export default {mounted() {
   height: 810px;
 }
 
+
 .youtube-video-section {
   height: 850px;
 }
 
+.swiper-slide iframe{
+  background: linear-gradient(180.18deg, #0E088D 1.42%, rgba(93, 95, 239, 0) 41.24%, rgba(93, 95, 239, 0.246476) 41.24%, #48D5E5 41.24%);
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
 .col-5 h4 {
   color: #1207ab;
   font-weight: 600;
@@ -133,21 +160,14 @@ export default {mounted() {
   width: 100%;
   border-radius: 37px;
 }
-.swiper-slide {
-  align-items: center;
-  display: flex;
-  justify-content: center;
-}
-.slider-content {
-  color: #000;
-}
 
 
-.swiper-c{
-width: 100%;
-height: 518px;
-background: #11088A;
-box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-border-radius: 35px;
+
+.swiper-c {
+  width: 100%;
+  height: 490px;
+  background: #11088a;
+  box-shadow: #1207ab -10px -10px;
+  border-radius: 35px;
 }
 </style>
