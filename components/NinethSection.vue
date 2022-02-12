@@ -3,7 +3,7 @@
         <div class="container">
             <div class="row">
             <div class="col-sm-6 f-section">
-                <h2 class="main-title">Looking for the course that interest you?</h2>
+                <h2 class="main-title">Do you have any issue finding a course?</h2>
                 <div class="courses-search s-section">
                     <form action="#" style="justify-content: center;">
                         <input type="text" placeholder="Search your course">

@@ -48,4 +48,14 @@ export default {
     background: #fff;
     border: 2px solid #150C21E5;
 }
+
+
+@media only screen and (max-width: 575px) {
+
+.btn{
+  width: inherit;
+  margin-top: 10px
+}
+
+}
 </style>

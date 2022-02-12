@@ -2,6 +2,7 @@
   <div class="section section-padding-02 mt-5">
     <div class="container">
       <div class="row youtube-video-section">
+        <img src="assets/images/mob-bg.png" class="mb-img">
         <img src="assets/images/backg.png" class="b-img" />
         <div class="col-sm-5">
           <h4>Design School Presentation</h4>
@@ -163,6 +164,10 @@ export default {
   font-weight: 500;
 }
 
+.mb-img{
+  display: none;
+}
+
 .swiper {
   height: 100%;
   overflow: hidden;
@@ -179,5 +184,15 @@ export default {
   background: #11088a;
   box-shadow: #1207ab -10px -10px;
   border-radius: 35px;
+}
+
+@media only screen and (max-width: 575px) {
+  .mb-img{
+    display: block;
+    z-index: -1;
+    position: absolute;
+    padding: 0;
+    height: 980px;
+  }
 }
 </style>

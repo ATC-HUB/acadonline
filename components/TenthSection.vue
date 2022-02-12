@@ -1,5 +1,5 @@
 <template>
-  <div class="section section-padding-02">
+  <div class="section section-padding-02 mt-5">
     <div class="container">
       <div class="row main">
         <h2 class="mb-5">Our Community</h2>
@@ -40,7 +40,7 @@
         </div>
 
         <div class="row b-btn">
-          <button class="btn">Read More</button>
+          <button class="btn">Join our community</button>
       </div>
       </div>
     </div>
@@ -130,13 +130,15 @@ export default {
 }
 
 .btn{
-    color: #fff;
+        color: #fff;
     border: 2px solid #fff;
     border-radius: 10px;
-    padding: 20px 60px;
+    padding: 20px 20px;
     margin-top: 50px;
-    background: #150C21E5;
-    width: 20%;
+    background: rgba(21,12,33,0.89804);
+    width: 25%;
+    font-size: 25px;
+    font-weight: 500;
 }
 
 .b-btn{
