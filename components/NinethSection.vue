@@ -4,9 +4,9 @@
             <div class="row">
             <div class="col-sm-6 f-section">
                 <h2 class="main-title">Do you have any issue finding a course?</h2>
-                <div class="courses-search s-section">
-                    <form action="#" style="justify-content: center;">
-                        <input type="text" placeholder="Search your course">
+                <div class="search_course">
+                    <form action="#" class="search_f">
+                        <input type="text" placeholder="Search your course here">
                         <button><i class="flaticon-magnifying-glass"></i></button>
                     </form>
                 </div>
@@ -72,6 +72,53 @@ export default{
 }
 
 .download-section{
-    padding-top: 80px;
+    padding-top: 20px;
     padding-bottom: 80px;}
+
+.search_f{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid #fff;
+    border-radius: 5px;
+    height: 60px;
+    padding: 0px 20px;
+    margin-top: 50px;
+}
+
+.search_f, .search_f input, .search_f button{
+    background-color: #1207ab;
+
+}
+
+.search_f input, .search_f button{
+    border: none;
+    color: #fff;
+}
+
+.search_f input[type="text"] {
+    color: #fff;
+    outline: none;
+    width: 100%;
+}
+
+.search_f input::placeholder{
+    color: #fff;
+}
+
+@media only screen and (max-width: 575px) {
+  .img-section{
+      display: none;
+  }
+
+  .main-title{
+    font-size: 30px;
+    text-align: center;
+    font-weight: 500;
+    line-height: 45px;
+    padding-top: 0px;
+
+
+}
+  }
 </style>
