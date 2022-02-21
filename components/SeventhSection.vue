@@ -195,7 +195,7 @@ export default {
 
 }
 
-@media screen and (min-width: 425px) and (max-width: 769px) {
+@media screen and (min-width: 425px) and (max-width: 764px) {
   .step-mom{
   text-align: center;
   height: 365px;
@@ -243,7 +243,7 @@ export default {
 }
 }
 
-@media screen and (min-width: 770px) and (max-width: 999px) {
+@media screen and (min-width: 765px) and (max-width: 999px) {
   .step-mom{
   text-align: center;
   height: 365px;

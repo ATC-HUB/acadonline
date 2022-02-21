@@ -164,4 +164,34 @@ export default {
   right: 720px;
   top: 115px;
 }
+
+.swiper-pagination-bullets .swiper-pagination-bullet{
+    background-color: #0000 !important;
+    border: 1px solid #0000;
+    width: 12px;
+    height: 12px;
+}
+
+.swiper-pagination-horizontal .swiper-pagination-bullet-active{
+    background-color: #7B3F00 !important;
+
+}
+
+.swiper-button-prev, .swiper-button-next{
+    border-radius: 50%;
+    border: 3px solid rgba(0, 0, 0, 0.6);
+    width: 50px !important;
+    height: 50px !important;
+}
+
+.swiper-button-prev::after, .swiper-button-next::after{
+    color: #00000099;
+    
+}
+
+@media screen and (min-width: 999px) and (max-width: 1200px) {
+.test-img{
+  right: 586px;
+}
+}
 </style>
