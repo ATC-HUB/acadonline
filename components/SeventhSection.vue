@@ -4,8 +4,8 @@
       <div class="section-title text-center">
         <h2 class="main-title">How It Work?</h2>
       </div>
-      <div class="row how_it_works mt-5">
-        <div class="col-sm-4">
+      <div class="how_it_works mt-5">
+        <div class="mom">
             <div class="step-mom first-col">
             <h4>Find your course</h4>
             <p>It has survived not only centurie also leap into electronics </p>
@@ -13,7 +13,7 @@
             </div>
             
         </div>
-        <div class="col-sm-4 middle-card">
+        <div class="mom">
             <div class="step-mom second-col">
             <h4>Enroll</h4>
             <p>It has survived not only centurie also leap into electronics </p>
@@ -22,7 +22,7 @@
             </div>
             
         </div>
-        <div class="col-sm-4" >
+        <div class="mom" >
             <div class="step-mom third-col">
             <h4>Get Certified</h4>
             <p>It has survived not only centurie also leap into electronics </p>
@@ -31,7 +31,7 @@
             
         </div>
       </div>
-      <div class="row b-btn">
+      <div class="b-btn">
           <button class="btn">Get Stated</button>
       </div>
     </div>
@@ -46,14 +46,11 @@ export default {
 
 <style scoped>
 
-.how_it_works{
-  background: url("static/assets/images/howitworks.png");
-  background-repeat: no-repeat;
-  background-size: inherit;
-  background-position: center;
-  padding-top: 160px;
-    padding-bottom: 160px;
+.main-title{
+  font-size: 30px;
 }
+
+
 .how {
   justify-content: center;
 }
@@ -65,7 +62,6 @@ export default {
     padding: 20px 60px;
     margin-top: 50px;
     background: #150C21E5;
-    width: 20%;
 }
 
 .step-mom h4{
@@ -73,9 +69,9 @@ export default {
   padding-bottom: 20px;
   font-weight: 500;
   font-size: 33px;
+  padding-left: 10px;
+  padding-right: 10px;
 }
-
-
 
 .step-mom p{
   font-size: 18px;
@@ -84,6 +80,7 @@ export default {
 }
 .b-btn{
     justify-content: center;
+    display: grid;
 }
 
 .btn:hover{
@@ -92,34 +89,191 @@ export default {
     border: 2px solid #150C21E5;
 }
 
+
+.how_it_works{
+  background: url("static/assets/images/howitworks.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  padding-bottom: 50px;
+  display: flex;
+  
+}
+
 .step-mom{
   text-align: center;
+  height: 365px;
+  padding-top: 100px;
 }
+
 .first-col{
-  padding-left: 80px;
-  padding-right: 0px;
+
+  padding-left: 100px;
+    padding-right: 10px;
 
 }
-
 .second-col{
-  padding-left: 40px;
-  padding-right: 40px;
+  padding-left: 50px;
+  padding-right: 50px;
 
 }
 .third-col{
-  padding-left: 0px;
-  padding-right: 80px;
+
+  padding-left: 10px;
+    padding-right: 100px;
+
+}
+
+.third-col h4{
+  padding-right: 50px;
+  padding-left: 50px;
+}
+
+@media only screen and (max-width: 999px) {
+.how_it_works{
+  display: grid;
+    background: none;
+    justify-content: center !important;
 
 }
 
 
+.step-mom{
+  text-align: center;
+  height: 365px;
+  padding-top: 80px;
+}
 
-@media only screen and (max-width: 575px) {
+.first-col{
+
+  padding-left: 50px;
+    padding-right: 20px;
+      padding-top: 70px;
+
+    background: url("static/assets/images/how1.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+
+}
+.second-col{
+  padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 100px;
+
+  background: url("static/assets/images/how2.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+
+}
+.third-col{
+
+  padding-left: 20px;
+    padding-right: 20px;
+    background: url("static/assets/images/how3.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+
+}
+
+.third-col h4{
+  padding-right: 40px;
+  padding-left: 40px;
+}
+.mom{
+  display: grid;
+  justify-content: center;
+
+}
 
 .btn{
   width: inherit;
   margin-top: 10px
 }
 
+}
+
+@media screen and (min-width: 425px) and (max-width: 769px) {
+  .step-mom{
+  text-align: center;
+  height: 365px;
+  padding-top: 80px;
+}
+
+.first-col{
+
+  padding-left: 120px;
+    padding-right: 90px;
+      padding-top: 70px;
+
+    background: url("static/assets/images/how1.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+
+}
+.second-col{
+  padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 100px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+  background: url("static/assets/images/how2.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+
+}
+.third-col{
+
+  padding-left: 90px;
+    padding-right: 90px;
+    background: url("static/assets/images/how3.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+
+}
+
+.third-col h4{
+  padding-right: 30px;
+  padding-left: 30px;
+}
+}
+
+@media screen and (min-width: 770px) and (max-width: 999px) {
+  .step-mom{
+  text-align: center;
+  height: 365px;
+  padding-top: 80px;
+}
+
+.first-col{
+
+  padding-left: 325px;
+    padding-right: 325px;
+      padding-top: 70px;
+
+}
+.second-col{
+  padding-left: 325px;
+    padding-right: 325px;
+    padding-top: 100px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.third-col{
+
+  padding-left: 325px;
+    padding-right: 325px;
+
+}
+
+.third-col h4{
+  padding-right: 30px;
+  padding-left: 30px;
+}
 }
 </style>
