@@ -6,27 +6,21 @@
         <div class="swiper">
           <div class="swiper-wrapper">
             <div class="swiper-slide">
-              <div class="row">
-                <img src="assets/images/gradient-b.png" class="b-img" />
-                <img src="assets/images/community.png" class="img-1" />
+              <div class="row community container">
               </div>
               <h6 class="text">
                 We Nuture and build the future Tech Giants in Africa
               </h6>
             </div>
             <div class="swiper-slide">
-              <div class="row">
-                <img src="assets/images/gradient-b.png" class="b-img" />
-                <img src="assets/images/community.png" class="img-1" />
+              <div class="row community container">
               </div>
               <h6 class="text">
                 We Nuture and build the future Tech Giants in Africa
               </h6>
             </div>
             <div class="swiper-slide">
-              <div class="row">
-                <img src="assets/images/gradient-b.png" class="b-img" />
-                <img src="assets/images/community.png" class="img-1" />
+              <div class="row community container">
               </div>
               <h6 class="text">
                 We Nuture and build the future Tech Giants in Africa
@@ -39,7 +33,7 @@
           <div class="swiper-pagination"></div>
         </div>
 
-        <div class="row b-btn">
+        <div class="b-btn">
           <button class="btn">Join our community</button>
       </div>
       </div>
@@ -90,18 +84,22 @@ export default {
 </script>
 
 <style scoped>
+.community {
+    background-image: linear-gradient(to top, rgb(0, 0, 0), rgba(0, 0, 0, 0)), url("static/assets/images/community.png");
+    border-radius: 35px;
+    width: 100%;
+    height: 51vw;
+    background-size: contain;
+    background-repeat: no-repeat ;
+    color: white;
+    padding: 20px;
+}
 .main {
   justify-content: center;
   display: flex;
 }
 
-.b-img {
-  z-index: 1;
-  position: absolute;
-  border-radius: 35px;
-  width: auto;
-  top: -25px;
-}
+
 .main {
   text-align: center;
 }
@@ -113,11 +111,10 @@ export default {
   align-items: center;
   display: flex;
   justify-content: center;
+  height: 100%;
 }
 
-.img-1 {
-  border-radius: 35px;
-}
+
 
 .text {
   position: absolute;
@@ -130,25 +127,57 @@ export default {
 }
 
 .btn{
-        color: #fff;
-    border: 2px solid #fff;
+        color: rgba(21,12,33,0.89804);
+    border: 2px solid rgba(21,12,33,0.89804);
     border-radius: 10px;
     padding: 20px 20px;
     margin-top: 50px;
-    background: rgba(21,12,33,0.89804);
-    width: 25%;
-    font-size: 25px;
+    background: #fff;
+    font-size: 22px;
     font-weight: 500;
 }
 
 .b-btn{
     justify-content: center;
+    display: grid;
 }
 
 .btn:hover{
-    color: #150C21E5;
-    background: #fff;
+    color: #fff;
+    background: #150C21E5;
     border: 2px solid #150C21E5;
 }
 
+@media screen and (min-width: 768px) and (max-width: 991px) {
+  .swiper-slide h6{
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-bottom: 80px;
+  }
+
+}
+
+@media screen and (min-width: 390px) and (max-width: 767px) {
+  .swiper-slide h6{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 200px;
+    font-size: 25px
+  }
+}
+
+@media screen and (max-width: 389px) {
+  .swiper-slide h6{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 260px;
+    font-size: 20px
+  }
+
+  .community{
+    height: 58vw;
+  }
+
+
+}
 </style>

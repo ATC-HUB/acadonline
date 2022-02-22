@@ -128,7 +128,7 @@ export default {
   padding-left: 50px;
 }
 
-@media only screen and (max-width: 999px) {
+@media only screen and (max-width: 992px) {
 .how_it_works{
   display: grid;
   background: none;
@@ -242,7 +242,7 @@ export default {
 }
 }
 
-@media screen and (min-width: 765px) and (max-width: 999px) {
+@media screen and (min-width: 765px) and (max-width: 992px) {
   .step-mom{
   text-align: center;
   height: 365px;

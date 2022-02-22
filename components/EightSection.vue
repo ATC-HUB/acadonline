@@ -19,7 +19,25 @@
                 <div class="test-img">
                   <img src="assets/images/testi.png" />
                 </div>
-                <div>
+                <div class="texts">
+                  <h6>
+                    You are very close to become the person of your dream by
+                    taking any of our online/offline tech track courses Read
+                    More
+                  </h6>
+                  <span>Dada Adepoju (UX/UI)</span>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="swiper-slide">
+            <div class="row">
+              <div class="content-container">
+                <div class="test-img">
+                  <img src="assets/images/testi.png" />
+                </div>
+                <div class="texts">
                   <h6>
                     You are very close to become the person of your dream by
                     taking any of our online/offline tech track courses Read
@@ -36,24 +54,7 @@
                 <div class="test-img">
                   <img src="assets/images/testi.png" />
                 </div>
-                <div>
-                  <h6>
-                    You are very close to become the person of your dream by
-                    taking any of our online/offline tech track courses Read
-                    More
-                  </h6>
-                  <span>Dada Adepoju (UX/UI)</span>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="swiper-slide">
-            <div class="row">
-              <div class="content-container">
-                <div class="test-img">
-                  <img src="assets/images/testi.png" />
-                </div>
-                <div>
+                <div class="texts">
                   <h6>
                     You are very close to become the person of your dream by
                     taking any of our online/offline tech track courses Read
@@ -136,6 +137,7 @@ export default {
   display: flex;
   justify-content: space-between;
   width: 800px;
+  position: relative;
 }
 
 .content-container h6 {
@@ -161,37 +163,112 @@ export default {
   z-index: 17;
   width: 278px;
   position: absolute;
-  right: 720px;
-  top: 115px;
+  right: 527px;
+  top: -20px;
 }
 
-.swiper-pagination-bullets .swiper-pagination-bullet{
-    background-color: #0000 !important;
-    border: 1px solid #0000;
-    width: 12px;
-    height: 12px;
+.swiper-pagination-bullets .swiper-pagination-bullet {
+  background-color: #0000 !important;
+  border: 1px solid #0000;
+  width: 12px;
+  height: 12px;
 }
 
-.swiper-pagination-horizontal .swiper-pagination-bullet-active{
-    background-color: #7B3F00 !important;
-
+.swiper-pagination-horizontal .swiper-pagination-bullet-active {
+  background-color: #7b3f00 !important;
 }
 
-.swiper-button-prev, .swiper-button-next{
-    border-radius: 50%;
-    border: 3px solid rgba(0, 0, 0, 0.6);
-    width: 50px !important;
-    height: 50px !important;
+.swiper-button-prev,
+.swiper-button-next {
+  border-radius: 50%;
+  border: 3px solid rgba(0, 0, 0, 0.6);
+  width: 50px !important;
+  height: 50px !important;
 }
 
-.swiper-button-prev::after, .swiper-button-next::after{
-    color: #00000099;
-    
+.swiper-button-prev::after,
+.swiper-button-next::after {
+  color: #00000099;
 }
 
-@media screen and (min-width: 999px) and (max-width: 1200px) {
-.test-img{
-  right: 586px;
+@media screen and (min-width: 992px) and (max-width: 1200px) {
+  .test-img {
+    right: 524px;
+  }
 }
+
+@media screen and (max-width: 991px) {
+  .texts {
+    text-align: center;
+  }
+  .test-img {
+    border: 15px solid #1207ab;
+    border-radius: 35px;
+    background: #1207ab;
+    z-index: 17;
+    width: 180px;
+    position: absolute;
+    right: 850px;
+    top: -120px;
+  }
+  .content-container span {
+    margin-left: 0px;
+    text-align: center;
+  }
+  .content-container h6 {
+    width: 100%;
+    padding-left: 0px;
+    text-align: center;
+  }
+
+  .content-container {
+    border-radius: 0px;
+    width: 500px;
+    position: relative;
+  }
+}
+
+@media screen and (min-width: 555px) and (max-width: 767px) {
+  .content-container {
+    width: 400px;
+  }
+  .test-img {
+    border: 15px solid #1207ab;
+    border-radius: 35px;
+    background: #1207ab;
+    z-index: 17;
+    width: 180px;
+    position: absolute;
+    right: 625px;
+    top: -130px;
+  }
+}
+
+@media screen and (max-width: 554px) {
+  .content-container {
+    width: 250px;
+  }
+  .test-img {
+    border: 10px solid #1207ab;
+    border-radius: 30px;
+    background: #1207ab;
+    z-index: 17;
+    width: 150px;
+    position: absolute;
+    right: 625px;
+    top: -100px;
+  }
+
+  .texts{
+    font-size: 11px
+  }
+
+  .content-container h6 {
+    font-size: 11px;
+  }
+
+  .swiper-button-prev, .swiper-button-next{
+    display: none;
+  }
 }
 </style>
