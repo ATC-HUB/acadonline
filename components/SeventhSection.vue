@@ -117,11 +117,10 @@ export default {
   padding-right: 50px;
 
 }
+
 .third-col{
-
   padding-left: 10px;
-    padding-right: 100px;
-
+  padding-right: 100px;
 }
 
 .third-col h4{
@@ -132,8 +131,8 @@ export default {
 @media only screen and (max-width: 999px) {
 .how_it_works{
   display: grid;
-    background: none;
-    justify-content: center !important;
+  background: none;
+  justify-content: center !important;
 
 }
 
@@ -252,28 +251,42 @@ export default {
 
 .first-col{
 
-  padding-left: 325px;
-    padding-right: 325px;
+  
       padding-top: 70px;
 
 }
+
+.first-col p{
+  padding-left: 200px;
+  padding-right: 200px;
+}
+
+.first-col h4{
+  padding-left: 210px;
+  padding-right: 210px;
+}
 .second-col{
-  padding-left: 325px;
-    padding-right: 325px;
     padding-top: 100px;
     margin-top: 50px;
     margin-bottom: 50px;
 }
-.third-col{
+.second-col p{
+  padding-left: 200px;
+  padding-right: 200px;
+}
 
-  padding-left: 325px;
-    padding-right: 325px;
-
+.second-col h4{
+  padding-left: 210px;
+  padding-right: 210px;
+}
+.third-col p{
+  padding-left: 200px;
+  padding-right: 200px;
 }
 
 .third-col h4{
-  padding-right: 30px;
-  padding-left: 30px;
+  padding-left: 210px;
+  padding-right: 210px;
 }
 }
 </style>
