@@ -50,8 +50,8 @@
             
         </div>
       </div>
-      <div class="row b-btn mt-5">
-          <button class="btn">Get Started</button>
+      <div class="b-btn mt-4">
+          <button class="btn">Get Stated</button>
       </div>
     </div>
   </div>
@@ -63,6 +63,11 @@ export default {
 };
 </script>
 <style scoped>
+
+.b-btn{
+    justify-content: center;
+    display: grid;
+}
 .middle-card{
   border-left: 1px solid #C4C4C4;
   border-right: 1px solid #C4C4C4;
@@ -127,11 +132,6 @@ export default {
     padding: 20px 60px;
     margin-top: 50px;
     background: #150C21E5;
-    width: 20%;
-}
-
-.b-btn{
-  justify-content: center;
 }
 
 

@@ -19563,7 +19563,7 @@ img {
   }
 }
 
-@media only screen and (min-width: 600px) and (max-width: 769px){
+@media only screen and (min-width: 578px) and (max-width: 769px){
   .images img {
     z-index: 2; 
     display: none;

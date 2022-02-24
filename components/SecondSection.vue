@@ -206,7 +206,7 @@ export default {
 }
 
 
-@media only screen and (max-width: 575px) {
+@media only screen and (max-width: 767px) {
   .desk, .brands, .brands-i{
       display: none;
   }
@@ -239,7 +239,7 @@ export default {
   }
 }
 
-@media only screen and (min-width: 578px){
+@media only screen and (min-width: 768px){
   .texts{
     margin-top: 80px;
   }
