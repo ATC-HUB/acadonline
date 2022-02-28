@@ -2156,9 +2156,9 @@ export default{
 
 }
 
-@media only screen and (min-width: 578px) and (max-width: 992px) {
+@media only screen and (min-width: 576px) and (max-width: 992px) {
   .texts, .big-texts, .sm-texts{
-    padding: 0px 80px;
+    padding: 0px 55px;
   }
 
   .big-texts{
