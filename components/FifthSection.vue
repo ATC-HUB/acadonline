@@ -10,7 +10,7 @@
       </div>
 
       <div class="row mom">
-        <div class="col-md-4">
+        <div class="col-lg-4">
             <div class="step-mom first-col">
                 <img src="assets/images/ico1.png" class="imgs">
             <h4>Easy learning</h4>
@@ -23,7 +23,7 @@
             </div>
             
         </div>
-        <div class="col-md-4 middle-card">
+        <div class="col-lg-4 middle-card">
             <div class="step-mom second-col">
                 <img src="assets/images/ico3.png" class="imgs">
             <h4>In-person learning</h4>
@@ -36,7 +36,7 @@
             </div>
             
         </div>
-        <div class="col-md-4" >
+        <div class="col-lg-4" >
             <div class="step-mom third-col">
                 <img src="assets/images/ico5.png" class="imgs">
             <h4>Tracking performance</h4>
@@ -141,7 +141,7 @@ export default {
     border: 2px solid #150C21E5;
 }
 
-@media only screen and (max-width: 575px) {
+@media only screen and (max-width: 992px) {
 .top-texts p{
   padding: 0px 15px;
   font-size: 16px;

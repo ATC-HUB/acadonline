@@ -3,16 +3,17 @@
     class="section section-padding-02 add-top-bottom-margin">
     <div class="container">
       <div class="row">
-        <div class="col-md-6">
+        <div class="col-lg-6">
             <h4 class="text">Are You looking to train your team with Digital Skills?</h4>
             <p class="sm-text">A well trained personel is a guarantee for effective and efficient service delivery for optimum productivity. </p>
-            <img src="assets/images/pic1.png" class="mob-imgs" width="100%">
+            <img src="assets/images/mobileClusterImages.png" class="mob-imgs" width="100%"/>
+            <img src="assets/images/mobileCircle.png" class="mob-circle-imgs img-fluid"/>
             <div class="btn-align-center">
             <button class="btn">Contact US</button>
             </div>
         </div>
-        <div class="col-md-6">
-            <img src="assets/images/clusterImages1.png" class="mt-4 desk-imgs">
+        <div class="col-lg-6">
+            <img src="assets/images/clusterImages.png" class="mt-4 desk-imgs">
         </div>
       </div>
     </div>
@@ -65,10 +66,19 @@ export default {
     background: #fff;
     border: 2px solid #fff;
 }
+.mob-circle-imgs{
+  display: none;
+}
 
-@media only screen and (max-width: 578px){
+@media only screen and (max-width: 992px){
   .desk-imgs{
     display: none;
+  }
+
+  .mob-circle-imgs{
+    display: block;
+    position: absolute;
+    z-index: -1;
   }
 .btn-align-center{
     justify-content: center;
@@ -94,7 +104,7 @@ export default {
   }
 }
 
-@media only screen and (min-width: 578px){
+@media only screen and (min-width: 992px){
   .mob-imgs{
     display: none;
   }

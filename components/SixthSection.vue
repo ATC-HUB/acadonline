@@ -4,7 +4,7 @@
       <div class="row youtube-video-section">
         <img src="assets/images/mob-bg.png" class="mb-img">
         <img src="assets/images/backg.png" class="b-img" />
-        <div class="col-sm-5 design_school_desk">
+        <div class="col-lg-5 design_school_desk">
           <h4>Design School Presentation</h4>
           <p>
             You are very close to become the person of your dream by taking any
@@ -12,7 +12,7 @@
           </p>
         </div>
 
-        <div class="col-sm-7 slider_desk">
+        <div class="col-lg-7 slider_desk">
           <h5>MOMENTS FROM THE INSTITUTE</h5>
           <h3>Hands on Project Defence <br class="breaks"/>in the course of studying</h3>
           <div class="swiper-c mt-5">
@@ -61,7 +61,7 @@
             </div>
           </div>
         </div>
-        <div class="col-sm-7 slider_mob">
+        <div class="col-lg-7 slider_mob">
           <h5 class="mob_text2">MOMENTS FROM THE INSTITUTE</h5>
           <h3 class="desk_text">Hands on Project Defence <br />in the course of studying</h3>
           <h4 class="mob_text">Hands on Project Defence in the course of studying</h4>
@@ -112,7 +112,7 @@
             </div>
           </div>
         </div>
-        <div class="col-sm-5 design_school_mob">
+        <div class="col-lg-5 design_school_mob">
           <h4><span class="small_box"></span> Design School Presentation</h4>
           <p>
             You are very close to become the person of your dream by taking any
@@ -172,6 +172,7 @@ export default {
   right: 816px;
   width: 550px;
   height: 810px;
+  
 }
 
 .small_box{
@@ -180,7 +181,6 @@ export default {
 
 .youtube-video-section {
   height: 850px;
-  position: relative;
 }
 
 .swiper-button-next, .swiper-button-prev {
@@ -197,13 +197,13 @@ export default {
     color: var(--swiper-navigation-color,var(--swiper-theme-color)) !important;
 }
 
-.col-sm-5 h4 {
+.col-lg-5 h4 {
   color: #1207ab;
   font-weight: 600;
   font-size: 20px;
 }
 
-.col-sm-5 p {
+.col-lg-5 p {
   font-size: 18px;
   font-weight: 400;
   line-height: 1.7;
@@ -211,17 +211,17 @@ export default {
   padding-right: 90px;
 }
 
-.col-sm-5 {
+.col-lg-5 {
   align-self: center;
 }
 
-.col-sm-7 h5 {
+.col-lg-7 h5 {
   margin-top: 70px;
   font-size: 16px;
   font-weight: 500;
 }
 
-.col-sm-7 h3 {
+.col-lg-7 h3 {
   font-size: 37px;
   color: #1207ab;
   font-weight: 500;
@@ -248,13 +248,14 @@ export default {
   border-radius: 35px;
 }
 
-@media only screen and (max-width: 575px) {
+@media only screen and (max-width: 992px) {
   .mb-img{
     display: block;
     z-index: -1;
     position: absolute;
     padding: 0;
     height: 1080px;
+    right: 0px;
   }
   .design_school_mob, .slider_mob, .mob_text{
     display: block;
@@ -282,7 +283,7 @@ export default {
   }
 
 
-.col-sm-7 h5 {
+.col-lg-7 h5 {
   margin-top: 140px;
   
 }
@@ -310,7 +311,7 @@ export default {
   display: none;
 }
 
-.col-sm-5 p{
+.col-lg-5 p{
   padding: 0px;
   margin-top: 40px;
 }

@@ -13,8 +13,10 @@
 
       <div class="swiper">
         <div class="swiper-wrapper">
+          
+          
           <div class="swiper-slide">
-            <div class="row">
+            
               <div class="content-container">
                 <div class="test-img">
                   <img src="assets/images/testi.png" />
@@ -27,29 +29,11 @@
                   </h6>
                   <span>Dada Adepoju (UX/UI)</span>
                 </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="swiper-slide">
-            <div class="row">
-              <div class="content-container">
-                <div class="test-img">
-                  <img src="assets/images/testi.png" />
-                </div>
-                <div class="texts">
-                  <h6>
-                    You are very close to become the person of your dream by
-                    taking any of our online/offline tech track courses Read
-                    More
-                  </h6>
-                  <span>Dada Adepoju (UX/UI)</span>
-                </div>
-              </div>
+              
             </div>
           </div>
           <div class="swiper-slide">
-            <div class="row">
+            
               <div class="content-container">
                 <div class="test-img">
                   <img src="assets/images/testi.png" />
@@ -62,7 +46,24 @@
                   </h6>
                   <span>Dada Adepoju (UX/UI)</span>
                 </div>
-              </div>
+              
+            </div>
+          </div>
+          <div class="swiper-slide">
+            
+              <div class="content-container">
+                <div class="test-img">
+                  <img src="assets/images/testi.png" />
+                </div>
+                <div class="texts">
+                  <h6>
+                    You are very close to become the person of your dream by
+                    taking any of our online/offline tech track courses Read
+                    More
+                  </h6>
+                  <span>Dada Adepoju (UX/UI)</span>
+                </div>
+              
             </div>
           </div>
         </div>
@@ -77,7 +78,7 @@
   </div>
 </template>
 
-<script>
+<script scoped>
 import { Swiper, Navigation, Pagination, Autoplay } from "swiper";
 import "swiper/swiper-bundle.min.css";
 export default {
@@ -105,7 +106,7 @@ export default {
       },
       // Autoplay if needed
       autoplay: {
-        delay: 3000,
+        delay: 4000,
       },
 
       // Navigation arrows if needed
@@ -160,7 +161,7 @@ export default {
   border: 15px solid #1207ab;
   border-radius: 35px;
   background: #1207ab;
-  z-index: 17;
+  z-index: 0;
   width: 278px;
   position: absolute;
   right: 527px;
@@ -205,7 +206,7 @@ export default {
     border: 15px solid #1207ab;
     border-radius: 35px;
     background: #1207ab;
-    z-index: 17;
+    z-index: 0;
     width: 180px;
     position: absolute;
     right: 850px;
