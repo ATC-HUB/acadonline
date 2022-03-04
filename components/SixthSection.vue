@@ -106,9 +106,7 @@
               <!-- If pagination is needed -->
               <div class="swiper-pagination"></div>
 
-              <!-- If navigation buttons are needed -->
-              <div class="swiper-button-prev"></div>
-              <div class="swiper-button-next"></div>
+              
             </div>
           </div>
         </div>
@@ -124,7 +122,7 @@
   </div>
 </template>
 
-<script>
+<script scoped>
 import { Swiper, Navigation, Pagination } from "swiper";
 import "swiper/swiper-bundle.min.css";
 export default {

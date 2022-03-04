@@ -7,7 +7,7 @@
             <h4 class="text">Are You looking to train your team with Digital Skills?</h4>
             <p class="sm-text">A well trained personel is a guarantee for effective and efficient service delivery for optimum productivity. </p>
             <img src="assets/images/mobileClusterImages.png" class="mob-imgs" width="100%"/>
-            <img src="assets/images/mobileCircle.png" class="mob-circle-imgs img-fluid"/>
+            <!-- <img src="assets/images/mobileCircle.png" class="mob-circle-imgs img-fluid"/> -->
             <div class="btn-align-center">
             <button class="btn">Contact US</button>
             </div>
