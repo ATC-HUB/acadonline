@@ -250,15 +250,16 @@ export default {
     width: 250px;
   }
   .test-img {
-    border: 10px solid #1207ab;
-    border-radius: 30px;
+    border: 7px solid #1207ab;
+    border-radius: 20px;
     background: #1207ab;
-    z-index: 17;
-    width: 150px;
+    z-index: 1;
+    width: 140px;
     position: absolute;
-    right: 625px;
+    right: 63px;
     top: -100px;
   }
+
 
   .texts{
     font-size: 11px
