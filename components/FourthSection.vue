@@ -27,11 +27,13 @@ export default {
 </script>
 
 <style scoped>
-
-
+.cotainer{
+  background: #1207ab;
+    padding: 0px 50px;
+}
+    
 
 .add-top-bottom-margin{
-    background: #1207ab;
     margin-top: 40px;
     padding-bottom: 50px;
 }

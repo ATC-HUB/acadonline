@@ -167,9 +167,10 @@ export default {
 .b-img {
   z-index: -1;
   position: absolute;
-  right: 816px;
-  width: 550px;
+  width: 450px;
   height: 810px;
+  margin: 0px;
+  padding: 0px;
   
 }
 
@@ -247,6 +248,9 @@ export default {
 }
 
 @media only screen and (max-width: 992px) {
+  .b-img{
+    display: none;
+  }
   .mb-img{
     display: block;
     z-index: -1;

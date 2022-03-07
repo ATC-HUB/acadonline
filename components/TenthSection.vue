@@ -7,6 +7,10 @@
           <div class="swiper-wrapper">
             <div class="swiper-slide">
               <div class="row community container">
+                
+                                <img src="assets/images/community.png" width="100%"/>
+                <div class="gradient-overlay"></div>
+
               </div>
               <h6 class="text">
                 We Nuture and build the future Tech Giants in Africa
@@ -14,6 +18,9 @@
             </div>
             <div class="swiper-slide">
               <div class="row community container">
+                                <img src="assets/images/community.png" width="100%"/>
+                <div class="gradient-overlay"></div>
+
               </div>
               <h6 class="text">
                 We Nuture and build the future Tech Giants in Africa
@@ -21,6 +28,8 @@
             </div>
             <div class="swiper-slide">
               <div class="row community container">
+                <img src="assets/images/community.png" width="100%"/>
+                <div class="gradient-overlay"></div>
               </div>
               <h6 class="text">
                 We Nuture and build the future Tech Giants in Africa
@@ -84,15 +93,29 @@ export default {
 </script>
 
 <style scoped>
-.community {
-    background-image: linear-gradient(to top, rgb(0, 0, 0), rgba(0, 0, 0, 0)), url("static/assets/images/community.png");
+.row{
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
+.community{
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.gradient-overlay{
+    background-image: linear-gradient(to top, rgb(0, 0, 0), rgba(0, 0, 0, 0));
+    height: 100%;
+    position: absolute;
+    z-index: 1;
     border-radius: 35px;
-    width: 100%;
-    height: 51vw;
-    background-size: contain;
-    background-repeat: no-repeat ;
+    right: -40px;
+    margin-right: 40px;
+    margin-left: 40px;
+}
+.community {
+    border-radius: 35px;
     color: white;
-    padding: 20px;
+    height: 100%;
 }
 .main {
   justify-content: center;
@@ -104,14 +127,11 @@ export default {
   text-align: center;
 }
 
-.swiper {
-  height: fit-content;
-}
+
 .swiper-slide {
   align-items: center;
   display: flex;
   justify-content: center;
-  height: 100%;
 }
 
 
@@ -159,8 +179,8 @@ export default {
 
 @media screen and (min-width: 390px) and (max-width: 767px) {
   .swiper-slide h6{
-    padding-left: 20px;
-    padding-right: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
     padding-bottom: 200px;
     font-size: 25px
   }
@@ -168,14 +188,14 @@ export default {
 
 @media screen and (max-width: 389px) {
   .swiper-slide h6{
-    padding-left: 20px;
-    padding-right: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
     padding-bottom: 260px;
     font-size: 20px
   }
 
   .community{
-    height: 58vw;
+    height: 100%;
   }
 
 
