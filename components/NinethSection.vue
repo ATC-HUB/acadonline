@@ -1,5 +1,5 @@
 <template>
-    <div class="section download-section">
+    <div class="section">
         <div class="container">
             <div class="row">
             <div class="col-sm-6 f-section">
@@ -26,8 +26,9 @@ export default{
 </script>
 
 <style scoped>
-.download-section{
-    background-color: none !important;
+.section{
+    position: relative;
+    overflow: hidden;
 }
 .container{
   background: #1207ab;
