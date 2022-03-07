@@ -26,10 +26,12 @@ export default{
 </script>
 
 <style scoped>
-
-.cotainer{
+.download-section{
+    background-color: none !important;
+}
+.container{
   background: #1207ab;
-    padding: 0px 50px;
+    padding: 50px 50px;
 }
 
 .f-section{
@@ -67,6 +69,7 @@ export default{
 .img-section .img2{
     position: absolute;
     right: -70px;
+    top: -30px;
 }
 
 .main-title{
@@ -74,12 +77,8 @@ export default{
     font-size: 50px;
     font-weight: 600;
     line-height: 60px;
-    padding-top: 50px;
 }
 
-.download-section{
-    padding-top: 20px;
-    padding-bottom: 80px;}
 
 .search_f{
     width: 100%;
