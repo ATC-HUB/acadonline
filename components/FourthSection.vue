@@ -27,7 +27,7 @@ export default {
 </script>
 
 <style scoped>
-.cotainer{
+.container{
   background: #1207ab;
     padding: 0px 50px;
 }

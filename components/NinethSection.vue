@@ -26,6 +26,12 @@ export default{
 </script>
 
 <style scoped>
+
+.cotainer{
+  background: #1207ab;
+    padding: 0px 50px;
+}
+
 .f-section{
     justify-content: start;
     display: block;
