@@ -181,15 +181,8 @@ export default {
 
 .swiper-button-prev,
 .swiper-button-next {
-  border-radius: 50%;
-  border: 3px solid rgba(0, 0, 0, 0.6);
-  width: 50px !important;
-  height: 50px !important;
-}
 
-.swiper-button-prev::after,
-.swiper-button-next::after {
-  color: #00000099;
+  display: none;
 }
 
 @media screen and (min-width: 992px) and (max-width: 1200px) {
