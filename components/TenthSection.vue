@@ -6,10 +6,10 @@
         <div class="swiper">
           <div class="swiper-wrapper">
             <div class="swiper-slide">
-              <div class="row community container">
+              <div class=" community">
                 
-                                <img src="assets/images/community.png" width="100%"/>
-                <div class="gradient-overlay"></div>
+                                <img src="assets/images/community.png" class=" img_c" />
+                <img src="assets/images/communityoverlay.png" class="overlay_img "/>
 
               </div>
               <h6 class="text">
@@ -17,9 +17,9 @@
               </h6>
             </div>
             <div class="swiper-slide">
-              <div class="row community container">
-                                <img src="assets/images/community.png" width="100%"/>
-                <div class="gradient-overlay"></div>
+              <div class=" community">
+                <img src="assets/images/community.png" class=" img_c" />
+                <img src="assets/images/communityoverlay.png" class="overlay_img "/>
 
               </div>
               <h6 class="text">
@@ -27,9 +27,9 @@
               </h6>
             </div>
             <div class="swiper-slide">
-              <div class="row community container">
-                <img src="assets/images/community.png" width="100%"/>
-                <div class="gradient-overlay"></div>
+              <div class=" community">
+                <img src="assets/images/community.png" class=" img_c"/>
+                <img src="assets/images/communityoverlay.png" class="overlay_img "/>
               </div>
               <h6 class="text">
                 We Nuture and build the future Tech Giants in Africa
@@ -98,24 +98,23 @@ export default {
   padding-right: 0 !important;
 }
 
-.community{
-  margin-left: 20px;
-  margin-right: 20px;
-}
-.gradient-overlay{
-    background-image: linear-gradient(to top, rgb(0, 0, 0), rgba(0, 0, 0, 0));
-    height: 100%;
+
+.overlay_img{
+    /* background-image: linear-gradient(to top, rgb(0, 0, 0), rgba(0, 0, 0, 0)); */
     position: absolute;
     z-index: 1;
-    border-radius: 35px;
-    right: -40px;
-    margin-right: 40px;
-    margin-left: 40px;
+    right: 0px;
+    border-radius: 30px;
+    top: -5px;
 }
 .community {
-    border-radius: 35px;
+    border-radius: 30px;
     color: white;
     height: 100%;
+    box-sizing: content-box;
+    overflow: hidden;
+    position: relative;
+    margin: 0px 10px;
 }
 .main {
   justify-content: center;
@@ -192,10 +191,6 @@ export default {
     padding-right: 30px;
     padding-bottom: 260px;
     font-size: 20px
-  }
-
-  .community{
-    height: 100%;
   }
 
 
