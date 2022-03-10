@@ -13,7 +13,7 @@
             </div>
         </div>
         <div class="col-lg-6">
-            <img src="assets/images/clusterImages.png" class="mt-4 desk-imgs">
+            <img src="assets/images/clusterImages.png" class="desk-imgs"/>
         </div>
       </div>
     </div>
@@ -60,6 +60,7 @@ export default {
     border-radius: 10px;
     padding: 20px 60px;
     margin-top: 50px;
+    margin-bottom: 50px;
 }
 
 
@@ -71,6 +72,17 @@ export default {
 .mob-circle-imgs{
   display: none;
 }
+
+.desk-imgs{
+  margin: 20px 0px;
+  position: absolute;
+    right: -35px;
+}
+
+@media only screen and (min-width: 1200px){
+  .desk-imgs{
+    width: 83%;
+  }}
 
 @media only screen and (max-width: 992px){
   .desk-imgs{
