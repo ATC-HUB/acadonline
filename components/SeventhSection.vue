@@ -1,5 +1,5 @@
 <template>
-  <div class="section section-padding mt-n1">
+  <div class="section section-padding">
     <div class="container">
       <div class="section-title text-center">
         <h2 class="main-title">How It Work?</h2>
@@ -59,7 +59,7 @@ export default {
     color: #fff;
     border: 2px solid #fff;
     border-radius: 10px;
-    padding: 20px 60px;
+    padding: 20px 90px;
     margin-top: 50px;
     background: #150C21E5;
 }
@@ -136,6 +136,10 @@ export default {
 
 }
 
+.section-padding{
+  padding-top: 70px;
+  margin-top: 70px;
+}
 
 .step-mom{
   text-align: center;
@@ -153,6 +157,8 @@ export default {
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center;
+    margin-bottom: 50px;
+
 
 }
 .second-col{
@@ -164,6 +170,8 @@ export default {
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center;
+    margin-bottom: 50px;
+
 
 }
 .third-col{
@@ -178,8 +186,8 @@ export default {
 }
 
 .third-col h4{
-  padding-right: 40px;
-  padding-left: 40px;
+  padding-right: 60px;
+  padding-left: 60px;
 }
 .mom{
   display: grid;
