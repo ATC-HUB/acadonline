@@ -1,5 +1,5 @@
 <template>
-  <div class="section section-padding-02 mt-n1 mb-5">
+  <div class="section section-padding-02 mt-n1">
     <div class="container">
       <!-- Section Title Start -->
       <div class="section-title text-center">
@@ -150,6 +150,9 @@ export default {
   width: 100%;
   padding-left: 300px;
 }
+.swiper-pagination{
+    top: 390px
+  }
 .content-container span {
   border-top: 1px solid #000000;
   font-weight: 500;
@@ -192,6 +195,9 @@ export default {
 }
 
 @media screen and (max-width: 991px) {
+  .swiper-pagination{
+    top: 390px
+  }
   .texts {
     text-align: center;
   }
@@ -260,10 +266,20 @@ export default {
 
   .content-container h6 {
     font-size: 11px;
-  }
+    padding-top: 20px;
+    padding-bottom: 10px;
+    line-height: 1.5;
+}
+  .swiper {
+  height: 420px;
+}
 
   .swiper-button-prev, .swiper-button-next{
     display: none;
+  }
+
+  .swiper-pagination{
+    top: 300px
   }
 }
 </style>
