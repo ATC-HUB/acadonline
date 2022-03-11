@@ -1,8 +1,8 @@
 <template>
   <div
-    class="section section-padding-02 add-top-bottom-margin">
+    class="section add-top-bottom-margin">
     <div class="container">
-      <div class="row">
+      <div class="row pt-5">
         <div class="col-lg-6">
             <h4 class="text">Are You looking to train your team with Digital Skills?</h4>
             <p class="sm-text">A well trained personel is a guarantee for effective and efficient service delivery for optimum productivity. </p>
@@ -31,7 +31,11 @@ export default {
   background: #1207ab;
     padding: 0px 50px;
 }
-    
+
+.col-lg-6{
+      padding-left: 0px;
+    padding-right: 0px;
+}
 
 .add-top-bottom-margin{
     margin-top: 40px;
