@@ -2,7 +2,7 @@
     <div class="section">
         <div class="container">
             <div class="row">
-            <div class="col-sm-6 f-section">
+            <div class="col-lg-6 f-section">
                 <h2 class="main-title">Do you have any issue finding a course?</h2>
                 <div class="search_course">
                     <form action="#" class="search_f">
@@ -11,7 +11,7 @@
                     </form>
                 </div>
             </div>
-            <div class="col-sm-6 img-section">
+            <div class="col-lg-6 img-section">
                 <img src="assets/images/sm.png" class="img2">
             </div>
             </div>
@@ -80,7 +80,10 @@ export default{
     line-height: 60px;
 }
 
-
+.col-lg-6{
+    padding: 0px;
+    padding-top: 30px;
+}
 .search_f{
     width: 100%;
     display: flex;
@@ -112,7 +115,7 @@ export default{
     color: #fff;
 }
 
-@media only screen and (max-width: 575px) {
+@media only screen and (max-width: 992px) {
   .img-section{
       display: none;
   }
@@ -123,7 +126,6 @@ export default{
     font-weight: 500;
     line-height: 45px;
     padding-top: 0px;
-
 
 }
   }
