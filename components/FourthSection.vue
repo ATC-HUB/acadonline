@@ -127,4 +127,10 @@ export default {
     display: none;
   }
 }
+
+@media only screen and (max-width: 1440px){
+  .section{
+    background: #1207ab;
+  }
+}
 </style>
