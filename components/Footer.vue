@@ -2033,5 +2033,11 @@ footer .allRightReserved {
 body {
   background-color: #fff;
 }
+
+@media only screen and (max-width: 1440px){
+  .section{
+    background: #150c21;
+  }
+}
 /*# sourceMappingURL=atc.css.map */
 </style>
