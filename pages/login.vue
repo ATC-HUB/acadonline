@@ -1,5 +1,12 @@
 <template>
-
+<div class="main-wrapper">
+    <Header />
+    <MobileHeader />
+    
+    
+    <Footer />
+    <Backtotop />
+  </div>
     
 </template>
 
