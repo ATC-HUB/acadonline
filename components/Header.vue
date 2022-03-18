@@ -4,8 +4,8 @@
                 <div class="container">
                     <div class="header-main-wrapper">
                         <div class="header-logo">
-                            <a href="/index"><img src="assets/images/logo.png"  class="desk-logo" alt="Logo" width="168"></a>
-                            <a href="/index"><img src="assets/images/Vector.png" class="mob-logo" alt="Logo"></a>
+                            <NuxtLink to="/"><img src="assets/images/logo.png"  class="desk-logo" alt="Logo" width="168"></NuxtLink>
+                            <NuxtLink to="/"><img src="assets/images/Vector.png" class="mob-logo" alt="Logo"></NuxtLink>
                         </div>
                         <!-- Header Logo End -->
                         
@@ -27,12 +27,11 @@
                         <div class="header-sign-in-up d-none d-lg-block">
                             <ul>
                                 <li>
-                                    <a href="#all_courses">All Courses</a>
+                                    <NuxtLink to="/allcourses">All Courses</NuxtLink>
                                 </li>
-                            
-                                <li><a to="/contact">Contact us</a></li>
-                                <li><a class="sign-in" href="/login">Sign In</a></li>
-                                <li><a class="sign-up" href="/signup">Sign Up</a></li>
+                                <li><NuxtLink to="/contact">Contact us</NuxtLink></li>
+                                <li><NuxtLink to="/login">Sign In</NuxtLink></li>
+                                <li><NuxtLink to="/signup">Sign Up</NuxtLink></li>
                             </ul> 
                         </div>
                         <!-- Header Sing In & Up End -->

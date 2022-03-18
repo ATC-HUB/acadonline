@@ -3,7 +3,6 @@
     <Header />
     <MobileHeader />
     <div class="overlay"></div>
-    <div class="section page-banner"></div>
     <div class="section section-padding">
       <div class="container">
         <!-- Contact Wrapper Start -->
