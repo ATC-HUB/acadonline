@@ -12,7 +12,7 @@
                             <form action="/examples/actions/confirmation.php" method="post">
                                 <div class="signin-head">
                                   <h4 class="title" style="font-size: 25px;">LOGIN </h4>
-                                <span>Don't have an account yet? <a href="signup.html">Sign up</a></span>  
+                                <span>Don't have an account yet? <NuxtLink to="/signup">Sign up</NuxtLink></span>  
                                 </div>
                                 
                                 <div class="socials mt-5">
