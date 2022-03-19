@@ -46,7 +46,7 @@
                                     <button type="submit" class="btn signup-btn">SIGN UP</button>
                                 </div>
                             </form>
-                            <div class="text-center" style="margin-top: -20px;">Already have an account? <a href="signin.html" style="color: #1207ab">Login</a></div>
+                            <div class="text-center" style="margin-top: -20px;">Already have an account? <NuxtLink to="/login" style="color: #1207ab">Login</NuxtLink></div>
                         </div>
                         
                     </div>
