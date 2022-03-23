@@ -68,7 +68,7 @@
 
 </script>
 
-<style scope>
+<style scoped>
 
 .section{
   margin-top: 120px;
