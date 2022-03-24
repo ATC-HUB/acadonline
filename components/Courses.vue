@@ -1,18 +1,24 @@
 <template>
-    <div>
-        <div class="courses-tabs-menu courses-active">
-        <div class="swiper-container">
-          <CourseCategoryTabs />
-        </div>
-        <CourseTabsPaginator />
+  <div>
+    <div class="courses-tabs-menu courses-active">
+      <div class="swiper-container">
+        <CourseCategoryTabs />
       </div>
-
-      <Tabs />
+      <CourseTabsPaginator />
     </div>
+    <Tabs coursedata = coursedata />
+  </div>
 </template>
 
 <script>
-export default{
-    name: "Course"
-}
+
+import CourseData from "../data/CourseData.json";
+export default {
+  name: "Course",
+  data() {
+    return {
+      coursedata: CourseData,
+    }
+    },
+};
 </script>
