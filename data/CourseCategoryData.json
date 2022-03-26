@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "Data Science"
+    },
+    {
+        "id": 2,
+        "name": "UI/UX"
+    },
+    {
+        "id": 3,
+        "name": "Design"
+    },
+    {
+        "id": 4,
+        "name": "Machine Learning"
+    },
+    {
+        "id": 5,
+        "name": "Graphics"
+    }
+
+]

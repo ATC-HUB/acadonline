@@ -1,151 +1,270 @@
 [
   {
-    "category": "Data Science",
-    "courses": [
-      {
-        "id": 1,
-        "title": "Create Amazing Colour Scheme for Your UX Design Projects",
-        "description": "Create Amazing Colour Scheme for Your UX Design Projects Create Amazing Colour Scheme for Your UX Design Projects",
-        "imgPath": "assets/letters/lett-alpha.svg",
-        "rating": "",
-        "onlinePrice": "₦60,000",
-        "offlinePrice": "₦50,000"
-      },
-
-      {
-        "id": 2,
-        "title": "Create Amazing Colour Scheme for Your UX Design Projects",
-        "description": "Create Amazing Colour Scheme for Your UX Design Projects Create Amazing Colour Scheme for Your UX Design Projects",
-        "imgPath": "assets/letters/lett-alpha.svg",
-        "rating": "",
-        "onlinePrice": "₦60,000",
-        "offlinePrice": "₦50,000"
-      }
-    ]
+    "id": 1,
+    "title": "Create Amazing Colour Scheme for Your UX Design Projects",
+    "description": "Create Amazing Colour Scheme for Your UX Design Projects Create Amazing Colour Scheme for Your UX Design Projects",
+    "imgPath": "assets/images/courses/courseImg.png",
+    "rating": "",
+    "onlinePrice": "₦60,000",
+    "offlinePrice": "₦50,000",
+    "category": "Data Science"
   },
 
   {
-    "category": "Machine Learning",
-    "courses": [
-      {
-        "id": 1,
-        "title": "Create Amazing Colour Scheme for Your UX Design Projects",
-        "description": "Create Amazing Colour Scheme for Your UX Design Projects Create Amazing Colour Scheme for Your UX Design Projects",
-        "imgPath": "assets/letters/lett-alpha.svg",
-        "rating": "",
-        "onlinePrice": "₦60,000",
-        "offlinePrice": "₦50,000"
-      },
-
-      {
-        "id": 2,
-        "title": "Create Amazing Colour Scheme for Your UX Design Projects",
-        "description": "Create Amazing Colour Scheme for Your UX Design Projects Create Amazing Colour Scheme for Your UX Design Projects",
-        "imgPath": "assets/letters/lett-alpha.svg",
-        "rating": "",
-        "onlinePrice": "₦60,000",
-        "offlinePrice": "₦50,000"
-      }
-    ]
+    "id": 2,
+    "title": "Create Amazing Colour Scheme for Your UX Design Projects",
+    "description": "Create Amazing Colour Scheme for Your UX Design Projects Create Amazing Colour Scheme for Your UX Design Projects",
+    "imgPath": "assets/images/courses/courseImg.png",
+    "rating": "",
+    "onlinePrice": "₦60,000",
+    "offlinePrice": "₦50,000",
+    "category": "Data Science"
   },
 
   {
-    "category": "Design",
-    "courses": [
-      {
-        "id": 1,
-        "title": "Create Amazing Colour Scheme for Your UX Design Projects",
-        "description": "Create Amazing Colour Scheme for Your UX Design Projects Create Amazing Colour Scheme for Your UX Design Projects",
-        "imgPath": "assets/letters/lett-alpha.svg",
-        "rating": "",
-        "onlinePrice": "₦60,000",
-        "offlinePrice": "₦50,000"
-      },
-
-      {
-        "id": 2,
-        "title": "Create Amazing Colour Scheme for Your UX Design Projects",
-        "description": "Create Amazing Colour Scheme for Your UX Design Projects Create Amazing Colour Scheme for Your UX Design Projects",
-        "imgPath": "assets/letters/lett-alpha.svg",
-        "rating": "",
-        "onlinePrice": "₦60,000",
-        "offlinePrice": "₦50,000"
-      }
-    ]
+    "id": 3,
+    "title": "Create Amazing Colour Scheme for Your UX Design Projects",
+    "description": "Create Amazing Colour Scheme for Your UX Design Projects Create Amazing Colour Scheme for Your UX Design Projects",
+    "imgPath": "assets/images/courses/courseImg.png",
+    "rating": "",
+    "onlinePrice": "₦60,000",
+    "offlinePrice": "₦50,000",
+    "category": "Machine Learning"
   },
 
   {
-    "category": "Web Development",
-    "courses": [
-      {
-        "id": 1,
-        "title": "Create Amazing Colour Scheme for Your UX Design Projects",
-        "description": "Create Amazing Colour Scheme for Your UX Design Projects Create Amazing Colour Scheme for Your UX Design Projects",
-        "imgPath": "assets/letters/lett-alpha.svg",
-        "rating": "",
-        "onlinePrice": "₦60,000",
-        "offlinePrice": "₦50,000"
-      },
-
-      {
-        "id": 2,
-        "title": "Create Amazing Colour Scheme for Your UX Design Projects",
-        "description": "Create Amazing Colour Scheme for Your UX Design Projects Create Amazing Colour Scheme for Your UX Design Projects",
-        "imgPath": "assets/letters/lett-alpha.svg",
-        "rating": "",
-        "onlinePrice": "₦60,000",
-        "offlinePrice": "₦50,000"
-      }
-    ]
+    "id": 4,
+    "title": "Create Amazing Colour Scheme for Your UX Design Projects",
+    "description": "Create Amazing Colour Scheme for Your UX Design Projects Create Amazing Colour Scheme for Your UX Design Projects",
+    "imgPath": "assets/images/courses/courseImg.png",
+    "rating": "",
+    "onlinePrice": "₦60,000",
+    "offlinePrice": "₦50,000",
+    "category": "Machine Learning"
   },
 
   {
-    "category": "Data Analytics",
-    "courses": [
-      {
-        "id": 1,
-        "title": "Create Amazing Colour Scheme for Your UX Design Projects",
-        "description": "Create Amazing Colour Scheme for Your UX Design Projects Create Amazing Colour Scheme for Your UX Design Projects",
-        "imgPath": "assets/letters/lett-alpha.svg",
-        "rating": "",
-        "onlinePrice": "₦60,000",
-        "offlinePrice": "₦50,000"
-      },
-
-      {
-        "id": 2,
-        "title": "Create Amazing Colour Scheme for Your UX Design Projects",
-        "description": "Create Amazing Colour Scheme for Your UX Design Projects Create Amazing Colour Scheme for Your UX Design Projects",
-        "imgPath": "assets/letters/lett-alpha.svg",
-        "rating": "",
-        "onlinePrice": "₦60,000",
-        "offlinePrice": "₦50,000"
-      }
-    ]
+    "id": 5,
+    "title": "Create Amazing Colour Scheme for Your UX Design Projects",
+    "description": "Create Amazing Colour Scheme for Your UX Design Projects Create Amazing Colour Scheme for Your UX Design Projects",
+    "imgPath": "assets/images/courses/courseImg.png",
+    "rating": "",
+    "onlinePrice": "₦60,000",
+    "offlinePrice": "₦50,000",
+    "category": "Machine Learning"
   },
 
   {
-    "category": "Graphics",
-    "courses": [
-      {
-        "id": 1,
-        "title": "Create Amazing Colour Scheme for Your UX Design Projects",
-        "description": "Create Amazing Colour Scheme for Your UX Design Projects Create Amazing Colour Scheme for Your UX Design Projects",
-        "imgPath": "assets/letters/lett-alpha.svg",
-        "rating": "",
-        "onlinePrice": "₦60,000",
-        "offlinePrice": "₦50,000"
-      },
+    "id": 6,
+    "title": "Create Amazing Colour Scheme for Your UX Design Projects",
+    "description": "Create Amazing Colour Scheme for Your UX Design Projects Create Amazing Colour Scheme for Your UX Design Projects",
+    "imgPath": "assets/images/courses/courseImg.png",
+    "rating": "",
+    "onlinePrice": "₦60,000",
+    "offlinePrice": "₦50,000",
+    "category": "Machine Learning"
+  },
+  {
+    "id": 7,
+    "title": "Create Amazing Colour Scheme for Your UX Design Projects",
+    "description": "Create Amazing Colour Scheme for Your UX Design Projects Create Amazing Colour Scheme for Your UX Design Projects",
+    "imgPath": "assets/images/courses/courseImg.png",
+    "rating": "",
+    "onlinePrice": "₦60,000",
+    "offlinePrice": "₦50,000",
+    "category": "Web Development"
+  },
 
-      {
-        "id": 2,
-        "title": "Create Amazing Colour Scheme for Your UX Design Projects",
-        "description": "Create Amazing Colour Scheme for Your UX Design Projects Create Amazing Colour Scheme for Your UX Design Projects",
-        "imgPath": "assets/letters/lett-alpha.svg",
-        "rating": "",
-        "onlinePrice": "₦60,000",
-        "offlinePrice": "₦50,000"
-      }
-    ]
+  {
+    "id": 8,
+    "title": "Create Amazing Colour Scheme for Your UX Design Projects",
+    "description": "Create Amazing Colour Scheme for Your UX Design Projects Create Amazing Colour Scheme for Your UX Design Projects",
+    "imgPath": "assets/images/courses/courseImg.png",
+    "rating": "",
+    "onlinePrice": "₦60,000",
+    "offlinePrice": "₦50,000",
+    "category": "Web Development"
+  },
+  {
+    "id": 9,
+    "title": "Create Amazing Colour Scheme for Your UX Design Projects",
+    "description": "Create Amazing Colour Scheme for Your UX Design Projects Create Amazing Colour Scheme for Your UX Design Projects",
+    "imgPath": "assets/images/courses/courseImg.png",
+    "rating": "",
+    "onlinePrice": "₦60,000",
+    "offlinePrice": "₦50,000",
+    "category": "Web Development"
+  },
+
+  {
+    "id": 10,
+    "title": "Create Amazing Colour Scheme for Your UX Design Projects",
+    "description": "Create Amazing Colour Scheme for Your UX Design Projects Create Amazing Colour Scheme for Your UX Design Projects",
+    "imgPath": "assets/images/courses/courseImg.png",
+    "rating": "",
+    "onlinePrice": "₦60,000",
+    "offlinePrice": "₦50,000",
+    "category": "Web Development"
+  },
+  {
+    "id": 11,
+    "title": "Create Amazing Colour Scheme for Your UX Design Projects",
+    "description": "Create Amazing Colour Scheme for Your UX Design Projects Create Amazing Colour Scheme for Your UX Design Projects",
+    "imgPath": "assets/images/courses/courseImg.png",
+    "rating": "",
+    "onlinePrice": "₦60,000",
+    "offlinePrice": "₦50,000",
+    "category": "Web Development"
+  },
+
+  {
+    "id": 12,
+    "title": "Create Amazing Colour Scheme for Your UX Design Projects",
+    "description": "Create Amazing Colour Scheme for Your UX Design Projects Create Amazing Colour Scheme for Your UX Design Projects",
+    "imgPath": "assets/images/courses/courseImg.png",
+    "rating": "",
+    "onlinePrice": "₦60,000",
+    "offlinePrice": "₦50,000",
+    "category": "Web Development"
+  },
+  {
+    "id": 13,
+    "title": "Create Amazing Colour Scheme for Your UX Design Projects",
+    "description": "Create Amazing Colour Scheme for Your UX Design Projects Create Amazing Colour Scheme for Your UX Design Projects",
+    "imgPath": "assets/images/courses/courseImg.png",
+    "rating": "",
+    "onlinePrice": "₦60,000",
+    "offlinePrice": "₦50,000",
+    "category": "UI/UX"
+  },
+  {
+    "id": 14,
+    "title": "Create Amazing Colour Scheme for Your UX Design Projects",
+    "description": "Create Amazing Colour Scheme for Your UX Design Projects Create Amazing Colour Scheme for Your UX Design Projects",
+    "imgPath": "assets/images/courses/courseImg.png",
+    "rating": "",
+    "onlinePrice": "₦60,000",
+    "offlinePrice": "₦50,000",
+    "category": "UI/UX"
+  },
+  {
+    "id": 15,
+    "title": "Create Amazing Colour Scheme for Your UX Design Projects",
+    "description": "Create Amazing Colour Scheme for Your UX Design Projects Create Amazing Colour Scheme for Your UX Design Projects",
+    "imgPath": "assets/images/courses/courseImg.png",
+    "rating": "",
+    "onlinePrice": "₦60,000",
+    "offlinePrice": "₦50,000",
+    "category": "UI/UX"
+  },
+  {
+    "id": 16,
+    "title": "Create Amazing Colour Scheme for Your UX Design Projects",
+    "description": "Create Amazing Colour Scheme for Your UX Design Projects Create Amazing Colour Scheme for Your UX Design Projects",
+    "imgPath": "assets/images/courses/courseImg.png",
+    "rating": "",
+    "onlinePrice": "₦60,000",
+    "offlinePrice": "₦50,000",
+    "category": "UI/UX"
+  },
+  {
+    "id": 17,
+    "title": "Create Amazing Colour Scheme for Your UX Design Projects",
+    "description": "Create Amazing Colour Scheme for Your UX Design Projects Create Amazing Colour Scheme for Your UX Design Projects",
+    "imgPath": "assets/images/courses/courseImg.png",
+    "rating": "",
+    "onlinePrice": "₦60,000",
+    "offlinePrice": "₦50,000",
+    "category": "Graphics"
+  },
+  {
+    "id": 18,
+    "title": "Create Amazing Colour Scheme for Your UX Design Projects",
+    "description": "Create Amazing Colour Scheme for Your UX Design Projects Create Amazing Colour Scheme for Your UX Design Projects",
+    "imgPath": "assets/images/courses/courseImg.png",
+    "rating": "",
+    "onlinePrice": "₦60,000",
+    "offlinePrice": "₦50,000",
+    "category": "Graphics"
+  },
+  {
+    "id": 19,
+    "title": "Create Amazing Colour Scheme for Your UX Design Projects",
+    "description": "Create Amazing Colour Scheme for Your UX Design Projects Create Amazing Colour Scheme for Your UX Design Projects",
+    "imgPath": "assets/images/courses/courseImg.png",
+    "rating": "",
+    "onlinePrice": "₦60,000",
+    "offlinePrice": "₦50,000",
+    "category": "Graphics"
+  },
+  {
+    "id": 20,
+    "title": "Create Amazing Colour Scheme for Your UX Design Projects",
+    "description": "Create Amazing Colour Scheme for Your UX Design Projects Create Amazing Colour Scheme for Your UX Design Projects",
+    "imgPath": "assets/images/courses/courseImg.png",
+    "rating": "",
+    "onlinePrice": "₦60,000",
+    "offlinePrice": "₦50,000",
+    "category": "Graphics"
+  },
+  {
+    "id": 21,
+    "title": "Create Amazing Colour Scheme for Your UX Design Projects",
+    "description": "Create Amazing Colour Scheme for Your UX Design Projects Create Amazing Colour Scheme for Your UX Design Projects",
+    "imgPath": "assets/images/courses/courseImg.png",
+    "rating": "",
+    "onlinePrice": "₦60,000",
+    "offlinePrice": "₦50,000",
+    "category": "Graphics"
+  },
+  {
+    "id": 22,
+    "title": "Create Amazing Colour Scheme for Your UX Design Projects",
+    "description": "Create Amazing Colour Scheme for Your UX Design Projects Create Amazing Colour Scheme for Your UX Design Projects",
+    "imgPath": "assets/images/courses/courseImg.png",
+    "rating": "",
+    "onlinePrice": "₦60,000",
+    "offlinePrice": "₦50,000",
+    "category": "Design"
+  },
+  {
+    "id": 23,
+    "title": "Create Amazing Colour Scheme for Your UX Design Projects",
+    "description": "Create Amazing Colour Scheme for Your UX Design Projects Create Amazing Colour Scheme for Your UX Design Projects",
+    "imgPath": "assets/images/courses/courseImg.png",
+    "rating": "",
+    "onlinePrice": "₦60,000",
+    "offlinePrice": "₦50,000",
+    "category": "Design"
+  },
+  {
+    "id": 24,
+    "title": "Create Amazing Colour Scheme for Your UX Design Projects",
+    "description": "Create Amazing Colour Scheme for Your UX Design Projects Create Amazing Colour Scheme for Your UX Design Projects",
+    "imgPath": "assets/images/courses/courseImg.png",
+    "rating": "",
+    "onlinePrice": "₦60,000",
+    "offlinePrice": "₦50,000",
+    "category": "Design"
+  },
+  {
+    "id": 25,
+    "title": "Create Amazing Colour Scheme for Your UX Design Projects",
+    "description": "Create Amazing Colour Scheme for Your UX Design Projects Create Amazing Colour Scheme for Your UX Design Projects",
+    "imgPath": "assets/images/courses/courseImg.png",
+    "rating": "",
+    "onlinePrice": "₦60,000",
+    "offlinePrice": "₦50,000",
+    "category": "Design"
+  },
+  {
+    "id": 26,
+    "title": "Create Amazing Colour Scheme for Your UX Design Projects",
+    "description": "Create Amazing Colour Scheme for Your UX Design Projects Create Amazing Colour Scheme for Your UX Design Projects",
+    "imgPath": "assets/images/courses/courseImg.png",
+    "rating": "",
+    "onlinePrice": "₦60,000",
+    "offlinePrice": "₦50,000",
+    "category": "Design"
   }
 ]
