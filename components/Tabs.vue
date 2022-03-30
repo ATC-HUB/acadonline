@@ -1,6 +1,6 @@
 <template>
     <div class="tab-content courses-tab-content">
-        <div v-for="coursetab in coursedata" :key="coursetab" class="tab-pane fade show active" :id="`#${coursetab}`">
+        <div v-for="coursetab in TabsCategories" :key="coursetab.id" class="tab-pane fade active" :id="`${coursetab.name}`">
           <!-- All Courses Wrapper Start -->
           <div class="courses-wrapper">
             
@@ -12,10 +12,13 @@
 </template>
 
 <script>
-export default{
-    name: "Tabs",
-    props: {
-        coursedata: String
-    }
-}
+import CourseCategoryData from "../data/CourseCategoryData.json";
+export default {
+  name: "Tabs",
+  data() {
+    return {
+      TabsCategories: CourseCategoryData,
+    };
+  },
+};
 </script>

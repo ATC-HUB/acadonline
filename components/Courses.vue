@@ -6,7 +6,7 @@
       </div>
       <CourseTabsPaginator />
     </div>
-    <Tabs coursedata = coursedata />
+    <Tabs />
   </div>
 </template>
 
