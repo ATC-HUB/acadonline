@@ -12,13 +12,7 @@
 
 <script>
 
-import CourseData from "../data/CourseData.json";
 export default {
   name: "Course",
-  data() {
-    return {
-      coursedata: CourseData,
-    }
-    },
 };
 </script>

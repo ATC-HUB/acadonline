@@ -2,27 +2,27 @@
   <ul class="swiper-wrapper nav">
     <li
       v-for="coursecategory in categories"
-      :key="coursecategory.id"
+      :key="coursecategory"
       class="swiper-slide"
     >
       <button
         class=""
         data-bs-toggle="tab"
-        :data-bs-target="`#${coursecategory.name}`"
+        :data-bs-target="`#${coursecategory.category}`"
       >
-        {{ coursecategory.name }}
+        {{ coursecategory.category }}
       </button>
     </li>
   </ul>
 </template>
 
 <script>
-import CourseCategoryData from "../data/CourseCategoryData.json";
+import CourseData from "../data/CourseData.json";
 export default {
   name: "CourseCategoryTabs",
   data() {
     return {
-      categories: CourseCategoryData,
+      categories: CourseData,
     };
   },
 };
