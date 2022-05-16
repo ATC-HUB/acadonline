@@ -5,7 +5,7 @@
     <div class="single-courses">
       <div class="courses-images">
         <a href="#"
-          ><img src="assets/images/courses/courseImg.png" alt="Courses"
+          ><img src="assets/images/courses/allcourses.png" alt="Courses"
         /></a>
       </div>
       <div class="courses-content">
@@ -44,7 +44,7 @@
     <div class="single-courses">
       <div class="courses-images">
         <a href="#"
-          ><img src="assets/images/courses/courseImg.png" alt="Courses"
+          ><img src="assets/images/courses/allcourses.png" alt="Courses"
         /></a>
       </div>
       <div class="courses-content">
@@ -83,7 +83,7 @@
     <div class="single-courses">
       <div class="courses-images">
         <a href="#"
-          ><img src="assets/images/courses/courseImg.png" alt="Courses"
+          ><img src="assets/images/courses/allcourses.png" alt="Courses"
         /></a>
       </div>
       <div class="courses-content">
@@ -122,7 +122,7 @@
     <div class="single-courses">
       <div class="courses-images">
         <a href="#"
-          ><img src="assets/images/courses/courseImg.png" alt="Courses"
+          ><img src="assets/images/courses/allcourses.png" alt="Courses"
         /></a>
       </div>
       <div class="courses-content">

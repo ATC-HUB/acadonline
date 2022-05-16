@@ -5,6 +5,7 @@
           <div class="courses-wrapper">
             
               <CourseCard />
+               
           </div>
           <!-- All Courses Wrapper End -->
         </div>

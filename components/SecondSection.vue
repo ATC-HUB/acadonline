@@ -1,140 +1,83 @@
 <template>
   <div class="section">
     <div class="container">
-      <div class="row desk">
-        <div class="col-3 columns">
-          <img src="assets/images/slider/img4.png" class="imgs" />
-        </div>
-        <div class="col-3 columns">
-          <img src="assets/images/slider/img1.png" class="imgs" />
-        </div>
-        <div class="col-3 columns">
-          <img src="assets/images/slider/img2.png" class="imgs" />
-        </div>
-        <div class="col-3 columns">
-          <img src="assets/images/slider/img3.png" class="imgs" />
-        </div>
-      </div>
-      <div class="row mob">
-        <h6 class="texts">
-          At ATC academy, we are here to support your dreams, and help you
-          become Masters in your chosen career path. Our instructors will train,
-          coach and mentor you.
-        </h6>
-      </div>
-
       <div class="row brands-i">
         <div class="col-md-2 brands-i-items">
-          <img src="assets/images/brand/image 8.png" />
+          <img src="assets/images/brand/image 29.png" />
         </div>
         <div class="col-md-2 brands-i-items">
-          <img src="assets/images/brand/image 9.png" />
+          <img src="assets/images/brand/image 32.png" />
         </div>
         <div class="col-md-2 brands-i-items">
-          <img src="assets/images/brand/image 10.png" />
+          <img src="assets/images/brand/image 31.png" />
         </div>
         <div class="col-md-2 brands-i-items">
-          <img src="assets/images/brand/image 11.png" />
+          <img src="assets/images/brand/image 28.png" />
         </div>
         <div class="col-md-2 brands-i-items">
-          <img src="assets/images/brand/image 12.png" />
+          <img src="assets/images/brand/image 33.png" />
         </div>
         <div class="col-md-2 brands-i-items">
-          <img src="assets/images/brand/image 13.png" />
+          <img src="assets/images/brand/image 30.png" />
         </div>
       </div>
       <div class="row brands">
         <div class="col-md-2 brand-item">
-          <img src="assets/images/brand/Matplotlib.png" />
+          <img src="assets/images/brand/ISPN.png" />
         </div>
         <div class="col-md-2 brand-item">
-          <img src="assets/images/brand/Adobe.png" />
+          <img src="assets/images/brand/IOSH.png" />
         </div>
         <div class="col-md-2 brand-item">
-          <img src="assets/images/brand/Anaconda.png" />
+          <img src="assets/images/brand/AMBIOSH.png" />
         </div>
         <div class="col-md-2 brand-item">
-          <img src="assets/images/brand/Facebook.png" />
+          <img src="assets/images/brand/exemp.png" />
         </div>
         <div class="col-md-2 brand-item">
-          <img src="assets/images/brand/Django.png" />
+          <img src="assets/images/brand/ISO.png" />
         </div>
         <div class="col-md-2 brand-item">
-          <img src="assets/images/brand/Figma.png" />
+          <img src="assets/images/brand/GRS.png" />
         </div>
-      </div>
-      <div class="row brands">
-        <div class="col-md-2 brand-item">
-          <img src="assets/images/brand/Tableu.png" />
-        </div>
-        <div class="col-md-2 brand-item">
-          <img src="assets/images/brand/Vs code.png" />
-        </div>
-        <div class="col-md-2 brand-item">
-          <img src="assets/images/brand/R studio.png" />
-        </div>
-        <div class="col-md-2 brand-item">
-          <img src="assets/images/brand/Laravel.png" />
-        </div>
-        
-        <div class="col-md-4 brand-item">
-          <img src="assets/images/brand/Creative cloud.png" />
-        </div>
-        
       </div>
 
       <div class="row mobile-brands">
         <div class="col-4 brand-item">
-          <img src="assets/images/brand/image 8.png"/>
+        <img src="assets/images/brand/image 29.png" />
         </div>
         <div class="col-4 brand-item">
-          <img src="assets/images/brand/image 9.png"/>
+          <img src="assets/images/brand/image 32.png" />
         </div>
         <div class="col-4 brand-item">
-          <img src="assets/images/brand/image 10.png"/>
+           <img src="assets/images/brand/image 31.png" />
         </div>
         <div class="col-4 brand-item">
-          <img src="assets/images/brand/image 11.png"/>
+           <img src="assets/images/brand/image 28.png" />
         </div>
         <div class="col-4 brand-item">
-          <img src="assets/images/brand/image 12.png"/>
+              <img src="assets/images/brand/image 33.png" />
         </div>
         <div class="col-4 brand-item">
-          <img src="assets/images/brand/image 13.png"/>
+          <img src="assets/images/brand/image 30.png" />
         </div>
         <div class="col-4 brand-item">
-          <img src="assets/images/brand/Matplotlib.png"/>
+         <img src="assets/images/brand/ISPN.png" />
         </div>
         <div class="col-4 brand-item">
-          <img src="assets/images/brand/Adobe.png"/>
+          <img src="assets/images/brand/IOSH.png" />
         </div>
         <div class="col-4 brand-item">
-          <img src="assets/images/brand/Anaconda.png"/>
+          <img src="assets/images/brand/AMBIOSH.png" />
         </div>
         <div class="col-4 brand-item">
-          <img src="assets/images/brand/Facebook.png"/>
+            <img src="assets/images/brand/exemp.png" />
         </div>
         <div class="col-4 brand-item">
-          <img src="assets/images/brand/Creative cloud.png"/>
+           <img src="assets/images/brand/ISO.png" />
         </div>
         <div class="col-4 brand-item">
-          <img src="assets/images/brand/Tableu.png"/>
-        </div>
-        <div class="col-4 brand-item">
-          <img src="assets/images/brand/Vs code.png"/>
-        </div>
-        <div class="col-4 brand-item">
-          <img src="assets/images/brand/R studio.png"/>
-        </div>
-        <div class="col-4 brand-item">
-          <img src="assets/images/brand/Laravel.png"/>
-        </div>
-        
-        <div class="col-4 brand-item">
-          <img src="assets/images/brand/Django.png"/>
-        </div>
-        <div class="col-4 brand-item">
-          <img src="assets/images/brand/Figma.png"/>
+            <img src="assets/images/brand/GRS.png" />
         </div>
       </div>
       

@@ -4,7 +4,6 @@
             <MobileHeader />
         <div class="overlay"></div>
             <FirstSection />
-            <SecondSection />
             <ThirdSection />
             <FourthSection />
             <FifthSection />
@@ -12,7 +11,7 @@
             <SeventhSection />
             <EightSection />
             <NinethSection />
-            <TenthSection />
+          
             <Footer />
             <Backtotop />
 

@@ -1,27 +1,23 @@
 [
     {
         "id": 1,
-        "name": "Data Science"
+        "name": "UX/UI Design"
     },
     {
         "id": 2,
-        "name": "UI/UX"
+        "name": "Development"
     },
     {
         "id": 3,
-        "name": "Design"
+        "name": "Data Science"
     },
     {
         "id": 4,
-        "name": "Machine Learning"
+        "name": "Business"
     },
     {
         "id": 5,
-        "name": "Graphics"
-    },
-    {
-        "id": 6,
-        "name": "Data Analytics"
+        "name": "Financial"
     }
 
 ]

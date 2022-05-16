@@ -3,14 +3,15 @@
     <div class="container">
       <div class="row desk">
         <h3 class="big-texts">
-          Start learning from anywhere, get empowered with job on demand skills
+         Are you looking to become a qualified QHSE Professional in shortest time possible?
         </h3>
         <h6 class="sm-texts">
-          You are very close to becoming the person of your dream. Kindly check
-          from the available course below and register for any of our
-          online/offline tech track courses.
+          You are very close to becoming the person of your dream.
+Kindly check from the available courses below and register your preference 
         </h6>
+        <SecondSection />
       </div>
+      
       <Courses />
     </div>
 
@@ -26,6 +27,7 @@
           <li class="page-item"><a class="page-link" href="#">1</a></li>
           <li class="page-item"><a class="page-link" href="#">2</a></li>
           <li class="page-item"><a class="page-link" href="#">3</a></li>
+          <li class="page-item"><a class="page-link" href="#">15</a></li>
           <li class="page-item"><a class="page-link" href="#">Next</a></li>
         </ul>
       </nav>

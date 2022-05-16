@@ -1,16 +1,18 @@
 <template>
-  <div class="section slider-section">
+  <div class="section sec1 slider-section">
     <div class="container">
       <div class="slider-content">
-        <h2 class="main-title">
-          It's time to learn and acquire digital Tech skills.
+        <h2 class="title">
+          Quality Health Safety and
+Environmental Professional
         </h2>
         <br />
         <h6 class="sub-title">
-          Acquire the 21st century skills so as to improve your relevance and
-          employability in this ever changing world.
+          ATC is a training centre for professionals, students and companies. 
+          We are certified by professional bodies such as AMBIOSH, NEBOSH, IOSH, AOSH etc
+
         </h6>
-        <a class="btn btn-hover-dark" href="#">Get Started</a>
+        <a class="btn btn-hover-dark" href="#">Get Started with us</a>
       </div>
     </div>
     <div class="slider-images">
@@ -59,6 +61,11 @@ export default {
     line-height: 1.7;
     font-weight: 400;
   }
+  
+}
+.sec1{
+  background: #11088A ;
+
 }
 
 </style>
