@@ -6,7 +6,7 @@
         <div class="col-lg-6">
             <h4 class="text">We deliver and consult on Quality Health safety and Environment services across the globe.</h4>
             <p class="sm-text">You are very close to becoming the person of your dream
-by taking any of our online/offline QHSE Courses. </p>
+by taking any of our online/offline QHSE Courses </p>
             <img src="assets/images/mobileClusterImages.png" class="mob-imgs" width="100%"/>
             <!-- <img src="assets/images/mobileCircle.png" class="mob-circle-imgs img-fluid"/> -->
             <div class="btn-align-center">
